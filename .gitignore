@@ -1,0 +1,11 @@
+# Only the chart images, their index.csv and README.md are published.
+# Raw market data, caches and build artifacts stay local.
+*_charts/m1/
+*_charts/ticks/
+*_charts/histdata/
+*_charts/ff_cache/
+*_charts/__pycache__/
+*.zip
+*.py
+*.json
+*.txt

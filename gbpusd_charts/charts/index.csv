@@ -1,0 +1,1021 @@
+families,chart_type,local_date,weekday,local_time,event,currency,source,utc_time,file,folders,window_bars,missing_minutes,available
+BOE_FSR,single,2016-11-30,Wednesday,07:00,Bank Stress Test Results,GBP,Bank of England,2016-11-30 07:00,GBPUSD_20161130_GBP_Bank_Stress_Test_Results_M1.png,charts/BOE_FSR,184,0,yes
+BOE_FSR,single,2017-06-27,Tuesday,10:30,BOE Financial Stability Report,GBP,Bank of England,2017-06-27 09:30,GBPUSD_20170627_GBP_BOE_Financial_Stability_Report_M1.png,charts/BOE_FSR,184,0,yes
+BOE_FSR,single,2017-11-28,Tuesday,07:00,Bank Stress Test Results,GBP,Bank of England,2017-11-28 07:00,GBPUSD_20171128_GBP_Bank_Stress_Test_Results_M1.png,charts/BOE_FSR,184,0,yes
+BOE_FSR,single,2018-11-28,Wednesday,16:40,Bank Stress Test Results,GBP,Bank of England,2018-11-28 16:40,GBPUSD_20181128_GBP_Bank_Stress_Test_Results_M1.png,charts/BOE_FSR,184,0,yes
+BOE_FSR,single,2019-12-16,Monday,17:00,Bank Stress Test Results,GBP,Bank of England,2019-12-16 17:00,GBPUSD_20191216_GBP_Bank_Stress_Test_Results_M1.png,charts/BOE_FSR,184,0,yes
+BOE_FSR,single,2021-12-13,Monday,17:00,Bank Stress Test Results,GBP,Bank of England,2021-12-13 17:00,GBPUSD_20211213_GBP_Bank_Stress_Test_Results_M1.png,charts/BOE_FSR,184,0,yes
+BOE_MPS+BOE_QF+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2021-02-04,Thursday,12:00,BOE Monetary Policy Report + Asset Purchase Facility + MPC Asset Purchase Facility Votes + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2021-02-04 12:00,GBPUSD_20210204_GBP_BOE_MPS+BOE_QF+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_QF;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_QF+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2021-11-04,Thursday,12:00,BOE Monetary Policy Report + Asset Purchase Facility + MPC Asset Purchase Facility Votes + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2021-11-04 12:00,GBPUSD_20211104_GBP_BOE_MPS+BOE_QF+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_QF;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_QF+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2022-02-03,Thursday,12:00,BOE Monetary Policy Report + Asset Purchase Facility + MPC Asset Purchase Facility Votes + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2022-02-03 12:00,GBPUSD_20220203_GBP_BOE_MPS+BOE_QF+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_QF;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_QF+BOE_STMT,joint,2020-11-05,Thursday,07:00,BOE Monetary Policy Report + Asset Purchase Facility + MPC Asset Purchase Facility Votes + Monetary Policy Summary,GBP,Bank of England,2020-11-05 07:00,GBPUSD_20201105_GBP_BOE_MPS+BOE_QF+BOE_STMT_M1.png,charts/BOE_MPS;charts/BOE_QF;charts/BOE_STMT,184,0,yes
+BOE_MPS+BOE_QF+BOE_STMT,joint,2021-05-06,Thursday,12:00,BOE Monetary Policy Report + Asset Purchase Facility + MPC Asset Purchase Facility Votes + Monetary Policy Summary,GBP,Bank of England,2021-05-06 11:00,GBPUSD_20210506_GBP_BOE_MPS+BOE_QF+BOE_STMT_M1.png,charts/BOE_MPS;charts/BOE_QF;charts/BOE_STMT,184,0,yes
+BOE_MPS+BOE_QF+BOE_STMT,joint,2021-08-05,Thursday,12:00,BOE Monetary Policy Report + Asset Purchase Facility + MPC Asset Purchase Facility Votes + Monetary Policy Summary,GBP,Bank of England,2021-08-05 11:00,GBPUSD_20210805_GBP_BOE_MPS+BOE_QF+BOE_STMT_M1.png,charts/BOE_MPS;charts/BOE_QF;charts/BOE_STMT,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2016-02-04,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2016-02-04 12:00,GBPUSD_20160204_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2016-05-12,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2016-05-12 11:00,GBPUSD_20160512_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2016-08-04,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2016-08-04 11:00,GBPUSD_20160804_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2016-11-03,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2016-11-03 12:00,GBPUSD_20161103_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2017-02-02,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2017-02-02 12:00,GBPUSD_20170202_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2017-05-11,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2017-05-11 11:00,GBPUSD_20170511_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2017-08-03,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2017-08-03 11:00,GBPUSD_20170803_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2017-11-02,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2017-11-02 12:00,GBPUSD_20171102_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2018-02-08,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2018-02-08 12:00,GBPUSD_20180208_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2018-05-10,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2018-05-10 11:00,GBPUSD_20180510_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2018-08-02,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2018-08-02 11:00,GBPUSD_20180802_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2019-05-02,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2019-05-02 11:00,GBPUSD_20190502_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2019-08-01,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2019-08-01 11:00,GBPUSD_20190801_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2020-01-30,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2020-01-30 12:00,GBPUSD_20200130_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2020-05-07,Thursday,07:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2020-05-07 06:00,GBPUSD_20200507_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2020-08-06,Thursday,07:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2020-08-06 06:00,GBPUSD_20200806_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2022-05-05,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2022-05-05 11:00,GBPUSD_20220505_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2022-08-04,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2022-08-04 11:00,GBPUSD_20220804_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2022-11-03,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2022-11-03 12:00,GBPUSD_20221103_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2023-02-02,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2023-02-02 12:00,GBPUSD_20230202_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2023-05-11,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2023-05-11 11:00,GBPUSD_20230511_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2023-08-03,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2023-08-03 11:00,GBPUSD_20230803_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2023-11-02,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2023-11-02 12:00,GBPUSD_20231102_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2024-02-01,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2024-02-01 12:00,GBPUSD_20240201_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2024-05-09,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2024-05-09 11:00,GBPUSD_20240509_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2024-08-01,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2024-08-01 11:00,GBPUSD_20240801_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2024-11-07,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2024-11-07 12:00,GBPUSD_20241107_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2025-02-06,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2025-02-06 12:00,GBPUSD_20250206_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2025-05-08,Thursday,12:02,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2025-05-08 11:02,GBPUSD_20250508_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2025-08-07,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2025-08-07 11:00,GBPUSD_20250807_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2025-11-06,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2025-11-06 12:00,GBPUSD_20251106_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2026-02-05,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2026-02-05 12:00,GBPUSD_20260205_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2026-04-30,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2026-04-30 11:00,GBPUSD_20260430_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2026-07-30,Thursday,12:00,BOE Monetary Policy Report + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2026-07-30 11:00,GBPUSD_20260730_GBP_BOE_MPS+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_STMT+BOE_VOTES,joint,2018-11-01,Thursday,12:00,BOE Monetary Policy Report + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2018-11-01 12:00,GBPUSD_20181101_GBP_BOE_MPS+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_STMT+BOE_VOTES,joint,2019-02-07,Thursday,12:00,BOE Monetary Policy Report + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2019-02-07 12:00,GBPUSD_20190207_GBP_BOE_MPS+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_MPS+BOE_STMT+BOE_VOTES,joint,2019-11-07,Thursday,12:00,BOE Monetary Policy Report + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2019-11-07 12:00,GBPUSD_20191107_GBP_BOE_MPS+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_MPS;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_QF,single,2020-06-18,Thursday,12:02,MPC Asset Purchase Facility Votes,GBP,Bank of England,2020-06-18 11:02,GBPUSD_20200618_GBP_MPC_Asset_Purchase_Facility_Votes_M1.png,charts/BOE_QF,184,0,yes
+BOE_QF+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2020-06-18,Thursday,12:00,Asset Purchase Facility + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2020-06-18 11:00,GBPUSD_20200618_GBP_BOE_QF+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_QF;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_QF+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2021-12-16,Thursday,12:00,Asset Purchase Facility + MPC Asset Purchase Facility Votes + Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2021-12-16 12:00,GBPUSD_20211216_GBP_BOE_QF+BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_QF;charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_QF+BOE_STMT,joint,2021-06-24,Thursday,12:00,Asset Purchase Facility + MPC Asset Purchase Facility Votes + Monetary Policy Summary,GBP,Bank of England,2021-06-24 11:00,GBPUSD_20210624_GBP_BOE_QF+BOE_STMT_M1.png,charts/BOE_QF;charts/BOE_STMT,184,0,yes
+BOE_QF+BOE_STMT,joint,2021-09-23,Thursday,12:00,Asset Purchase Facility + MPC Asset Purchase Facility Votes + Monetary Policy Summary,GBP,Bank of England,2021-09-23 11:00,GBPUSD_20210923_GBP_BOE_QF+BOE_STMT_M1.png,charts/BOE_QF;charts/BOE_STMT,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2016-01-14,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2016-01-14 12:00,GBPUSD_20160114_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2016-03-17,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2016-03-17 12:00,GBPUSD_20160317_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2016-04-14,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2016-04-14 11:00,GBPUSD_20160414_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2016-06-16,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2016-06-16 11:00,GBPUSD_20160616_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2016-07-14,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2016-07-14 11:00,GBPUSD_20160714_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2016-09-15,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2016-09-15 11:00,GBPUSD_20160915_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2016-12-15,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2016-12-15 12:00,GBPUSD_20161215_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2017-03-16,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2017-03-16 12:00,GBPUSD_20170316_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2017-06-15,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2017-06-15 11:00,GBPUSD_20170615_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2017-09-14,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2017-09-14 11:00,GBPUSD_20170914_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2017-12-14,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2017-12-14 12:00,GBPUSD_20171214_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2018-03-22,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2018-03-22 12:00,GBPUSD_20180322_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2018-06-21,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2018-06-21 11:00,GBPUSD_20180621_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2019-03-21,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2019-03-21 12:00,GBPUSD_20190321_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2019-06-20,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2019-06-20 11:00,GBPUSD_20190620_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2019-09-19,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2019-09-19 11:00,GBPUSD_20190919_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2020-03-11,Wednesday,07:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2020-03-11 07:00,GBPUSD_20200311_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2020-03-19,Thursday,14:30,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2020-03-19 14:30,GBPUSD_20200319_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2020-03-26,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2020-03-26 12:00,GBPUSD_20200326_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2020-09-17,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2020-09-17 11:00,GBPUSD_20200917_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2020-12-17,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2020-12-17 12:00,GBPUSD_20201217_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2021-03-18,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2021-03-18 12:00,GBPUSD_20210318_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2022-03-17,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2022-03-17 12:00,GBPUSD_20220317_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2022-06-16,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2022-06-16 11:00,GBPUSD_20220616_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2022-09-22,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2022-09-22 11:00,GBPUSD_20220922_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2022-12-15,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2022-12-15 12:00,GBPUSD_20221215_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2023-03-23,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2023-03-23 12:00,GBPUSD_20230323_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2023-06-22,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2023-06-22 11:00,GBPUSD_20230622_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2023-09-21,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2023-09-21 11:00,GBPUSD_20230921_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2023-12-14,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2023-12-14 12:00,GBPUSD_20231214_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2024-03-21,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2024-03-21 12:00,GBPUSD_20240321_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2024-06-20,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2024-06-20 11:00,GBPUSD_20240620_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2024-09-19,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2024-09-19 11:00,GBPUSD_20240919_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2024-12-19,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2024-12-19 12:00,GBPUSD_20241219_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2025-03-20,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2025-03-20 12:00,GBPUSD_20250320_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2025-06-19,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2025-06-19 11:00,GBPUSD_20250619_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2025-09-18,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2025-09-18 11:00,GBPUSD_20250918_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2025-12-18,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2025-12-18 12:00,GBPUSD_20251218_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2026-03-19,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2026-03-19 12:00,GBPUSD_20260319_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2026-06-18,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2026-06-18 11:00,GBPUSD_20260618_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_RATE+BOE_STMT+BOE_VOTES,joint,2026-09-17,Thursday,12:00,Official Bank Rate + Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2026-09-17 11:00,GBPUSD_20260917_GBP_BOE_RATE+BOE_STMT+BOE_VOTES_M1.png,charts/BOE_RATE;charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_STMT+BOE_VOTES,joint,2018-09-13,Thursday,12:00,Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2018-09-13 11:00,GBPUSD_20180913_GBP_BOE_STMT+BOE_VOTES_M1.png,charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_STMT+BOE_VOTES,joint,2018-12-20,Thursday,12:00,Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2018-12-20 12:00,GBPUSD_20181220_GBP_BOE_STMT+BOE_VOTES_M1.png,charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BOE_STMT+BOE_VOTES,joint,2019-12-19,Thursday,12:00,Monetary Policy Summary + MPC Official Bank Rate Votes,GBP,Bank of England,2019-12-19 12:00,GBPUSD_20191219_GBP_BOE_STMT+BOE_VOTES_M1.png,charts/BOE_STMT;charts/BOE_VOTES,184,0,yes
+BUDGET,single,2016-03-16,Wednesday,12:30,Annual Budget Release,GBP,HM Treasury,2016-03-16 12:30,GBPUSD_20160316_GBP_Annual_Budget_Release_M1.png,charts/BUDGET,184,0,yes
+BUDGET,single,2016-11-23,Wednesday,12:30,Autumn Forecast Statement,GBP,HM Treasury,2016-11-23 12:30,GBPUSD_20161123_GBP_Autumn_Forecast_Statement_M1.png,charts/BUDGET,184,0,yes
+BUDGET,single,2017-03-08,Wednesday,12:30,Annual Budget Release,GBP,HM Treasury,2017-03-08 12:30,GBPUSD_20170308_GBP_Annual_Budget_Release_M1.png,charts/BUDGET,184,0,yes
+BUDGET,single,2017-11-22,Wednesday,12:30,Autumn Forecast Statement,GBP,HM Treasury,2017-11-22 12:30,GBPUSD_20171122_GBP_Autumn_Forecast_Statement_M1.png,charts/BUDGET,184,0,yes
+BUDGET,single,2018-03-13,Tuesday,12:30,Annual Budget Release,GBP,HM Treasury,2018-03-13 12:30,GBPUSD_20180313_GBP_Annual_Budget_Release_M1.png,charts/BUDGET,184,0,yes
+BUDGET,single,2019-03-13,Wednesday,12:42,Annual Budget Release,GBP,HM Treasury,2019-03-13 12:42,GBPUSD_20190313_GBP_Annual_Budget_Release_M1.png,charts/BUDGET,184,0,yes
+BUDGET,single,2020-03-11,Wednesday,12:30,Annual Budget Release,GBP,HM Treasury,2020-03-11 12:30,GBPUSD_20200311_GBP_Annual_Budget_Release_M1.png,charts/BUDGET,184,0,yes
+BUDGET,single,2021-03-03,Wednesday,12:35,Annual Budget Release,GBP,HM Treasury,2021-03-03 12:35,GBPUSD_20210303_GBP_Annual_Budget_Release_M1.png,charts/BUDGET,184,0,yes
+BUDGET,single,2021-10-27,Wednesday,12:34,Annual Budget Release,GBP,HM Treasury,2021-10-27 11:34,GBPUSD_20211027_GBP_Annual_Budget_Release_M1.png,charts/BUDGET,184,0,yes
+BUDGET,single,2022-03-23,Wednesday,12:43,Annual Budget Release,GBP,HM Treasury,2022-03-23 12:43,GBPUSD_20220323_GBP_Annual_Budget_Release_M1.png,charts/BUDGET,184,0,yes
+BUDGET,single,2022-11-17,Thursday,11:32,Autumn Forecast Statement,GBP,HM Treasury,2022-11-17 11:32,GBPUSD_20221117_GBP_Autumn_Forecast_Statement_M1.png,charts/BUDGET,184,0,yes
+BUDGET,single,2023-03-15,Wednesday,12:30,Annual Budget Release,GBP,HM Treasury,2023-03-15 12:30,GBPUSD_20230315_GBP_Annual_Budget_Release_M1.png,charts/BUDGET,184,0,yes
+BUDGET,single,2024-03-06,Wednesday,12:34,Annual Budget Release,GBP,HM Treasury,2024-03-06 12:34,GBPUSD_20240306_GBP_Annual_Budget_Release_M1.png,charts/BUDGET,184,0,yes
+BUDGET,single,2025-03-26,Wednesday,12:30,Annual Budget Release,GBP,HM Treasury,2025-03-26 12:30,GBPUSD_20250326_GBP_Annual_Budget_Release_M1.png,charts/BUDGET,184,0,yes
+BUDGET,single,2025-11-26,Wednesday,12:30,Autumn Forecast Statement,GBP,HM Treasury,2025-11-26 12:30,GBPUSD_20251126_GBP_Autumn_Forecast_Statement_M1.png,charts/BUDGET,184,0,yes
+BUDGET,single,2026-03-03,Tuesday,12:30,Annual Budget Release,GBP,HM Treasury,2026-03-03 12:30,GBPUSD_20260303_GBP_Annual_Budget_Release_M1.png,charts/BUDGET,184,0,yes
+CLAIMS,single,2020-04-21,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2020-04-21 06:00,GBPUSD_20200421_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2020-05-19,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2020-05-19 06:00,GBPUSD_20200519_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2020-06-16,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2020-06-16 06:00,GBPUSD_20200616_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2022-11-15,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2022-11-15 07:00,GBPUSD_20221115_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2022-12-13,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2022-12-13 07:00,GBPUSD_20221213_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2023-01-17,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2023-01-17 07:00,GBPUSD_20230117_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2023-02-14,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2023-02-14 07:00,GBPUSD_20230214_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2023-03-14,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2023-03-14 07:00,GBPUSD_20230314_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2023-04-18,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2023-04-18 06:00,GBPUSD_20230418_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2023-05-16,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2023-05-16 06:00,GBPUSD_20230516_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2023-06-13,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2023-06-13 06:00,GBPUSD_20230613_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2023-07-11,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2023-07-11 06:00,GBPUSD_20230711_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2023-08-15,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2023-08-15 06:00,GBPUSD_20230815_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2023-09-12,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2023-09-12 06:00,GBPUSD_20230912_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2023-10-24,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2023-10-24 06:00,GBPUSD_20231024_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2023-11-14,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2023-11-14 07:00,GBPUSD_20231114_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2023-12-12,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2023-12-12 07:00,GBPUSD_20231212_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2024-01-16,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2024-01-16 07:00,GBPUSD_20240116_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2024-02-13,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2024-02-13 07:00,GBPUSD_20240213_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2024-03-12,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2024-03-12 07:00,GBPUSD_20240312_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2024-04-16,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2024-04-16 06:00,GBPUSD_20240416_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2024-05-14,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2024-05-14 06:00,GBPUSD_20240514_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2024-06-11,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2024-06-11 06:00,GBPUSD_20240611_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,183,1,yes
+CLAIMS,single,2024-07-18,Thursday,07:00,Claimant Count Change,GBP,UK ONS,2024-07-18 06:00,GBPUSD_20240718_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2024-08-13,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2024-08-13 06:00,GBPUSD_20240813_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2024-09-10,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2024-09-10 06:00,GBPUSD_20240910_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2024-10-15,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2024-10-15 06:00,GBPUSD_20241015_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2024-11-12,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2024-11-12 07:00,GBPUSD_20241112_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2024-12-17,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2024-12-17 07:00,GBPUSD_20241217_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2025-01-21,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2025-01-21 07:00,GBPUSD_20250121_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2025-02-18,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2025-02-18 07:00,GBPUSD_20250218_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2025-03-20,Thursday,07:00,Claimant Count Change,GBP,UK ONS,2025-03-20 07:00,GBPUSD_20250320_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2025-04-15,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2025-04-15 06:00,GBPUSD_20250415_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2025-05-13,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2025-05-13 06:00,GBPUSD_20250513_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2025-11-11,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2025-11-11 07:00,GBPUSD_20251111_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2025-12-16,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2025-12-16 07:00,GBPUSD_20251216_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2026-01-20,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2026-01-20 07:00,GBPUSD_20260120_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2026-02-17,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2026-02-17 07:00,GBPUSD_20260217_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,183,1,yes
+CLAIMS,single,2026-03-19,Thursday,07:00,Claimant Count Change,GBP,UK ONS,2026-03-19 07:00,GBPUSD_20260319_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2026-04-21,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2026-04-21 06:00,GBPUSD_20260421_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2026-05-19,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2026-05-19 06:00,GBPUSD_20260519_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2026-06-18,Thursday,07:00,Claimant Count Change,GBP,UK ONS,2026-06-18 06:00,GBPUSD_20260618_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2026-07-21,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2026-07-21 06:00,GBPUSD_20260721_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2026-08-18,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2026-08-18 06:00,GBPUSD_20260818_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS,single,2026-09-15,Tuesday,07:00,Claimant Count Change,GBP,UK ONS,2026-09-15 06:00,GBPUSD_20260915_GBP_Claimant_Count_Change_M1.png,charts/CLAIMS,184,0,yes
+CLAIMS+EARNINGS,joint,2016-01-20,Wednesday,09:30,Claimant Count Change + Average Earnings Index 3m/y,GBP,UK ONS,2016-01-20 09:30,GBPUSD_20160120_GBP_CLAIMS+EARNINGS_M1.png,charts/CLAIMS;charts/EARNINGS,184,0,yes
+CLAIMS+EARNINGS,joint,2016-02-17,Wednesday,09:30,Claimant Count Change + Average Earnings Index 3m/y,GBP,UK ONS,2016-02-17 09:30,GBPUSD_20160217_GBP_CLAIMS+EARNINGS_M1.png,charts/CLAIMS;charts/EARNINGS,184,0,yes
+CLAIMS+EARNINGS,joint,2016-03-16,Wednesday,09:30,Claimant Count Change + Average Earnings Index 3m/y,GBP,UK ONS,2016-03-16 09:30,GBPUSD_20160316_GBP_CLAIMS+EARNINGS_M1.png,charts/CLAIMS;charts/EARNINGS,184,0,yes
+CLAIMS+EARNINGS,joint,2016-04-20,Wednesday,09:30,Claimant Count Change + Average Earnings Index 3m/y,GBP,UK ONS,2016-04-20 08:30,GBPUSD_20160420_GBP_CLAIMS+EARNINGS_M1.png,charts/CLAIMS;charts/EARNINGS,184,0,yes
+CLAIMS+EARNINGS,joint,2016-05-18,Wednesday,09:30,Claimant Count Change + Average Earnings Index 3m/y,GBP,UK ONS,2016-05-18 08:30,GBPUSD_20160518_GBP_CLAIMS+EARNINGS_M1.png,charts/CLAIMS;charts/EARNINGS,184,0,yes
+CLAIMS+EARNINGS,joint,2016-06-15,Wednesday,09:30,Claimant Count Change + Average Earnings Index 3m/y,GBP,UK ONS,2016-06-15 08:30,GBPUSD_20160615_GBP_CLAIMS+EARNINGS_M1.png,charts/CLAIMS;charts/EARNINGS,184,0,yes
+CLAIMS+EARNINGS,joint,2016-07-20,Wednesday,09:30,Claimant Count Change + Average Earnings Index 3m/y,GBP,UK ONS,2016-07-20 08:30,GBPUSD_20160720_GBP_CLAIMS+EARNINGS_M1.png,charts/CLAIMS;charts/EARNINGS,184,0,yes
+CLAIMS+EARNINGS,joint,2016-08-17,Wednesday,09:30,Claimant Count Change + Average Earnings Index 3m/y,GBP,UK ONS,2016-08-17 08:30,GBPUSD_20160817_GBP_CLAIMS+EARNINGS_M1.png,charts/CLAIMS;charts/EARNINGS,184,0,yes
+CLAIMS+EARNINGS,joint,2016-09-14,Wednesday,09:30,Claimant Count Change + Average Earnings Index 3m/y,GBP,UK ONS,2016-09-14 08:30,GBPUSD_20160914_GBP_CLAIMS+EARNINGS_M1.png,charts/CLAIMS;charts/EARNINGS,184,0,yes
+CLAIMS+EARNINGS,joint,2016-10-19,Wednesday,09:30,Claimant Count Change + Average Earnings Index 3m/y,GBP,UK ONS,2016-10-19 08:30,GBPUSD_20161019_GBP_CLAIMS+EARNINGS_M1.png,charts/CLAIMS;charts/EARNINGS,184,0,yes
+CLAIMS+EARNINGS,joint,2016-11-16,Wednesday,09:30,Claimant Count Change + Average Earnings Index 3m/y,GBP,UK ONS,2016-11-16 09:30,GBPUSD_20161116_GBP_CLAIMS+EARNINGS_M1.png,charts/CLAIMS;charts/EARNINGS,184,0,yes
+CLAIMS+EARNINGS,joint,2016-12-14,Wednesday,09:30,Claimant Count Change + Average Earnings Index 3m/y,GBP,UK ONS,2016-12-14 09:30,GBPUSD_20161214_GBP_CLAIMS+EARNINGS_M1.png,charts/CLAIMS;charts/EARNINGS,184,0,yes
+CLAIMS+EARNINGS,joint,2017-01-18,Wednesday,09:30,Claimant Count Change + Average Earnings Index 3m/y,GBP,UK ONS,2017-01-18 09:30,GBPUSD_20170118_GBP_CLAIMS+EARNINGS_M1.png,charts/CLAIMS;charts/EARNINGS,184,0,yes
+CLAIMS+EARNINGS,joint,2017-02-15,Wednesday,09:30,Claimant Count Change + Average Earnings Index 3m/y,GBP,UK ONS,2017-02-15 09:30,GBPUSD_20170215_GBP_CLAIMS+EARNINGS_M1.png,charts/CLAIMS;charts/EARNINGS,184,0,yes
+CLAIMS+EARNINGS,joint,2017-03-15,Wednesday,09:30,Claimant Count Change + Average Earnings Index 3m/y,GBP,UK ONS,2017-03-15 09:30,GBPUSD_20170315_GBP_CLAIMS+EARNINGS_M1.png,charts/CLAIMS;charts/EARNINGS,184,0,yes
+CPI,single,2016-01-19,Tuesday,09:30,CPI y/y,GBP,UK ONS,2016-01-19 09:30,GBPUSD_20160119_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2016-02-16,Tuesday,09:30,CPI y/y,GBP,UK ONS,2016-02-16 09:30,GBPUSD_20160216_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2016-03-22,Tuesday,09:30,CPI y/y,GBP,UK ONS,2016-03-22 09:30,GBPUSD_20160322_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2016-04-12,Tuesday,09:30,CPI y/y,GBP,UK ONS,2016-04-12 08:30,GBPUSD_20160412_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2016-05-17,Tuesday,09:30,CPI y/y,GBP,UK ONS,2016-05-17 08:30,GBPUSD_20160517_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2016-06-14,Tuesday,09:30,CPI y/y,GBP,UK ONS,2016-06-14 08:30,GBPUSD_20160614_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2016-07-19,Tuesday,09:30,CPI y/y,GBP,UK ONS,2016-07-19 08:30,GBPUSD_20160719_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2016-08-16,Tuesday,09:30,CPI y/y,GBP,UK ONS,2016-08-16 08:30,GBPUSD_20160816_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2016-09-13,Tuesday,09:30,CPI y/y,GBP,UK ONS,2016-09-13 08:30,GBPUSD_20160913_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2016-10-18,Tuesday,09:30,CPI y/y,GBP,UK ONS,2016-10-18 08:30,GBPUSD_20161018_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2016-11-15,Tuesday,09:30,CPI y/y,GBP,UK ONS,2016-11-15 09:30,GBPUSD_20161115_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2016-12-13,Tuesday,09:30,CPI y/y,GBP,UK ONS,2016-12-13 09:30,GBPUSD_20161213_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2017-01-17,Tuesday,09:30,CPI y/y,GBP,UK ONS,2017-01-17 09:30,GBPUSD_20170117_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2017-02-14,Tuesday,09:30,CPI y/y,GBP,UK ONS,2017-02-14 09:30,GBPUSD_20170214_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2017-03-21,Tuesday,09:30,CPI y/y,GBP,UK ONS,2017-03-21 09:30,GBPUSD_20170321_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2017-04-11,Tuesday,09:30,CPI y/y,GBP,UK ONS,2017-04-11 08:30,GBPUSD_20170411_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2017-05-16,Tuesday,09:30,CPI y/y,GBP,UK ONS,2017-05-16 08:30,GBPUSD_20170516_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2017-06-13,Tuesday,09:30,CPI y/y,GBP,UK ONS,2017-06-13 08:30,GBPUSD_20170613_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2017-07-18,Tuesday,09:30,CPI y/y,GBP,UK ONS,2017-07-18 08:30,GBPUSD_20170718_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2017-08-15,Tuesday,09:30,CPI y/y,GBP,UK ONS,2017-08-15 08:30,GBPUSD_20170815_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2017-09-12,Tuesday,09:30,CPI y/y,GBP,UK ONS,2017-09-12 08:30,GBPUSD_20170912_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2017-10-17,Tuesday,09:30,CPI y/y,GBP,UK ONS,2017-10-17 08:30,GBPUSD_20171017_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2017-11-14,Tuesday,09:30,CPI y/y,GBP,UK ONS,2017-11-14 09:30,GBPUSD_20171114_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2017-12-12,Tuesday,09:30,CPI y/y,GBP,UK ONS,2017-12-12 09:30,GBPUSD_20171212_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2018-01-16,Tuesday,09:30,CPI y/y,GBP,UK ONS,2018-01-16 09:30,GBPUSD_20180116_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2018-02-13,Tuesday,09:30,CPI y/y,GBP,UK ONS,2018-02-13 09:30,GBPUSD_20180213_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2018-03-20,Tuesday,09:30,CPI y/y,GBP,UK ONS,2018-03-20 09:30,GBPUSD_20180320_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2018-04-18,Wednesday,09:30,CPI y/y,GBP,UK ONS,2018-04-18 08:30,GBPUSD_20180418_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2018-05-23,Wednesday,09:30,CPI y/y,GBP,UK ONS,2018-05-23 08:30,GBPUSD_20180523_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2018-06-13,Wednesday,09:30,CPI y/y,GBP,UK ONS,2018-06-13 08:30,GBPUSD_20180613_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2018-07-18,Wednesday,09:30,CPI y/y,GBP,UK ONS,2018-07-18 08:30,GBPUSD_20180718_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2018-08-15,Wednesday,09:30,CPI y/y,GBP,UK ONS,2018-08-15 08:30,GBPUSD_20180815_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2018-09-19,Wednesday,09:30,CPI y/y,GBP,UK ONS,2018-09-19 08:30,GBPUSD_20180919_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2018-10-17,Wednesday,09:30,CPI y/y,GBP,UK ONS,2018-10-17 08:30,GBPUSD_20181017_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2018-11-14,Wednesday,09:30,CPI y/y,GBP,UK ONS,2018-11-14 09:30,GBPUSD_20181114_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2018-12-19,Wednesday,09:30,CPI y/y,GBP,UK ONS,2018-12-19 09:30,GBPUSD_20181219_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2019-01-16,Wednesday,09:30,CPI y/y,GBP,UK ONS,2019-01-16 09:30,GBPUSD_20190116_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2019-02-13,Wednesday,09:30,CPI y/y,GBP,UK ONS,2019-02-13 09:30,GBPUSD_20190213_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2019-03-20,Wednesday,09:30,CPI y/y,GBP,UK ONS,2019-03-20 09:30,GBPUSD_20190320_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2019-04-17,Wednesday,09:30,CPI y/y,GBP,UK ONS,2019-04-17 08:30,GBPUSD_20190417_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2019-05-22,Wednesday,09:30,CPI y/y,GBP,UK ONS,2019-05-22 08:30,GBPUSD_20190522_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2019-06-19,Wednesday,09:30,CPI y/y,GBP,UK ONS,2019-06-19 08:30,GBPUSD_20190619_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2019-07-17,Wednesday,09:30,CPI y/y,GBP,UK ONS,2019-07-17 08:30,GBPUSD_20190717_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2019-08-14,Wednesday,09:30,CPI y/y,GBP,UK ONS,2019-08-14 08:30,GBPUSD_20190814_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2019-09-18,Wednesday,09:30,CPI y/y,GBP,UK ONS,2019-09-18 08:30,GBPUSD_20190918_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2019-10-16,Wednesday,09:30,CPI y/y,GBP,UK ONS,2019-10-16 08:30,GBPUSD_20191016_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2019-11-13,Wednesday,09:30,CPI y/y,GBP,UK ONS,2019-11-13 09:30,GBPUSD_20191113_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2019-12-18,Wednesday,09:30,CPI y/y,GBP,UK ONS,2019-12-18 09:30,GBPUSD_20191218_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2020-01-15,Wednesday,09:30,CPI y/y,GBP,UK ONS,2020-01-15 09:30,GBPUSD_20200115_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2020-02-19,Wednesday,09:30,CPI y/y,GBP,UK ONS,2020-02-19 09:30,GBPUSD_20200219_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2020-03-25,Wednesday,07:00,CPI y/y,GBP,UK ONS,2020-03-25 07:00,GBPUSD_20200325_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2021-02-17,Wednesday,07:00,CPI y/y,GBP,UK ONS,2021-02-17 07:00,GBPUSD_20210217_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2021-08-18,Wednesday,07:00,CPI y/y,GBP,UK ONS,2021-08-18 06:00,GBPUSD_20210818_GBP_CPI_y_y_M1.png,charts/CPI,183,1,yes
+CPI,single,2021-09-15,Wednesday,07:00,CPI y/y,GBP,UK ONS,2021-09-15 06:00,GBPUSD_20210915_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2021-10-20,Wednesday,07:00,CPI y/y,GBP,UK ONS,2021-10-20 06:00,GBPUSD_20211020_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2021-11-17,Wednesday,07:00,CPI y/y,GBP,UK ONS,2021-11-17 07:00,GBPUSD_20211117_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2021-12-15,Wednesday,07:00,CPI y/y,GBP,UK ONS,2021-12-15 07:00,GBPUSD_20211215_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2022-01-19,Wednesday,07:00,CPI y/y,GBP,UK ONS,2022-01-19 07:00,GBPUSD_20220119_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2022-02-16,Wednesday,07:00,CPI y/y,GBP,UK ONS,2022-02-16 07:00,GBPUSD_20220216_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2022-03-23,Wednesday,07:00,CPI y/y,GBP,UK ONS,2022-03-23 07:00,GBPUSD_20220323_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2022-04-13,Wednesday,07:00,CPI y/y,GBP,UK ONS,2022-04-13 06:00,GBPUSD_20220413_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2022-05-18,Wednesday,07:00,CPI y/y,GBP,UK ONS,2022-05-18 06:00,GBPUSD_20220518_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2022-06-22,Wednesday,07:00,CPI y/y,GBP,UK ONS,2022-06-22 06:00,GBPUSD_20220622_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2022-07-20,Wednesday,07:00,CPI y/y,GBP,UK ONS,2022-07-20 06:00,GBPUSD_20220720_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2022-08-17,Wednesday,07:00,CPI y/y,GBP,UK ONS,2022-08-17 06:00,GBPUSD_20220817_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2022-09-14,Wednesday,07:00,CPI y/y,GBP,UK ONS,2022-09-14 06:00,GBPUSD_20220914_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2022-10-19,Wednesday,07:00,CPI y/y,GBP,UK ONS,2022-10-19 06:00,GBPUSD_20221019_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2022-11-16,Wednesday,07:00,CPI y/y,GBP,UK ONS,2022-11-16 07:00,GBPUSD_20221116_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2022-12-14,Wednesday,07:00,CPI y/y,GBP,UK ONS,2022-12-14 07:00,GBPUSD_20221214_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2023-01-18,Wednesday,07:00,CPI y/y,GBP,UK ONS,2023-01-18 07:00,GBPUSD_20230118_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2023-02-15,Wednesday,07:00,CPI y/y,GBP,UK ONS,2023-02-15 07:00,GBPUSD_20230215_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2023-03-22,Wednesday,07:00,CPI y/y,GBP,UK ONS,2023-03-22 07:00,GBPUSD_20230322_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2023-04-19,Wednesday,07:00,CPI y/y,GBP,UK ONS,2023-04-19 06:00,GBPUSD_20230419_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2023-05-24,Wednesday,07:00,CPI y/y,GBP,UK ONS,2023-05-24 06:00,GBPUSD_20230524_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2023-06-21,Wednesday,07:02,CPI y/y,GBP,UK ONS,2023-06-21 06:02,GBPUSD_20230621_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2023-07-19,Wednesday,07:00,CPI y/y,GBP,UK ONS,2023-07-19 06:00,GBPUSD_20230719_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2023-08-16,Wednesday,07:00,CPI y/y,GBP,UK ONS,2023-08-16 06:00,GBPUSD_20230816_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2023-09-20,Wednesday,07:00,CPI y/y,GBP,UK ONS,2023-09-20 06:00,GBPUSD_20230920_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2023-10-18,Wednesday,07:00,CPI y/y,GBP,UK ONS,2023-10-18 06:00,GBPUSD_20231018_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2023-11-15,Wednesday,07:00,CPI y/y,GBP,UK ONS,2023-11-15 07:00,GBPUSD_20231115_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2023-12-20,Wednesday,07:00,CPI y/y,GBP,UK ONS,2023-12-20 07:00,GBPUSD_20231220_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2024-01-17,Wednesday,07:00,CPI y/y,GBP,UK ONS,2024-01-17 07:00,GBPUSD_20240117_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2024-02-14,Wednesday,07:00,CPI y/y,GBP,UK ONS,2024-02-14 07:00,GBPUSD_20240214_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2024-03-20,Wednesday,07:00,CPI y/y,GBP,UK ONS,2024-03-20 07:00,GBPUSD_20240320_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2024-04-17,Wednesday,07:00,CPI y/y,GBP,UK ONS,2024-04-17 06:00,GBPUSD_20240417_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2024-05-22,Wednesday,07:00,CPI y/y,GBP,UK ONS,2024-05-22 06:00,GBPUSD_20240522_GBP_CPI_y_y_M1.png,charts/CPI,180,4,yes
+CPI,single,2024-06-19,Wednesday,07:00,CPI y/y,GBP,UK ONS,2024-06-19 06:00,GBPUSD_20240619_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2024-07-17,Wednesday,07:00,CPI y/y,GBP,UK ONS,2024-07-17 06:00,GBPUSD_20240717_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2024-08-14,Wednesday,07:00,CPI y/y,GBP,UK ONS,2024-08-14 06:00,GBPUSD_20240814_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2024-09-18,Wednesday,07:00,CPI y/y,GBP,UK ONS,2024-09-18 06:00,GBPUSD_20240918_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2024-10-16,Wednesday,07:00,CPI y/y,GBP,UK ONS,2024-10-16 06:00,GBPUSD_20241016_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2024-11-20,Wednesday,07:00,CPI y/y,GBP,UK ONS,2024-11-20 07:00,GBPUSD_20241120_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2024-12-18,Wednesday,07:00,CPI y/y,GBP,UK ONS,2024-12-18 07:00,GBPUSD_20241218_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2025-01-15,Wednesday,07:00,CPI y/y,GBP,UK ONS,2025-01-15 07:00,GBPUSD_20250115_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2025-02-19,Wednesday,07:00,CPI y/y,GBP,UK ONS,2025-02-19 07:00,GBPUSD_20250219_GBP_CPI_y_y_M1.png,charts/CPI,183,1,yes
+CPI,single,2025-03-26,Wednesday,07:00,CPI y/y,GBP,UK ONS,2025-03-26 07:00,GBPUSD_20250326_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2025-04-16,Wednesday,07:00,CPI y/y,GBP,UK ONS,2025-04-16 06:00,GBPUSD_20250416_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2025-05-21,Wednesday,07:00,CPI y/y,GBP,UK ONS,2025-05-21 06:00,GBPUSD_20250521_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2025-06-18,Wednesday,07:00,CPI y/y,GBP,UK ONS,2025-06-18 06:00,GBPUSD_20250618_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2025-07-16,Wednesday,07:00,CPI y/y,GBP,UK ONS,2025-07-16 06:00,GBPUSD_20250716_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2025-08-20,Wednesday,07:00,CPI y/y,GBP,UK ONS,2025-08-20 06:00,GBPUSD_20250820_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2025-09-17,Wednesday,07:00,CPI y/y,GBP,UK ONS,2025-09-17 06:00,GBPUSD_20250917_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2025-10-22,Wednesday,07:00,CPI y/y,GBP,UK ONS,2025-10-22 06:00,GBPUSD_20251022_GBP_CPI_y_y_M1.png,charts/CPI,181,3,yes
+CPI,single,2025-11-19,Wednesday,07:00,CPI y/y,GBP,UK ONS,2025-11-19 07:00,GBPUSD_20251119_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2025-12-17,Wednesday,07:00,CPI y/y,GBP,UK ONS,2025-12-17 07:00,GBPUSD_20251217_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2026-01-21,Wednesday,07:00,CPI y/y,GBP,UK ONS,2026-01-21 07:00,GBPUSD_20260121_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2026-02-18,Wednesday,07:00,CPI y/y,GBP,UK ONS,2026-02-18 07:00,GBPUSD_20260218_GBP_CPI_y_y_M1.png,charts/CPI,183,1,yes
+CPI,single,2026-03-25,Wednesday,07:00,CPI y/y,GBP,UK ONS,2026-03-25 07:00,GBPUSD_20260325_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2026-04-22,Wednesday,07:00,CPI y/y,GBP,UK ONS,2026-04-22 06:00,GBPUSD_20260422_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2026-05-20,Wednesday,07:00,CPI y/y,GBP,UK ONS,2026-05-20 06:00,GBPUSD_20260520_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2026-06-17,Wednesday,07:00,CPI y/y,GBP,UK ONS,2026-06-17 06:00,GBPUSD_20260617_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2026-07-22,Wednesday,07:00,CPI y/y,GBP,UK ONS,2026-07-22 06:00,GBPUSD_20260722_GBP_CPI_y_y_M1.png,charts/CPI,183,1,yes
+CPI,single,2026-08-19,Wednesday,07:00,CPI y/y,GBP,UK ONS,2026-08-19 06:00,GBPUSD_20260819_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CPI,single,2026-09-16,Wednesday,07:00,CPI y/y,GBP,UK ONS,2026-09-16 06:00,GBPUSD_20260916_GBP_CPI_y_y_M1.png,charts/CPI,184,0,yes
+CURRENT_ACCOUNT,single,2016-03-31,Thursday,09:30,Current Account,GBP,UK ONS,2016-03-31 08:30,GBPUSD_20160331_GBP_Current_Account_M1.png,charts/CURRENT_ACCOUNT,184,0,yes
+CURRENT_ACCOUNT,single,2016-09-30,Friday,09:30,Current Account,GBP,UK ONS,2016-09-30 08:30,GBPUSD_20160930_GBP_Current_Account_M1.png,charts/CURRENT_ACCOUNT,184,0,yes
+CURRENT_ACCOUNT,single,2016-12-23,Friday,09:30,Current Account,GBP,UK ONS,2016-12-23 09:30,GBPUSD_20161223_GBP_Current_Account_M1.png,charts/CURRENT_ACCOUNT,184,0,yes
+CURRENT_ACCOUNT,single,2017-03-31,Friday,09:30,Current Account,GBP,UK ONS,2017-03-31 08:30,GBPUSD_20170331_GBP_Current_Account_M1.png,charts/CURRENT_ACCOUNT,184,0,yes
+CURRENT_ACCOUNT,single,2017-06-30,Friday,09:30,Current Account,GBP,UK ONS,2017-06-30 08:30,GBPUSD_20170630_GBP_Current_Account_M1.png,charts/CURRENT_ACCOUNT,184,0,yes
+CURRENT_ACCOUNT,single,2017-09-29,Friday,09:30,Current Account,GBP,UK ONS,2017-09-29 08:30,GBPUSD_20170929_GBP_Current_Account_M1.png,charts/CURRENT_ACCOUNT,184,0,yes
+CURRENT_ACCOUNT,single,2017-12-22,Friday,09:30,Current Account,GBP,UK ONS,2017-12-22 09:30,GBPUSD_20171222_GBP_Current_Account_M1.png,charts/CURRENT_ACCOUNT,184,0,yes
+CURRENT_ACCOUNT,single,2018-03-29,Thursday,09:30,Current Account,GBP,UK ONS,2018-03-29 08:30,GBPUSD_20180329_GBP_Current_Account_M1.png,charts/CURRENT_ACCOUNT,184,0,yes
+CURRENT_ACCOUNT,single,2018-06-29,Friday,09:30,Current Account,GBP,UK ONS,2018-06-29 08:30,GBPUSD_20180629_GBP_Current_Account_M1.png,charts/CURRENT_ACCOUNT,184,0,yes
+CURRENT_ACCOUNT,single,2018-09-28,Friday,09:30,Current Account,GBP,UK ONS,2018-09-28 08:30,GBPUSD_20180928_GBP_Current_Account_M1.png,charts/CURRENT_ACCOUNT,184,0,yes
+CURRENT_ACCOUNT,single,2018-12-21,Friday,09:30,Current Account,GBP,UK ONS,2018-12-21 09:30,GBPUSD_20181221_GBP_Current_Account_M1.png,charts/CURRENT_ACCOUNT,184,0,yes
+CURRENT_ACCOUNT,single,2019-03-29,Friday,09:30,Current Account,GBP,UK ONS,2019-03-29 09:30,GBPUSD_20190329_GBP_Current_Account_M1.png,charts/CURRENT_ACCOUNT,184,0,yes
+CURRENT_ACCOUNT,single,2019-06-28,Friday,09:30,Current Account,GBP,UK ONS,2019-06-28 08:30,GBPUSD_20190628_GBP_Current_Account_M1.png,charts/CURRENT_ACCOUNT,184,0,yes
+CURRENT_ACCOUNT,single,2019-09-30,Monday,09:30,Current Account,GBP,UK ONS,2019-09-30 08:30,GBPUSD_20190930_GBP_Current_Account_M1.png,charts/CURRENT_ACCOUNT,184,0,yes
+CURRENT_ACCOUNT,single,2019-12-20,Friday,09:30,Current Account,GBP,UK ONS,2019-12-20 09:30,GBPUSD_20191220_GBP_Current_Account_M1.png,charts/CURRENT_ACCOUNT,184,0,yes
+CURRENT_ACCOUNT+GDP,joint,2016-06-30,Thursday,09:30,Current Account + Final GDP q/q,GBP,UK ONS,2016-06-30 08:30,GBPUSD_20160630_GBP_CURRENT_ACCOUNT+GDP_M1.png,charts/CURRENT_ACCOUNT;charts/GDP,184,0,yes
+EARNINGS,single,2017-04-12,Wednesday,09:30,Average Earnings Index 3m/y,GBP,UK ONS,2017-04-12 08:30,GBPUSD_20170412_GBP_Average_Earnings_Index_3m_y_M1.png,charts/EARNINGS,184,0,yes
+EARNINGS,single,2017-05-17,Wednesday,09:30,Average Earnings Index 3m/y,GBP,UK ONS,2017-05-17 08:30,GBPUSD_20170517_GBP_Average_Earnings_Index_3m_y_M1.png,charts/EARNINGS,184,0,yes
+EARNINGS,single,2017-06-14,Wednesday,09:30,Average Earnings Index 3m/y,GBP,UK ONS,2017-06-14 08:30,GBPUSD_20170614_GBP_Average_Earnings_Index_3m_y_M1.png,charts/EARNINGS,184,0,yes
+EARNINGS,single,2017-07-12,Wednesday,09:30,Average Earnings Index 3m/y,GBP,UK ONS,2017-07-12 08:30,GBPUSD_20170712_GBP_Average_Earnings_Index_3m_y_M1.png,charts/EARNINGS,184,0,yes
+EARNINGS,single,2017-08-16,Wednesday,09:30,Average Earnings Index 3m/y,GBP,UK ONS,2017-08-16 08:30,GBPUSD_20170816_GBP_Average_Earnings_Index_3m_y_M1.png,charts/EARNINGS,184,0,yes
+EARNINGS,single,2017-09-13,Wednesday,09:30,Average Earnings Index 3m/y,GBP,UK ONS,2017-09-13 08:30,GBPUSD_20170913_GBP_Average_Earnings_Index_3m_y_M1.png,charts/EARNINGS,184,0,yes
+EARNINGS,single,2017-10-18,Wednesday,09:30,Average Earnings Index 3m/y,GBP,UK ONS,2017-10-18 08:30,GBPUSD_20171018_GBP_Average_Earnings_Index_3m_y_M1.png,charts/EARNINGS,184,0,yes
+EARNINGS,single,2017-11-15,Wednesday,09:30,Average Earnings Index 3m/y,GBP,UK ONS,2017-11-15 09:30,GBPUSD_20171115_GBP_Average_Earnings_Index_3m_y_M1.png,charts/EARNINGS,184,0,yes
+EARNINGS,single,2017-12-13,Wednesday,09:30,Average Earnings Index 3m/y,GBP,UK ONS,2017-12-13 09:30,GBPUSD_20171213_GBP_Average_Earnings_Index_3m_y_M1.png,charts/EARNINGS,184,0,yes
+EARNINGS,single,2018-01-24,Wednesday,09:30,Average Earnings Index 3m/y,GBP,UK ONS,2018-01-24 09:30,GBPUSD_20180124_GBP_Average_Earnings_Index_3m_y_M1.png,charts/EARNINGS,184,0,yes
+EARNINGS,single,2018-02-21,Wednesday,09:30,Average Earnings Index 3m/y,GBP,UK ONS,2018-02-21 09:30,GBPUSD_20180221_GBP_Average_Earnings_Index_3m_y_M1.png,charts/EARNINGS,184,0,yes
+EARNINGS,single,2018-03-21,Wednesday,09:30,Average Earnings Index 3m/y,GBP,UK ONS,2018-03-21 09:30,GBPUSD_20180321_GBP_Average_Earnings_Index_3m_y_M1.png,charts/EARNINGS,184,0,yes
+EARNINGS,single,2018-04-17,Tuesday,09:30,Average Earnings Index 3m/y,GBP,UK ONS,2018-04-17 08:30,GBPUSD_20180417_GBP_Average_Earnings_Index_3m_y_M1.png,charts/EARNINGS,184,0,yes
+EARNINGS,single,2018-05-15,Tuesday,09:30,Average Earnings Index 3m/y,GBP,UK ONS,2018-05-15 08:30,GBPUSD_20180515_GBP_Average_Earnings_Index_3m_y_M1.png,charts/EARNINGS,184,0,yes
+EARNINGS,single,2018-06-12,Tuesday,09:30,Average Earnings Index 3m/y,GBP,UK ONS,2018-06-12 08:30,GBPUSD_20180612_GBP_Average_Earnings_Index_3m_y_M1.png,charts/EARNINGS,184,0,yes
+EARNINGS,single,2018-07-17,Tuesday,09:30,Average Earnings Index 3m/y,GBP,UK ONS,2018-07-17 08:30,GBPUSD_20180717_GBP_Average_Earnings_Index_3m_y_M1.png,charts/EARNINGS,184,0,yes
+EARNINGS,single,2018-08-14,Tuesday,09:30,Average Earnings Index 3m/y,GBP,UK ONS,2018-08-14 08:30,GBPUSD_20180814_GBP_Average_Earnings_Index_3m_y_M1.png,charts/EARNINGS,184,0,yes
+EARNINGS,single,2018-09-11,Tuesday,09:30,Average Earnings Index 3m/y,GBP,UK ONS,2018-09-11 08:30,GBPUSD_20180911_GBP_Average_Earnings_Index_3m_y_M1.png,charts/EARNINGS,184,0,yes
+EARNINGS,single,2018-10-16,Tuesday,09:30,Average Earnings Index 3m/y,GBP,UK ONS,2018-10-16 08:30,GBPUSD_20181016_GBP_Average_Earnings_Index_3m_y_M1.png,charts/EARNINGS,184,0,yes
+EARNINGS,single,2018-11-13,Tuesday,09:30,Average Earnings Index 3m/y,GBP,UK ONS,2018-11-13 09:30,GBPUSD_20181113_GBP_Average_Earnings_Index_3m_y_M1.png,charts/EARNINGS,184,0,yes
+EARNINGS,single,2018-12-11,Tuesday,09:30,Average Earnings Index 3m/y,GBP,UK ONS,2018-12-11 09:30,GBPUSD_20181211_GBP_Average_Earnings_Index_3m_y_M1.png,charts/EARNINGS,184,0,yes
+EARNINGS,single,2019-01-22,Tuesday,09:30,Average Earnings Index 3m/y,GBP,UK ONS,2019-01-22 09:30,GBPUSD_20190122_GBP_Average_Earnings_Index_3m_y_M1.png,charts/EARNINGS,184,0,yes
+EARNINGS,single,2019-02-19,Tuesday,09:30,Average Earnings Index 3m/y,GBP,UK ONS,2019-02-19 09:30,GBPUSD_20190219_GBP_Average_Earnings_Index_3m_y_M1.png,charts/EARNINGS,184,0,yes
+EARNINGS,single,2019-03-19,Tuesday,09:18,Average Earnings Index 3m/y,GBP,UK ONS,2019-03-19 09:18,GBPUSD_20190319_GBP_Average_Earnings_Index_3m_y_M1.png,charts/EARNINGS,184,0,yes
+EARNINGS,single,2019-04-16,Tuesday,09:30,Average Earnings Index 3m/y,GBP,UK ONS,2019-04-16 08:30,GBPUSD_20190416_GBP_Average_Earnings_Index_3m_y_M1.png,charts/EARNINGS,184,0,yes
+EARNINGS,single,2019-05-14,Tuesday,09:30,Average Earnings Index 3m/y,GBP,UK ONS,2019-05-14 08:30,GBPUSD_20190514_GBP_Average_Earnings_Index_3m_y_M1.png,charts/EARNINGS,184,0,yes
+EARNINGS,single,2019-06-11,Tuesday,09:30,Average Earnings Index 3m/y,GBP,UK ONS,2019-06-11 08:30,GBPUSD_20190611_GBP_Average_Earnings_Index_3m_y_M1.png,charts/EARNINGS,184,0,yes
+EARNINGS,single,2019-07-16,Tuesday,09:30,Average Earnings Index 3m/y,GBP,UK ONS,2019-07-16 08:30,GBPUSD_20190716_GBP_Average_Earnings_Index_3m_y_M1.png,charts/EARNINGS,184,0,yes
+EARNINGS,single,2019-08-13,Tuesday,09:30,Average Earnings Index 3m/y,GBP,UK ONS,2019-08-13 08:30,GBPUSD_20190813_GBP_Average_Earnings_Index_3m_y_M1.png,charts/EARNINGS,184,0,yes
+EARNINGS,single,2023-10-17,Tuesday,07:00,Average Earnings Index 3m/y,GBP,UK ONS,2023-10-17 06:00,GBPUSD_20231017_GBP_Average_Earnings_Index_3m_y_M1.png,charts/EARNINGS,184,0,yes
+GDP,single,2016-01-28,Thursday,09:30,Prelim GDP q/q,GBP,UK ONS,2016-01-28 09:30,GBPUSD_20160128_GBP_Prelim_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2016-02-25,Thursday,09:30,Second Estimate GDP q/q,GBP,UK ONS,2016-02-25 09:30,GBPUSD_20160225_GBP_Second_Estimate_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2016-04-27,Wednesday,09:30,Prelim GDP q/q,GBP,UK ONS,2016-04-27 08:30,GBPUSD_20160427_GBP_Prelim_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2016-05-26,Thursday,09:30,Second Estimate GDP q/q,GBP,UK ONS,2016-05-26 08:30,GBPUSD_20160526_GBP_Second_Estimate_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2016-07-27,Wednesday,09:30,Prelim GDP q/q,GBP,UK ONS,2016-07-27 08:30,GBPUSD_20160727_GBP_Prelim_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2016-08-26,Friday,09:30,Second Estimate GDP q/q,GBP,UK ONS,2016-08-26 08:30,GBPUSD_20160826_GBP_Second_Estimate_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2016-10-27,Thursday,09:30,Prelim GDP q/q,GBP,UK ONS,2016-10-27 08:30,GBPUSD_20161027_GBP_Prelim_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2016-11-25,Friday,09:30,Second Estimate GDP q/q,GBP,UK ONS,2016-11-25 09:30,GBPUSD_20161125_GBP_Second_Estimate_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2017-01-26,Thursday,09:30,Prelim GDP q/q,GBP,UK ONS,2017-01-26 09:30,GBPUSD_20170126_GBP_Prelim_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2017-02-22,Wednesday,09:30,Second Estimate GDP q/q,GBP,UK ONS,2017-02-22 09:30,GBPUSD_20170222_GBP_Second_Estimate_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2017-04-28,Friday,09:30,Prelim GDP q/q,GBP,UK ONS,2017-04-28 08:30,GBPUSD_20170428_GBP_Prelim_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2017-05-25,Thursday,09:30,Second Estimate GDP q/q,GBP,UK ONS,2017-05-25 08:30,GBPUSD_20170525_GBP_Second_Estimate_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2017-07-26,Wednesday,09:30,Prelim GDP q/q,GBP,UK ONS,2017-07-26 08:30,GBPUSD_20170726_GBP_Prelim_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2017-08-24,Thursday,09:30,Second Estimate GDP q/q,GBP,UK ONS,2017-08-24 08:30,GBPUSD_20170824_GBP_Second_Estimate_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2017-10-25,Wednesday,09:30,Prelim GDP q/q,GBP,UK ONS,2017-10-25 08:30,GBPUSD_20171025_GBP_Prelim_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2017-11-23,Thursday,09:30,Second Estimate GDP q/q,GBP,UK ONS,2017-11-23 09:30,GBPUSD_20171123_GBP_Second_Estimate_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2018-01-26,Friday,09:30,Prelim GDP q/q,GBP,UK ONS,2018-01-26 09:30,GBPUSD_20180126_GBP_Prelim_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2018-02-22,Thursday,09:30,Second Estimate GDP q/q,GBP,UK ONS,2018-02-22 09:30,GBPUSD_20180222_GBP_Second_Estimate_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2018-04-27,Friday,09:30,Prelim GDP q/q,GBP,UK ONS,2018-04-27 08:30,GBPUSD_20180427_GBP_Prelim_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2018-05-25,Friday,09:30,Second Estimate GDP q/q,GBP,UK ONS,2018-05-25 08:30,GBPUSD_20180525_GBP_Second_Estimate_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2019-11-11,Monday,09:30,Prelim GDP q/q,GBP,UK ONS,2019-11-11 09:30,GBPUSD_20191111_GBP_Prelim_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2020-02-11,Tuesday,09:30,Prelim GDP q/q,GBP,UK ONS,2020-02-11 09:30,GBPUSD_20200211_GBP_Prelim_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2020-05-13,Wednesday,07:00,Prelim GDP q/q,GBP,UK ONS,2020-05-13 06:00,GBPUSD_20200513_GBP_Prelim_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2020-06-12,Friday,07:00,GDP m/m,GBP,UK ONS,2020-06-12 06:00,GBPUSD_20200612_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,joint,2022-08-12,Friday,07:00,GDP m/m + Prelim GDP q/q,GBP,UK ONS,2022-08-12 06:00,GBPUSD_20220812_GBP_GDP_M1.png,charts/GDP,184,0,yes
+GDP,single,2022-09-12,Monday,07:00,GDP m/m,GBP,UK ONS,2022-09-12 06:00,GBPUSD_20220912_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2022-10-12,Wednesday,07:00,GDP m/m,GBP,UK ONS,2022-10-12 06:00,GBPUSD_20221012_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2022-11-11,Friday,07:00,GDP m/m,GBP,UK ONS,2022-11-11 07:00,GBPUSD_20221111_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2022-12-12,Monday,07:00,GDP m/m,GBP,UK ONS,2022-12-12 07:00,GBPUSD_20221212_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2023-01-13,Friday,07:00,GDP m/m,GBP,UK ONS,2023-01-13 07:00,GBPUSD_20230113_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2023-02-10,Friday,07:00,GDP m/m,GBP,UK ONS,2023-02-10 07:00,GBPUSD_20230210_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2023-03-10,Friday,07:00,GDP m/m,GBP,UK ONS,2023-03-10 07:00,GBPUSD_20230310_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2023-04-13,Thursday,07:00,GDP m/m,GBP,UK ONS,2023-04-13 06:00,GBPUSD_20230413_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2023-05-12,Friday,07:00,GDP m/m,GBP,UK ONS,2023-05-12 06:00,GBPUSD_20230512_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2023-06-14,Wednesday,07:00,GDP m/m,GBP,UK ONS,2023-06-14 06:00,GBPUSD_20230614_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2023-07-13,Thursday,07:00,GDP m/m,GBP,UK ONS,2023-07-13 06:00,GBPUSD_20230713_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2023-08-11,Friday,07:00,GDP m/m,GBP,UK ONS,2023-08-11 06:00,GBPUSD_20230811_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2023-09-13,Wednesday,07:00,GDP m/m,GBP,UK ONS,2023-09-13 06:00,GBPUSD_20230913_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2023-10-12,Thursday,07:00,GDP m/m,GBP,UK ONS,2023-10-12 06:00,GBPUSD_20231012_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2023-11-10,Friday,07:00,GDP m/m,GBP,UK ONS,2023-11-10 07:00,GBPUSD_20231110_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2023-12-13,Wednesday,07:00,GDP m/m,GBP,UK ONS,2023-12-13 07:00,GBPUSD_20231213_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2024-01-12,Friday,07:00,GDP m/m,GBP,UK ONS,2024-01-12 07:00,GBPUSD_20240112_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2024-02-15,Thursday,07:00,GDP m/m,GBP,UK ONS,2024-02-15 07:00,GBPUSD_20240215_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2024-03-13,Wednesday,07:00,GDP m/m,GBP,UK ONS,2024-03-13 07:00,GBPUSD_20240313_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2024-04-12,Friday,07:00,GDP m/m,GBP,UK ONS,2024-04-12 06:00,GBPUSD_20240412_GBP_GDP_m_m_M1.png,charts/GDP,182,2,yes
+GDP,single,2024-05-10,Friday,07:00,GDP m/m,GBP,UK ONS,2024-05-10 06:00,GBPUSD_20240510_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2024-06-12,Wednesday,07:00,GDP m/m,GBP,UK ONS,2024-06-12 06:00,GBPUSD_20240612_GBP_GDP_m_m_M1.png,charts/GDP,178,6,yes
+GDP,single,2024-07-11,Thursday,07:00,GDP m/m,GBP,UK ONS,2024-07-11 06:00,GBPUSD_20240711_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2024-08-15,Thursday,07:00,GDP m/m,GBP,UK ONS,2024-08-15 06:00,GBPUSD_20240815_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2024-09-11,Wednesday,07:00,GDP m/m,GBP,UK ONS,2024-09-11 06:00,GBPUSD_20240911_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2024-10-11,Friday,07:00,GDP m/m,GBP,UK ONS,2024-10-11 06:00,GBPUSD_20241011_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2024-11-15,Friday,07:00,GDP m/m,GBP,UK ONS,2024-11-15 07:00,GBPUSD_20241115_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2024-12-13,Friday,07:00,GDP m/m,GBP,UK ONS,2024-12-13 07:00,GBPUSD_20241213_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2025-01-16,Thursday,07:00,GDP m/m,GBP,UK ONS,2025-01-16 07:00,GBPUSD_20250116_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2025-02-13,Thursday,07:00,GDP m/m,GBP,UK ONS,2025-02-13 07:00,GBPUSD_20250213_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2025-03-14,Friday,07:00,GDP m/m,GBP,UK ONS,2025-03-14 07:00,GBPUSD_20250314_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2025-04-11,Friday,07:00,GDP m/m,GBP,UK ONS,2025-04-11 06:00,GBPUSD_20250411_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2025-05-15,Thursday,07:00,GDP m/m,GBP,UK ONS,2025-05-15 06:00,GBPUSD_20250515_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2025-06-12,Thursday,07:00,GDP m/m,GBP,UK ONS,2025-06-12 06:00,GBPUSD_20250612_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2025-07-11,Friday,07:00,GDP m/m,GBP,UK ONS,2025-07-11 06:00,GBPUSD_20250711_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2025-08-14,Thursday,07:00,GDP m/m,GBP,UK ONS,2025-08-14 06:00,GBPUSD_20250814_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2025-09-12,Friday,07:00,GDP m/m,GBP,UK ONS,2025-09-12 06:00,GBPUSD_20250912_GBP_GDP_m_m_M1.png,charts/GDP,183,1,yes
+GDP,single,2025-10-16,Thursday,07:00,GDP m/m,GBP,UK ONS,2025-10-16 06:00,GBPUSD_20251016_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2025-11-13,Thursday,07:00,GDP m/m,GBP,UK ONS,2025-11-13 07:00,GBPUSD_20251113_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2025-12-12,Friday,07:00,GDP m/m,GBP,UK ONS,2025-12-12 07:00,GBPUSD_20251212_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2026-01-15,Thursday,07:00,GDP m/m,GBP,UK ONS,2026-01-15 07:00,GBPUSD_20260115_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2026-02-12,Thursday,07:00,GDP m/m,GBP,UK ONS,2026-02-12 07:00,GBPUSD_20260212_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2026-03-13,Friday,07:00,GDP m/m,GBP,UK ONS,2026-03-13 07:00,GBPUSD_20260313_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2026-04-16,Thursday,07:00,GDP m/m,GBP,UK ONS,2026-04-16 06:00,GBPUSD_20260416_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2026-05-14,Thursday,07:00,GDP m/m,GBP,UK ONS,2026-05-14 06:00,GBPUSD_20260514_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2026-06-12,Friday,07:00,GDP m/m,GBP,UK ONS,2026-06-12 06:00,GBPUSD_20260612_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2026-07-16,Thursday,07:00,GDP m/m,GBP,UK ONS,2026-07-16 06:00,GBPUSD_20260716_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2026-08-13,Thursday,07:00,GDP m/m,GBP,UK ONS,2026-08-13 06:00,GBPUSD_20260813_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2026-09-11,Friday,07:00,GDP m/m,GBP,UK ONS,2026-09-11 06:00,GBPUSD_20260911_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP,single,2026-10-15,Thursday,07:00,GDP m/m,GBP,UK ONS,2026-10-15 06:00,GBPUSD_20261015_GBP_GDP_m_m_M1.png,charts/GDP,184,0,yes
+GDP+MFG_PROD,joint,2018-07-10,Tuesday,09:30,GDP m/m + Manufacturing Production m/m,GBP,UK ONS,2018-07-10 08:30,GBPUSD_20180710_GBP_GDP+MFG_PROD_M1.png,charts/GDP;charts/MFG_PROD,184,0,yes
+GDP+MFG_PROD,joint,2018-08-10,Friday,09:30,GDP m/m + Prelim GDP q/q + Manufacturing Production m/m,GBP,UK ONS,2018-08-10 08:30,GBPUSD_20180810_GBP_GDP+MFG_PROD_M1.png,charts/GDP;charts/MFG_PROD,184,0,yes
+GDP+MFG_PROD,joint,2018-09-10,Monday,09:30,GDP m/m + Manufacturing Production m/m,GBP,UK ONS,2018-09-10 08:30,GBPUSD_20180910_GBP_GDP+MFG_PROD_M1.png,charts/GDP;charts/MFG_PROD,184,0,yes
+GDP+MFG_PROD,joint,2018-10-10,Wednesday,09:30,GDP m/m + Manufacturing Production m/m,GBP,UK ONS,2018-10-10 08:30,GBPUSD_20181010_GBP_GDP+MFG_PROD_M1.png,charts/GDP;charts/MFG_PROD,184,0,yes
+GDP+MFG_PROD,joint,2018-11-09,Friday,09:30,GDP m/m + Prelim GDP q/q + Manufacturing Production m/m,GBP,UK ONS,2018-11-09 09:30,GBPUSD_20181109_GBP_GDP+MFG_PROD_M1.png,charts/GDP;charts/MFG_PROD,184,0,yes
+GDP+MFG_PROD,joint,2018-12-10,Monday,09:30,GDP m/m + Manufacturing Production m/m,GBP,UK ONS,2018-12-10 09:30,GBPUSD_20181210_GBP_GDP+MFG_PROD_M1.png,charts/GDP;charts/MFG_PROD,184,0,yes
+GDP+MFG_PROD,joint,2019-01-11,Friday,09:30,GDP m/m + Manufacturing Production m/m,GBP,UK ONS,2019-01-11 09:30,GBPUSD_20190111_GBP_GDP+MFG_PROD_M1.png,charts/GDP;charts/MFG_PROD,184,0,yes
+GDP+MFG_PROD,joint,2019-02-11,Monday,09:30,GDP m/m + Prelim GDP q/q + Manufacturing Production m/m,GBP,UK ONS,2019-02-11 09:30,GBPUSD_20190211_GBP_GDP+MFG_PROD_M1.png,charts/GDP;charts/MFG_PROD,184,0,yes
+GDP+MFG_PROD,joint,2019-03-12,Tuesday,09:30,GDP m/m + Manufacturing Production m/m,GBP,UK ONS,2019-03-12 09:30,GBPUSD_20190312_GBP_GDP+MFG_PROD_M1.png,charts/GDP;charts/MFG_PROD,184,0,yes
+GDP+MFG_PROD,joint,2019-04-10,Wednesday,09:30,GDP m/m + Manufacturing Production m/m,GBP,UK ONS,2019-04-10 08:30,GBPUSD_20190410_GBP_GDP+MFG_PROD_M1.png,charts/GDP;charts/MFG_PROD,184,0,yes
+GDP+MFG_PROD,joint,2019-05-10,Friday,09:30,GDP m/m + Prelim GDP q/q + Manufacturing Production m/m,GBP,UK ONS,2019-05-10 08:30,GBPUSD_20190510_GBP_GDP+MFG_PROD_M1.png,charts/GDP;charts/MFG_PROD,184,0,yes
+GDP+MFG_PROD,joint,2019-06-10,Monday,09:30,GDP m/m + Manufacturing Production m/m,GBP,UK ONS,2019-06-10 08:30,GBPUSD_20190610_GBP_GDP+MFG_PROD_M1.png,charts/GDP;charts/MFG_PROD,184,0,yes
+GDP+MFG_PROD,joint,2019-07-10,Wednesday,09:30,GDP m/m + Manufacturing Production m/m,GBP,UK ONS,2019-07-10 08:30,GBPUSD_20190710_GBP_GDP+MFG_PROD_M1.png,charts/GDP;charts/MFG_PROD,184,0,yes
+GDP+MFG_PROD,joint,2019-08-09,Friday,09:30,GDP m/m + Prelim GDP q/q + Manufacturing Production m/m,GBP,UK ONS,2019-08-09 08:30,GBPUSD_20190809_GBP_GDP+MFG_PROD_M1.png,charts/GDP;charts/MFG_PROD,184,0,yes
+GDP+MFG_PROD,joint,2019-09-09,Monday,09:30,GDP m/m + Manufacturing Production m/m,GBP,UK ONS,2019-09-09 08:30,GBPUSD_20190909_GBP_GDP+MFG_PROD_M1.png,charts/GDP;charts/MFG_PROD,184,0,yes
+GDP+MFG_PROD,joint,2019-10-10,Thursday,09:30,GDP m/m + Manufacturing Production m/m,GBP,UK ONS,2019-10-10 08:30,GBPUSD_20191010_GBP_GDP+MFG_PROD_M1.png,charts/GDP;charts/MFG_PROD,184,0,yes
+MFG_PROD,single,2016-01-12,Tuesday,09:30,Manufacturing Production m/m,GBP,UK ONS,2016-01-12 09:30,GBPUSD_20160112_GBP_Manufacturing_Production_m_m_M1.png,charts/MFG_PROD,184,0,yes
+MFG_PROD,single,2016-02-10,Wednesday,09:30,Manufacturing Production m/m,GBP,UK ONS,2016-02-10 09:30,GBPUSD_20160210_GBP_Manufacturing_Production_m_m_M1.png,charts/MFG_PROD,184,0,yes
+MFG_PROD,single,2016-03-09,Wednesday,09:30,Manufacturing Production m/m,GBP,UK ONS,2016-03-09 09:30,GBPUSD_20160309_GBP_Manufacturing_Production_m_m_M1.png,charts/MFG_PROD,184,0,yes
+MFG_PROD,single,2016-04-08,Friday,09:30,Manufacturing Production m/m,GBP,UK ONS,2016-04-08 08:30,GBPUSD_20160408_GBP_Manufacturing_Production_m_m_M1.png,charts/MFG_PROD,184,0,yes
+MFG_PROD,single,2016-05-11,Wednesday,09:30,Manufacturing Production m/m,GBP,UK ONS,2016-05-11 08:30,GBPUSD_20160511_GBP_Manufacturing_Production_m_m_M1.png,charts/MFG_PROD,184,0,yes
+MFG_PROD,single,2016-06-08,Wednesday,09:30,Manufacturing Production m/m,GBP,UK ONS,2016-06-08 08:30,GBPUSD_20160608_GBP_Manufacturing_Production_m_m_M1.png,charts/MFG_PROD,184,0,yes
+MFG_PROD,single,2016-07-07,Thursday,09:30,Manufacturing Production m/m,GBP,UK ONS,2016-07-07 08:30,GBPUSD_20160707_GBP_Manufacturing_Production_m_m_M1.png,charts/MFG_PROD,184,0,yes
+MFG_PROD,single,2016-08-09,Tuesday,09:30,Manufacturing Production m/m,GBP,UK ONS,2016-08-09 08:30,GBPUSD_20160809_GBP_Manufacturing_Production_m_m_M1.png,charts/MFG_PROD,184,0,yes
+MFG_PROD,single,2016-09-07,Wednesday,09:30,Manufacturing Production m/m,GBP,UK ONS,2016-09-07 08:30,GBPUSD_20160907_GBP_Manufacturing_Production_m_m_M1.png,charts/MFG_PROD,184,0,yes
+MFG_PROD,single,2016-10-07,Friday,09:30,Manufacturing Production m/m,GBP,UK ONS,2016-10-07 08:30,GBPUSD_20161007_GBP_Manufacturing_Production_m_m_M1.png,charts/MFG_PROD,184,0,yes
+MFG_PROD,single,2016-11-08,Tuesday,09:30,Manufacturing Production m/m,GBP,UK ONS,2016-11-08 09:30,GBPUSD_20161108_GBP_Manufacturing_Production_m_m_M1.png,charts/MFG_PROD,184,0,yes
+MFG_PROD,single,2016-12-07,Wednesday,09:30,Manufacturing Production m/m,GBP,UK ONS,2016-12-07 09:30,GBPUSD_20161207_GBP_Manufacturing_Production_m_m_M1.png,charts/MFG_PROD,184,0,yes
+MFG_PROD,single,2017-01-11,Wednesday,09:30,Manufacturing Production m/m,GBP,UK ONS,2017-01-11 09:30,GBPUSD_20170111_GBP_Manufacturing_Production_m_m_M1.png,charts/MFG_PROD,184,0,yes
+MFG_PROD,single,2017-02-10,Friday,09:30,Manufacturing Production m/m,GBP,UK ONS,2017-02-10 09:30,GBPUSD_20170210_GBP_Manufacturing_Production_m_m_M1.png,charts/MFG_PROD,184,0,yes
+MFG_PROD,single,2017-03-10,Friday,09:30,Manufacturing Production m/m,GBP,UK ONS,2017-03-10 09:30,GBPUSD_20170310_GBP_Manufacturing_Production_m_m_M1.png,charts/MFG_PROD,184,0,yes
+MFG_PROD,single,2017-04-07,Friday,09:30,Manufacturing Production m/m,GBP,UK ONS,2017-04-07 08:30,GBPUSD_20170407_GBP_Manufacturing_Production_m_m_M1.png,charts/MFG_PROD,184,0,yes
+MFG_PROD,single,2017-05-11,Thursday,09:30,Manufacturing Production m/m,GBP,UK ONS,2017-05-11 08:30,GBPUSD_20170511_GBP_Manufacturing_Production_m_m_M1.png,charts/MFG_PROD,184,0,yes
+MFG_PROD,single,2017-06-09,Friday,09:30,Manufacturing Production m/m,GBP,UK ONS,2017-06-09 08:30,GBPUSD_20170609_GBP_Manufacturing_Production_m_m_M1.png,charts/MFG_PROD,184,0,yes
+MFG_PROD,single,2017-07-07,Friday,09:30,Manufacturing Production m/m,GBP,UK ONS,2017-07-07 08:30,GBPUSD_20170707_GBP_Manufacturing_Production_m_m_M1.png,charts/MFG_PROD,184,0,yes
+MFG_PROD,single,2017-08-10,Thursday,09:30,Manufacturing Production m/m,GBP,UK ONS,2017-08-10 08:30,GBPUSD_20170810_GBP_Manufacturing_Production_m_m_M1.png,charts/MFG_PROD,184,0,yes
+MFG_PROD,single,2017-09-08,Friday,09:30,Manufacturing Production m/m,GBP,UK ONS,2017-09-08 08:30,GBPUSD_20170908_GBP_Manufacturing_Production_m_m_M1.png,charts/MFG_PROD,184,0,yes
+MFG_PROD,single,2017-10-10,Tuesday,09:30,Manufacturing Production m/m,GBP,UK ONS,2017-10-10 08:30,GBPUSD_20171010_GBP_Manufacturing_Production_m_m_M1.png,charts/MFG_PROD,184,0,yes
+MFG_PROD,single,2017-11-10,Friday,09:30,Manufacturing Production m/m,GBP,UK ONS,2017-11-10 09:30,GBPUSD_20171110_GBP_Manufacturing_Production_m_m_M1.png,charts/MFG_PROD,184,0,yes
+MFG_PROD,single,2017-12-08,Friday,09:30,Manufacturing Production m/m,GBP,UK ONS,2017-12-08 09:30,GBPUSD_20171208_GBP_Manufacturing_Production_m_m_M1.png,charts/MFG_PROD,184,0,yes
+MFG_PROD,single,2018-01-10,Wednesday,09:30,Manufacturing Production m/m,GBP,UK ONS,2018-01-10 09:30,GBPUSD_20180110_GBP_Manufacturing_Production_m_m_M1.png,charts/MFG_PROD,184,0,yes
+MFG_PROD,single,2018-02-09,Friday,09:30,Manufacturing Production m/m,GBP,UK ONS,2018-02-09 09:30,GBPUSD_20180209_GBP_Manufacturing_Production_m_m_M1.png,charts/MFG_PROD,184,0,yes
+MFG_PROD,single,2018-03-09,Friday,09:30,Manufacturing Production m/m,GBP,UK ONS,2018-03-09 09:30,GBPUSD_20180309_GBP_Manufacturing_Production_m_m_M1.png,charts/MFG_PROD,184,0,yes
+MFG_PROD,single,2018-04-11,Wednesday,09:30,Manufacturing Production m/m,GBP,UK ONS,2018-04-11 08:30,GBPUSD_20180411_GBP_Manufacturing_Production_m_m_M1.png,charts/MFG_PROD,184,0,yes
+MFG_PROD,single,2018-05-10,Thursday,09:30,Manufacturing Production m/m,GBP,UK ONS,2018-05-10 08:30,GBPUSD_20180510_GBP_Manufacturing_Production_m_m_M1.png,charts/MFG_PROD,184,0,yes
+MFG_PROD,single,2018-06-11,Monday,09:30,Manufacturing Production m/m,GBP,UK ONS,2018-06-11 08:30,GBPUSD_20180611_GBP_Manufacturing_Production_m_m_M1.png,charts/MFG_PROD,184,0,yes
+PMI_CONST,single,2016-01-05,Tuesday,09:30,Construction PMI,GBP,S&P Global / CIPS,2016-01-05 09:30,GBPUSD_20160105_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2016-02-02,Tuesday,09:30,Construction PMI,GBP,S&P Global / CIPS,2016-02-02 09:30,GBPUSD_20160202_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2016-03-02,Wednesday,09:30,Construction PMI,GBP,S&P Global / CIPS,2016-03-02 09:30,GBPUSD_20160302_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2016-04-04,Monday,09:30,Construction PMI,GBP,S&P Global / CIPS,2016-04-04 08:30,GBPUSD_20160404_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2016-05-04,Wednesday,09:30,Construction PMI,GBP,S&P Global / CIPS,2016-05-04 08:30,GBPUSD_20160504_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2016-06-02,Thursday,09:30,Construction PMI,GBP,S&P Global / CIPS,2016-06-02 08:30,GBPUSD_20160602_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2016-07-04,Monday,09:30,Construction PMI,GBP,S&P Global / CIPS,2016-07-04 08:30,GBPUSD_20160704_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2016-08-02,Tuesday,09:30,Construction PMI,GBP,S&P Global / CIPS,2016-08-02 08:30,GBPUSD_20160802_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2016-09-02,Friday,09:30,Construction PMI,GBP,S&P Global / CIPS,2016-09-02 08:30,GBPUSD_20160902_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2016-10-04,Tuesday,09:30,Construction PMI,GBP,S&P Global / CIPS,2016-10-04 08:30,GBPUSD_20161004_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2016-11-02,Wednesday,09:30,Construction PMI,GBP,S&P Global / CIPS,2016-11-02 09:30,GBPUSD_20161102_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2016-12-02,Friday,09:30,Construction PMI,GBP,S&P Global / CIPS,2016-12-02 09:30,GBPUSD_20161202_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2017-01-04,Wednesday,09:30,Construction PMI,GBP,S&P Global / CIPS,2017-01-04 09:30,GBPUSD_20170104_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2017-02-02,Thursday,09:30,Construction PMI,GBP,S&P Global / CIPS,2017-02-02 09:30,GBPUSD_20170202_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2017-03-02,Thursday,09:30,Construction PMI,GBP,S&P Global / CIPS,2017-03-02 09:30,GBPUSD_20170302_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2017-04-04,Tuesday,09:30,Construction PMI,GBP,S&P Global / CIPS,2017-04-04 08:30,GBPUSD_20170404_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2017-05-03,Wednesday,09:30,Construction PMI,GBP,S&P Global / CIPS,2017-05-03 08:30,GBPUSD_20170503_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2017-06-02,Friday,09:30,Construction PMI,GBP,S&P Global / CIPS,2017-06-02 08:30,GBPUSD_20170602_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2017-07-04,Tuesday,09:30,Construction PMI,GBP,S&P Global / CIPS,2017-07-04 08:30,GBPUSD_20170704_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2017-08-02,Wednesday,09:30,Construction PMI,GBP,S&P Global / CIPS,2017-08-02 08:30,GBPUSD_20170802_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2017-09-04,Monday,09:30,Construction PMI,GBP,S&P Global / CIPS,2017-09-04 08:30,GBPUSD_20170904_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2017-10-03,Tuesday,09:30,Construction PMI,GBP,S&P Global / CIPS,2017-10-03 08:30,GBPUSD_20171003_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2017-11-02,Thursday,09:30,Construction PMI,GBP,S&P Global / CIPS,2017-11-02 09:30,GBPUSD_20171102_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2017-12-04,Monday,09:30,Construction PMI,GBP,S&P Global / CIPS,2017-12-04 09:30,GBPUSD_20171204_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2018-01-03,Wednesday,09:30,Construction PMI,GBP,S&P Global / CIPS,2018-01-03 09:30,GBPUSD_20180103_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2018-02-02,Friday,09:30,Construction PMI,GBP,S&P Global / CIPS,2018-02-02 09:30,GBPUSD_20180202_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2018-03-02,Friday,09:30,Construction PMI,GBP,S&P Global / CIPS,2018-03-02 09:30,GBPUSD_20180302_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2018-04-04,Wednesday,09:30,Construction PMI,GBP,S&P Global / CIPS,2018-04-04 08:30,GBPUSD_20180404_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2018-05-02,Wednesday,09:30,Construction PMI,GBP,S&P Global / CIPS,2018-05-02 08:30,GBPUSD_20180502_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2018-06-04,Monday,09:30,Construction PMI,GBP,S&P Global / CIPS,2018-06-04 08:30,GBPUSD_20180604_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2018-07-03,Tuesday,09:30,Construction PMI,GBP,S&P Global / CIPS,2018-07-03 08:30,GBPUSD_20180703_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_CONST,single,2018-08-02,Thursday,09:30,Construction PMI,GBP,S&P Global / CIPS,2018-08-02 08:30,GBPUSD_20180802_GBP_Construction_PMI_M1.png,charts/PMI_CONST,184,0,yes
+PMI_MFG,single,2016-01-04,Monday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2016-01-04 09:30,GBPUSD_20160104_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2016-02-01,Monday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2016-02-01 09:30,GBPUSD_20160201_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2016-03-01,Tuesday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2016-03-01 09:30,GBPUSD_20160301_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2016-04-01,Friday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2016-04-01 08:30,GBPUSD_20160401_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2016-05-03,Tuesday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2016-05-03 08:30,GBPUSD_20160503_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2016-06-01,Wednesday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2016-06-01 08:30,GBPUSD_20160601_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2016-07-01,Friday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2016-07-01 08:30,GBPUSD_20160701_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2016-08-01,Monday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2016-08-01 08:30,GBPUSD_20160801_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2016-09-01,Thursday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2016-09-01 08:30,GBPUSD_20160901_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2016-10-03,Monday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2016-10-03 08:30,GBPUSD_20161003_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2016-11-01,Tuesday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2016-11-01 09:30,GBPUSD_20161101_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2016-12-01,Thursday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2016-12-01 09:30,GBPUSD_20161201_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2017-01-03,Tuesday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2017-01-03 09:30,GBPUSD_20170103_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2017-02-01,Wednesday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2017-02-01 09:30,GBPUSD_20170201_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2017-03-01,Wednesday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2017-03-01 09:30,GBPUSD_20170301_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2017-04-03,Monday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2017-04-03 08:30,GBPUSD_20170403_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2017-05-02,Tuesday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2017-05-02 08:30,GBPUSD_20170502_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2017-06-01,Thursday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2017-06-01 08:30,GBPUSD_20170601_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2017-07-03,Monday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2017-07-03 08:30,GBPUSD_20170703_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2017-08-01,Tuesday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2017-08-01 08:30,GBPUSD_20170801_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2017-09-01,Friday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2017-09-01 08:30,GBPUSD_20170901_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2017-10-02,Monday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2017-10-02 08:30,GBPUSD_20171002_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2017-11-01,Wednesday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2017-11-01 09:30,GBPUSD_20171101_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2017-12-01,Friday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2017-12-01 09:30,GBPUSD_20171201_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2018-01-02,Tuesday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2018-01-02 09:30,GBPUSD_20180102_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2018-02-01,Thursday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2018-02-01 09:30,GBPUSD_20180201_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2018-03-01,Thursday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2018-03-01 09:30,GBPUSD_20180301_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2018-04-03,Tuesday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2018-04-03 08:30,GBPUSD_20180403_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2018-05-01,Tuesday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2018-05-01 08:30,GBPUSD_20180501_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2018-06-01,Friday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2018-06-01 08:30,GBPUSD_20180601_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2018-07-02,Monday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2018-07-02 08:30,GBPUSD_20180702_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2018-08-01,Wednesday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2018-08-01 08:30,GBPUSD_20180801_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2018-09-03,Monday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2018-09-03 08:30,GBPUSD_20180903_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2018-10-01,Monday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2018-10-01 08:30,GBPUSD_20181001_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG,single,2018-11-01,Thursday,09:30,Final Manufacturing PMI,GBP,S&P Global / CIPS,2018-11-01 09:30,GBPUSD_20181101_GBP_Final_Manufacturing_PMI_M1.png,charts/PMI_MFG,184,0,yes
+PMI_MFG+PMI_SVC,joint,2016-07-22,Friday,09:30,Final Manufacturing PMI + Final Services PMI,GBP,S&P Global / CIPS,2016-07-22 08:30,GBPUSD_20160722_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2019-11-22,Friday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2019-11-22 09:30,GBPUSD_20191122_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2019-12-16,Monday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2019-12-16 09:30,GBPUSD_20191216_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2020-01-24,Friday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2020-01-24 09:30,GBPUSD_20200124_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2020-02-21,Friday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2020-02-21 09:30,GBPUSD_20200221_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2020-03-24,Tuesday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2020-03-24 09:30,GBPUSD_20200324_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2020-04-23,Thursday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2020-04-23 08:30,GBPUSD_20200423_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2022-07-22,Friday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2022-07-22 08:30,GBPUSD_20220722_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2022-08-23,Tuesday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2022-08-23 08:30,GBPUSD_20220823_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2022-09-23,Friday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2022-09-23 08:30,GBPUSD_20220923_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2022-10-24,Monday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2022-10-24 08:30,GBPUSD_20221024_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2022-11-23,Wednesday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2022-11-23 09:30,GBPUSD_20221123_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2022-12-16,Friday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2022-12-16 09:30,GBPUSD_20221216_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2023-01-24,Tuesday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2023-01-24 09:30,GBPUSD_20230124_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2023-02-21,Tuesday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2023-02-21 09:30,GBPUSD_20230221_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2023-03-24,Friday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2023-03-24 09:30,GBPUSD_20230324_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2023-04-21,Friday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2023-04-21 08:30,GBPUSD_20230421_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2023-05-23,Tuesday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2023-05-23 08:30,GBPUSD_20230523_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2023-06-23,Friday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2023-06-23 08:30,GBPUSD_20230623_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2023-07-24,Monday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2023-07-24 08:30,GBPUSD_20230724_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2023-08-23,Wednesday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2023-08-23 08:30,GBPUSD_20230823_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2023-09-22,Friday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2023-09-22 08:30,GBPUSD_20230922_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2023-10-24,Tuesday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2023-10-24 08:30,GBPUSD_20231024_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2023-11-23,Thursday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2023-11-23 09:30,GBPUSD_20231123_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2023-12-15,Friday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2023-12-15 09:30,GBPUSD_20231215_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2024-01-24,Wednesday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2024-01-24 09:30,GBPUSD_20240124_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2024-02-22,Thursday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2024-02-22 09:30,GBPUSD_20240222_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2024-03-21,Thursday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2024-03-21 09:30,GBPUSD_20240321_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2024-04-23,Tuesday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2024-04-23 08:30,GBPUSD_20240423_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2024-05-23,Thursday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2024-05-23 08:30,GBPUSD_20240523_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2024-06-21,Friday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2024-06-21 08:30,GBPUSD_20240621_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2024-07-24,Wednesday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2024-07-24 08:30,GBPUSD_20240724_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2024-08-22,Thursday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2024-08-22 08:30,GBPUSD_20240822_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2024-09-23,Monday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2024-09-23 08:30,GBPUSD_20240923_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2024-10-24,Thursday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2024-10-24 08:30,GBPUSD_20241024_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2024-11-22,Friday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2024-11-22 09:30,GBPUSD_20241122_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2024-12-16,Monday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2024-12-16 09:30,GBPUSD_20241216_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2025-01-24,Friday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2025-01-24 09:30,GBPUSD_20250124_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2025-02-21,Friday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2025-02-21 09:30,GBPUSD_20250221_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2025-03-24,Monday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2025-03-24 09:30,GBPUSD_20250324_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2025-04-23,Wednesday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2025-04-23 08:30,GBPUSD_20250423_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2025-05-22,Thursday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2025-05-22 08:30,GBPUSD_20250522_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2025-06-23,Monday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2025-06-23 08:30,GBPUSD_20250623_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2025-07-24,Thursday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2025-07-24 08:30,GBPUSD_20250724_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2025-08-21,Thursday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2025-08-21 08:30,GBPUSD_20250821_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2025-09-23,Tuesday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2025-09-23 08:30,GBPUSD_20250923_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2025-10-24,Friday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2025-10-24 08:30,GBPUSD_20251024_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2025-11-21,Friday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2025-11-21 09:30,GBPUSD_20251121_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2025-12-16,Tuesday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2025-12-16 09:30,GBPUSD_20251216_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2026-01-23,Friday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2026-01-23 09:30,GBPUSD_20260123_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2026-02-20,Friday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2026-02-20 09:30,GBPUSD_20260220_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2026-03-24,Tuesday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2026-03-24 09:30,GBPUSD_20260324_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_MFG+PMI_SVC,joint,2026-04-23,Thursday,09:30,Flash Manufacturing PMI + Flash Services PMI,GBP,S&P Global / CIPS,2026-04-23 08:30,GBPUSD_20260423_GBP_PMI_MFG+PMI_SVC_M1.png,charts/PMI_MFG;charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2016-01-06,Wednesday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2016-01-06 09:30,GBPUSD_20160106_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2016-02-03,Wednesday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2016-02-03 09:30,GBPUSD_20160203_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2016-03-03,Thursday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2016-03-03 09:30,GBPUSD_20160303_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2016-04-05,Tuesday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2016-04-05 08:30,GBPUSD_20160405_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2016-05-05,Thursday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2016-05-05 08:30,GBPUSD_20160505_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2016-06-03,Friday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2016-06-03 08:30,GBPUSD_20160603_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2016-07-05,Tuesday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2016-07-05 08:30,GBPUSD_20160705_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2016-08-03,Wednesday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2016-08-03 08:30,GBPUSD_20160803_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2016-09-05,Monday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2016-09-05 08:30,GBPUSD_20160905_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2016-10-05,Wednesday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2016-10-05 08:30,GBPUSD_20161005_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2016-11-03,Thursday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2016-11-03 09:30,GBPUSD_20161103_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2016-12-05,Monday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2016-12-05 09:30,GBPUSD_20161205_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2017-01-05,Thursday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2017-01-05 09:30,GBPUSD_20170105_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2017-02-03,Friday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2017-02-03 09:30,GBPUSD_20170203_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2017-03-03,Friday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2017-03-03 09:30,GBPUSD_20170303_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2017-04-05,Wednesday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2017-04-05 08:30,GBPUSD_20170405_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2017-05-04,Thursday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2017-05-04 08:30,GBPUSD_20170504_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2017-06-05,Monday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2017-06-05 08:30,GBPUSD_20170605_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2017-07-05,Wednesday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2017-07-05 08:30,GBPUSD_20170705_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2017-08-03,Thursday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2017-08-03 08:30,GBPUSD_20170803_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2017-09-05,Tuesday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2017-09-05 08:30,GBPUSD_20170905_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2017-10-04,Wednesday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2017-10-04 08:30,GBPUSD_20171004_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2017-11-03,Friday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2017-11-03 09:30,GBPUSD_20171103_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2017-12-05,Tuesday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2017-12-05 09:30,GBPUSD_20171205_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2018-01-04,Thursday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2018-01-04 09:30,GBPUSD_20180104_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2018-02-05,Monday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2018-02-05 09:30,GBPUSD_20180205_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2018-03-05,Monday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2018-03-05 09:30,GBPUSD_20180305_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2018-04-05,Thursday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2018-04-05 08:30,GBPUSD_20180405_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2018-05-03,Thursday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2018-05-03 08:30,GBPUSD_20180503_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2018-06-05,Tuesday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2018-06-05 08:30,GBPUSD_20180605_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2018-07-04,Wednesday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2018-07-04 08:30,GBPUSD_20180704_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2018-08-03,Friday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2018-08-03 08:30,GBPUSD_20180803_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2018-09-05,Wednesday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2018-09-05 08:30,GBPUSD_20180905_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2018-10-03,Wednesday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2018-10-03 08:30,GBPUSD_20181003_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2018-11-05,Monday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2018-11-05 09:30,GBPUSD_20181105_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2020-06-03,Wednesday,09:30,Final Services PMI,GBP,S&P Global / CIPS,2020-06-03 08:30,GBPUSD_20200603_GBP_Final_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+PMI_SVC,single,2021-02-19,Friday,09:30,Flash Services PMI,GBP,S&P Global / CIPS,2021-02-19 09:30,GBPUSD_20210219_GBP_Flash_Services_PMI_M1.png,charts/PMI_SVC,184,0,yes
+POLITICS,single,2016-06-23,Thursday,10:15,EU Membership Vote,GBP,UK Parliament,2016-06-23 09:15,GBPUSD_20160623_GBP_EU_Membership_Vote_M1.png,charts/POLITICS,184,0,yes
+POLITICS,single,2016-11-03,Thursday,10:00,EU Membership Court Ruling,GBP,UK Parliament,2016-11-03 10:00,GBPUSD_20161103_GBP_EU_Membership_Court_Ruling_M1.png,charts/POLITICS,184,0,yes
+POLITICS,single,2017-01-17,Tuesday,11:45,Prime Minister May Speaks,GBP,UK Parliament,2017-01-17 11:45,GBPUSD_20170117_GBP_Prime_Minister_May_Speaks_M1.png,charts/POLITICS,184,0,yes
+POLITICS,single,2017-01-24,Tuesday,09:30,EU Membership Court Ruling,GBP,UK Parliament,2017-01-24 09:30,GBPUSD_20170124_GBP_EU_Membership_Court_Ruling_M1.png,charts/POLITICS,184,0,yes
+POLITICS,single,2017-04-18,Tuesday,11:05,Prime Minister May Speaks,GBP,UK Parliament,2017-04-18 10:05,GBPUSD_20170418_GBP_Prime_Minister_May_Speaks_M1.png,charts/POLITICS,184,0,yes
+POLITICS,single,2017-05-15,Monday,15:00,Prime Minister May Speaks,GBP,UK Parliament,2017-05-15 14:00,GBPUSD_20170515_GBP_Prime_Minister_May_Speaks_M1.png,charts/POLITICS,184,0,yes
+POLITICS,single,2017-05-22,Monday,19:00,Prime Minister May Speaks,GBP,UK Parliament,2017-05-22 18:00,GBPUSD_20170522_GBP_Prime_Minister_May_Speaks_M1.png,charts/POLITICS,184,0,yes
+POLITICS,single,2017-06-08,Thursday,09:30,Parliamentary Elections,GBP,UK Parliament,2017-06-08 08:30,GBPUSD_20170608_GBP_Parliamentary_Elections_M1.png,charts/POLITICS,184,0,yes
+POLITICS,single,2017-09-22,Friday,14:29,Prime Minister May Speaks,GBP,UK Parliament,2017-09-22 13:29,GBPUSD_20170922_GBP_Prime_Minister_May_Speaks_M1.png,charts/POLITICS,184,0,yes
+POLITICS,single,2017-09-28,Thursday,09:49,Prime Minister May Speaks,GBP,UK Parliament,2017-09-28 08:49,GBPUSD_20170928_GBP_Prime_Minister_May_Speaks_M1.png,charts/POLITICS,184,0,yes
+POLITICS,single,2017-10-01,Sunday,10:00,Prime Minister May Speaks,GBP,UK Parliament,2017-10-01 09:00,GBPUSD_20171001_GBP_Prime_Minister_May_Speaks_M1.png,charts/POLITICS,0,184,no
+POLITICS,single,2018-03-02,Friday,13:43,Prime Minister May Speaks,GBP,UK Parliament,2018-03-02 13:43,GBPUSD_20180302_GBP_Prime_Minister_May_Speaks_M1.png,charts/POLITICS,184,0,yes
+POLITICS,single,2018-09-21,Friday,14:03,Prime Minister May Speaks,GBP,UK Parliament,2018-09-21 13:03,GBPUSD_20180921_GBP_Prime_Minister_May_Speaks_M1.png,charts/POLITICS,184,0,yes
+POLITICS,single,2018-10-15,Monday,15:34,Prime Minister May Speaks,GBP,UK Parliament,2018-10-15 14:34,GBPUSD_20181015_GBP_Prime_Minister_May_Speaks_M1.png,charts/POLITICS,184,0,yes
+POLITICS,single,2018-11-22,Thursday,12:39,Prime Minister May Speaks,GBP,UK Parliament,2018-11-22 12:39,GBPUSD_20181122_GBP_Prime_Minister_May_Speaks_M1.png,charts/POLITICS,184,0,yes
+POLITICS,single,2018-12-10,Monday,15:30,Prime Minister May Speaks,GBP,UK Parliament,2018-12-10 15:30,GBPUSD_20181210_GBP_Prime_Minister_May_Speaks_M1.png,charts/POLITICS,184,0,yes
+POLITICS,single,2019-01-15,Tuesday,19:39,Parliament Brexit Vote,GBP,UK Parliament,2019-01-15 19:39,GBPUSD_20190115_GBP_Parliament_Brexit_Vote_M1.png,charts/POLITICS,184,0,yes
+POLITICS,single,2019-01-16,Wednesday,19:15,Govt Confidence Vote,GBP,UK Parliament,2019-01-16 19:15,GBPUSD_20190116_GBP_Govt_Confidence_Vote_M1.png,charts/POLITICS,184,0,yes
+POLITICS,single,2019-01-21,Monday,15:35,Prime Minister May Speaks,GBP,UK Parliament,2019-01-21 15:35,GBPUSD_20190121_GBP_Prime_Minister_May_Speaks_M1.png,charts/POLITICS,184,0,yes
+POLITICS,single,2019-03-12,Tuesday,19:22,Parliament Brexit Vote,GBP,UK Parliament,2019-03-12 19:22,GBPUSD_20190312_GBP_Parliament_Brexit_Vote_M1.png,charts/POLITICS,183,1,yes
+POLITICS,single,2019-03-13,Wednesday,19:16,Parliament Brexit Vote,GBP,UK Parliament,2019-03-13 19:16,GBPUSD_20190313_GBP_Parliament_Brexit_Vote_M1.png,charts/POLITICS,184,0,yes
+POLITICS,single,2019-03-14,Thursday,18:23,Parliament Brexit Vote,GBP,UK Parliament,2019-03-14 18:23,GBPUSD_20190314_GBP_Parliament_Brexit_Vote_M1.png,charts/POLITICS,184,0,yes
+POLITICS,single,2019-03-20,Wednesday,20:15,Prime Minister May Speaks,GBP,UK Parliament,2019-03-20 20:15,GBPUSD_20190320_GBP_Prime_Minister_May_Speaks_M1.png,charts/POLITICS,184,0,yes
+POLITICS,single,2019-03-29,Friday,14:42,Parliament Brexit Vote,GBP,UK Parliament,2019-03-29 14:42,GBPUSD_20190329_GBP_Parliament_Brexit_Vote_M1.png,charts/POLITICS,184,0,yes
+POLITICS,single,2019-05-21,Tuesday,16:00,Prime Minister May Speaks,GBP,UK Parliament,2019-05-21 15:00,GBPUSD_20190521_GBP_Prime_Minister_May_Speaks_M1.png,charts/POLITICS,184,0,yes
+POLITICS,single,2019-07-25,Thursday,11:30,Prime Minister Johnson Speaks,GBP,UK Parliament,2019-07-25 10:30,GBPUSD_20190725_GBP_Prime_Minister_Johnson_Speaks_M1.png,charts/POLITICS,184,0,yes
+POLITICS,single,2019-10-19,Saturday,14:50,Parliament Brexit Vote,GBP,UK Parliament,2019-10-19 13:50,GBPUSD_20191019_GBP_Parliament_Brexit_Vote_M1.png,charts/POLITICS,0,184,no
+POLITICS,single,2019-10-22,Tuesday,19:16,Parliament Brexit Vote,GBP,UK Parliament,2019-10-22 18:16,GBPUSD_20191022_GBP_Parliament_Brexit_Vote_1916_M1.png,charts/POLITICS,184,0,yes
+POLITICS,single,2019-10-22,Tuesday,19:32,Parliament Brexit Vote,GBP,UK Parliament,2019-10-22 18:32,GBPUSD_20191022_GBP_Parliament_Brexit_Vote_1932_M1.png,charts/POLITICS,184,0,yes
+POLITICS,single,2019-10-28,Monday,19:00,Parliament Brexit Vote,GBP,UK Parliament,2019-10-28 19:00,GBPUSD_20191028_GBP_Parliament_Brexit_Vote_M1.png,charts/POLITICS,182,2,yes
+POLITICS,single,2019-10-29,Tuesday,20:23,Parliament Brexit Vote,GBP,UK Parliament,2019-10-29 20:23,GBPUSD_20191029_GBP_Parliament_Brexit_Vote_M1.png,charts/POLITICS,184,0,yes
+POLITICS,single,2019-11-19,Tuesday,20:00,Prime Minister Johnson Speaks,GBP,UK Parliament,2019-11-19 20:00,GBPUSD_20191119_GBP_Prime_Minister_Johnson_Speaks_M1.png,charts/POLITICS,184,0,yes
+POLITICS,single,2019-12-12,Thursday,08:30,Parliamentary Elections,GBP,UK Parliament,2019-12-12 08:30,GBPUSD_20191212_GBP_Parliamentary_Elections_M1.png,charts/POLITICS,184,0,yes
+POLITICS,single,2019-12-20,Friday,14:30,Parliament Brexit Vote,GBP,UK Parliament,2019-12-20 14:30,GBPUSD_20191220_GBP_Parliament_Brexit_Vote_M1.png,charts/POLITICS,184,0,yes
+POLITICS,single,2022-06-06,Monday,21:00,Govt Confidence Vote,GBP,UK Parliament,2022-06-06 20:00,GBPUSD_20220606_GBP_Govt_Confidence_Vote_M1.png,charts/POLITICS,181,3,yes
+POLITICS,single,2024-07-04,Thursday,08:30,Parliamentary Elections,GBP,UK Parliament,2024-07-04 07:30,GBPUSD_20240704_GBP_Parliamentary_Elections_M1.png,charts/POLITICS,184,0,yes
+RETAIL,single,2016-01-22,Friday,09:30,Retail Sales m/m,GBP,UK ONS,2016-01-22 09:30,GBPUSD_20160122_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2016-02-19,Friday,09:30,Retail Sales m/m,GBP,UK ONS,2016-02-19 09:30,GBPUSD_20160219_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2016-03-24,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2016-03-24 09:30,GBPUSD_20160324_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2016-04-21,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2016-04-21 08:30,GBPUSD_20160421_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2016-05-19,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2016-05-19 08:30,GBPUSD_20160519_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2016-06-16,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2016-06-16 08:30,GBPUSD_20160616_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2016-07-21,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2016-07-21 08:30,GBPUSD_20160721_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2016-08-18,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2016-08-18 08:30,GBPUSD_20160818_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2016-09-15,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2016-09-15 08:30,GBPUSD_20160915_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2016-10-20,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2016-10-20 08:30,GBPUSD_20161020_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2016-11-17,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2016-11-17 09:30,GBPUSD_20161117_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2016-12-15,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2016-12-15 09:30,GBPUSD_20161215_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2017-01-20,Friday,09:30,Retail Sales m/m,GBP,UK ONS,2017-01-20 09:30,GBPUSD_20170120_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2017-02-17,Friday,09:30,Retail Sales m/m,GBP,UK ONS,2017-02-17 09:30,GBPUSD_20170217_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2017-03-23,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2017-03-23 09:30,GBPUSD_20170323_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2017-04-21,Friday,09:30,Retail Sales m/m,GBP,UK ONS,2017-04-21 08:30,GBPUSD_20170421_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2017-05-18,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2017-05-18 08:30,GBPUSD_20170518_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2017-06-15,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2017-06-15 08:30,GBPUSD_20170615_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2017-07-20,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2017-07-20 08:30,GBPUSD_20170720_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2017-08-17,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2017-08-17 08:30,GBPUSD_20170817_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2017-09-20,Wednesday,09:30,Retail Sales m/m,GBP,UK ONS,2017-09-20 08:30,GBPUSD_20170920_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2017-10-19,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2017-10-19 08:30,GBPUSD_20171019_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2017-11-16,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2017-11-16 09:30,GBPUSD_20171116_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2017-12-14,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2017-12-14 09:30,GBPUSD_20171214_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2018-01-19,Friday,09:29,Retail Sales m/m,GBP,UK ONS,2018-01-19 09:29,GBPUSD_20180119_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2018-02-16,Friday,09:30,Retail Sales m/m,GBP,UK ONS,2018-02-16 09:30,GBPUSD_20180216_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2018-03-22,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2018-03-22 09:30,GBPUSD_20180322_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2018-04-19,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2018-04-19 08:30,GBPUSD_20180419_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2018-05-24,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2018-05-24 08:30,GBPUSD_20180524_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2018-06-14,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2018-06-14 08:30,GBPUSD_20180614_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2018-07-19,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2018-07-19 08:30,GBPUSD_20180719_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2018-08-16,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2018-08-16 08:30,GBPUSD_20180816_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2018-09-20,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2018-09-20 08:30,GBPUSD_20180920_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2018-10-18,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2018-10-18 08:30,GBPUSD_20181018_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2018-11-15,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2018-11-15 09:30,GBPUSD_20181115_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2018-12-20,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2018-12-20 09:30,GBPUSD_20181220_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2019-01-18,Friday,09:30,Retail Sales m/m,GBP,UK ONS,2019-01-18 09:30,GBPUSD_20190118_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2019-02-15,Friday,09:30,Retail Sales m/m,GBP,UK ONS,2019-02-15 09:30,GBPUSD_20190215_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2019-03-21,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2019-03-21 09:30,GBPUSD_20190321_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2019-04-18,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2019-04-18 08:30,GBPUSD_20190418_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2019-05-24,Friday,09:30,Retail Sales m/m,GBP,UK ONS,2019-05-24 08:30,GBPUSD_20190524_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2019-06-20,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2019-06-20 08:30,GBPUSD_20190620_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2019-07-18,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2019-07-18 08:30,GBPUSD_20190718_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2019-08-15,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2019-08-15 08:30,GBPUSD_20190815_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2019-09-19,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2019-09-19 08:30,GBPUSD_20190919_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2019-10-17,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2019-10-17 08:30,GBPUSD_20191017_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2019-11-14,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2019-11-14 09:30,GBPUSD_20191114_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2019-12-19,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2019-12-19 09:30,GBPUSD_20191219_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2020-01-17,Friday,09:30,Retail Sales m/m,GBP,UK ONS,2020-01-17 09:30,GBPUSD_20200117_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2020-02-20,Thursday,09:30,Retail Sales m/m,GBP,UK ONS,2020-02-20 09:30,GBPUSD_20200220_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2020-04-24,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2020-04-24 06:00,GBPUSD_20200424_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2020-05-22,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2020-05-22 06:00,GBPUSD_20200522_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2021-02-19,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2021-02-19 07:00,GBPUSD_20210219_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2023-09-22,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2023-09-22 06:00,GBPUSD_20230922_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2023-10-20,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2023-10-20 06:00,GBPUSD_20231020_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2023-11-17,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2023-11-17 07:00,GBPUSD_20231117_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2023-12-22,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2023-12-22 07:00,GBPUSD_20231222_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2024-01-19,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2024-01-19 07:00,GBPUSD_20240119_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2024-02-16,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2024-02-16 07:00,GBPUSD_20240216_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2024-03-22,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2024-03-22 07:00,GBPUSD_20240322_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2024-04-19,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2024-04-19 06:00,GBPUSD_20240419_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2024-05-24,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2024-05-24 06:00,GBPUSD_20240524_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,181,3,yes
+RETAIL,single,2024-06-21,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2024-06-21 06:00,GBPUSD_20240621_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,181,3,yes
+RETAIL,single,2024-07-19,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2024-07-19 06:00,GBPUSD_20240719_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2024-08-16,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2024-08-16 06:00,GBPUSD_20240816_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,183,1,yes
+RETAIL,single,2024-09-20,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2024-09-20 06:00,GBPUSD_20240920_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2024-10-18,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2024-10-18 06:00,GBPUSD_20241018_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2024-11-22,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2024-11-22 07:00,GBPUSD_20241122_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2024-12-20,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2024-12-20 07:00,GBPUSD_20241220_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2025-01-17,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2025-01-17 07:00,GBPUSD_20250117_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2025-02-21,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2025-02-21 07:00,GBPUSD_20250221_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2025-03-28,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2025-03-28 07:00,GBPUSD_20250328_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2025-04-25,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2025-04-25 06:00,GBPUSD_20250425_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2025-05-23,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2025-05-23 06:00,GBPUSD_20250523_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2025-06-20,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2025-06-20 06:00,GBPUSD_20250620_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2025-11-21,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2025-11-21 07:00,GBPUSD_20251121_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2025-12-19,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2025-12-19 07:00,GBPUSD_20251219_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,183,1,yes
+RETAIL,single,2026-01-23,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2026-01-23 07:00,GBPUSD_20260123_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2026-02-20,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2026-02-20 07:00,GBPUSD_20260220_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2026-03-27,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2026-03-27 07:00,GBPUSD_20260327_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2026-04-24,Friday,07:00,Retail Sales m/m,GBP,UK ONS,2026-04-24 06:00,GBPUSD_20260424_GBP_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+SPEECH,single,2016-01-12,Tuesday,14:15,BOE Gov Carney Speaks,GBP,Bank of England,2016-01-12 14:15,GBPUSD_20160112_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-01-19,Tuesday,12:00,BOE Gov Carney Speaks,GBP,Bank of England,2016-01-19 12:00,GBPUSD_20160119_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-01-26,Tuesday,10:00,BOE Gov Carney Speaks,GBP,Bank of England,2016-01-26 10:00,GBPUSD_20160126_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-02-04,Thursday,12:30,BOE Gov Carney Speaks,GBP,Bank of England,2016-02-04 12:30,GBPUSD_20160204_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-02-23,Tuesday,10:00,Monetary Policy Report Hearings,GBP,Bank of England,2016-02-23 10:00,GBPUSD_20160223_GBP_Monetary_Policy_Report_Hearings_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-02-26,Friday,03:15,BOE Gov Carney Speaks,GBP,Bank of England,2016-02-26 03:15,GBPUSD_20160226_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-03-08,Tuesday,09:15,BOE Gov Carney Speaks,GBP,Bank of England,2016-03-08 09:15,GBPUSD_20160308_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-03-31,Thursday,08:00,BOE Gov Carney Speaks,GBP,Bank of England,2016-03-31 07:00,GBPUSD_20160331_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-04-19,Tuesday,15:35,BOE Gov Carney Speaks,GBP,Bank of England,2016-04-19 14:35,GBPUSD_20160419_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-04-21,Thursday,15:00,BOE Gov Carney Speaks,GBP,Bank of England,2016-04-21 14:00,GBPUSD_20160421_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-05-12,Thursday,12:30,BOE Gov Carney Speaks,GBP,Bank of England,2016-05-12 11:30,GBPUSD_20160512_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-05-24,Tuesday,10:00,Monetary Policy Report Hearings,GBP,Bank of England,2016-05-24 09:00,GBPUSD_20160524_GBP_Monetary_Policy_Report_Hearings_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-06-02,Thursday,14:00,BOE Gov Carney Speaks,GBP,Bank of England,2016-06-02 13:00,GBPUSD_20160602_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-06-24,Friday,08:46,BOE Gov Carney Speaks,GBP,Bank of England,2016-06-24 07:46,GBPUSD_20160624_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-06-30,Thursday,16:00,BOE Gov Carney Speaks,GBP,Bank of England,2016-06-30 15:00,GBPUSD_20160630_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-07-05,Tuesday,11:00,BOE Gov Carney Speaks,GBP,Bank of England,2016-07-05 10:00,GBPUSD_20160705_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-07-12,Tuesday,10:00,BOE Gov Carney Speaks,GBP,Bank of England,2016-07-12 09:00,GBPUSD_20160712_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-07-15,Friday,13:00,BOE Gov Carney Speaks,GBP,Bank of England,2016-07-15 12:00,GBPUSD_20160715_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-07-18,Monday,09:15,MPC Member Weale Speaks,GBP,Bank of England,2016-07-18 08:15,GBPUSD_20160718_GBP_MPC_Member_Weale_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-08-04,Thursday,12:30,BOE Gov Carney Speaks,GBP,Bank of England,2016-08-04 11:30,GBPUSD_20160804_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-09-07,Wednesday,14:15,Monetary Policy Report Hearings,GBP,Bank of England,2016-09-07 13:15,GBPUSD_20160907_GBP_Monetary_Policy_Report_Hearings_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-09-22,Thursday,18:10,BOE Gov Carney Speaks,GBP,Bank of England,2016-09-22 17:10,GBPUSD_20160922_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-10-14,Friday,14:30,BOE Gov Carney Speaks,GBP,Bank of England,2016-10-14 13:30,GBPUSD_20161014_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-10-25,Tuesday,15:35,BOE Gov Carney Speaks,GBP,Bank of England,2016-10-25 14:35,GBPUSD_20161025_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-11-03,Thursday,12:30,BOE Gov Carney Speaks,GBP,Bank of England,2016-11-03 12:30,GBPUSD_20161103_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-11-15,Tuesday,10:00,Monetary Policy Report Hearings,GBP,Bank of England,2016-11-15 10:00,GBPUSD_20161115_GBP_Monetary_Policy_Report_Hearings_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-12-05,Monday,17:00,BOE Gov Carney Speaks,GBP,Bank of England,2016-12-05 17:00,GBPUSD_20161205_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-12-14,Wednesday,12:15,BOE Gov Carney Speaks,GBP,Bank of England,2016-12-14 12:15,GBPUSD_20161214_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-01-11,Wednesday,14:15,BOE Gov Carney Speaks,GBP,Bank of England,2017-01-11 14:15,GBPUSD_20170111_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-01-16,Monday,18:30,BOE Gov Carney Speaks,GBP,Bank of England,2017-01-16 18:30,GBPUSD_20170116_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-01-25,Wednesday,16:50,BOE Gov Carney Speaks,GBP,Bank of England,2017-01-25 16:50,GBPUSD_20170125_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-02-02,Thursday,12:30,BOE Gov Carney Speaks,GBP,Bank of England,2017-02-02 12:30,GBPUSD_20170202_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-02-09,Thursday,18:30,BOE Gov Carney Speaks,GBP,Bank of England,2017-02-09 18:30,GBPUSD_20170209_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-02-21,Tuesday,10:00,Monetary Policy Report Hearings,GBP,Bank of England,2017-02-21 10:00,GBPUSD_20170221_GBP_Monetary_Policy_Report_Hearings_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-03-21,Tuesday,10:35,BOE Gov Carney Speaks,GBP,Bank of England,2017-03-21 10:35,GBPUSD_20170321_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-04-07,Friday,10:00,BOE Gov Carney Speaks,GBP,Bank of England,2017-04-07 09:00,GBPUSD_20170407_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-04-12,Wednesday,09:40,BOE Gov Carney Speaks,GBP,Bank of England,2017-04-12 08:40,GBPUSD_20170412_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-04-20,Thursday,16:30,BOE Gov Carney Speaks,GBP,Bank of England,2017-04-20 15:30,GBPUSD_20170420_GBP_BOE_Gov_Carney_Speaks_1630_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-04-20,Thursday,17:30,BOE Gov Carney Speaks,GBP,Bank of England,2017-04-20 16:30,GBPUSD_20170420_GBP_BOE_Gov_Carney_Speaks_1730_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-05-11,Thursday,12:30,BOE Gov Carney Speaks,GBP,Bank of England,2017-05-11 11:30,GBPUSD_20170511_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-06-20,Tuesday,08:30,BOE Gov Carney Speaks,GBP,Bank of England,2017-06-20 07:30,GBPUSD_20170620_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-06-27,Tuesday,11:00,BOE Gov Carney Speaks,GBP,Bank of England,2017-06-27 10:00,GBPUSD_20170627_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-06-28,Wednesday,14:30,BOE Gov Carney Speaks,GBP,Bank of England,2017-06-28 13:30,GBPUSD_20170628_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-07-03,Monday,18:30,MPC Member Haldane Speaks,GBP,Bank of England,2017-07-03 17:30,GBPUSD_20170703_GBP_MPC_Member_Haldane_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-07-07,Friday,09:51,BOE Gov Carney Speaks,GBP,Bank of England,2017-07-07 08:51,GBPUSD_20170707_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-07-18,Tuesday,14:30,BOE Gov Carney Speaks,GBP,Bank of England,2017-07-18 13:30,GBPUSD_20170718_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-08-03,Thursday,12:30,BOE Gov Carney Speaks,GBP,Bank of England,2017-08-03 11:30,GBPUSD_20170803_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-09-18,Monday,16:00,BOE Gov Carney Speaks,GBP,Bank of England,2017-09-18 15:00,GBPUSD_20170918_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-09-28,Thursday,09:15,BOE Gov Carney Speaks,GBP,Bank of England,2017-09-28 08:15,GBPUSD_20170928_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-09-29,Friday,15:00,BOE Gov Carney Speaks,GBP,Bank of England,2017-09-29 14:00,GBPUSD_20170929_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-10-17,Tuesday,11:15,BOE Gov Carney Speaks,GBP,Bank of England,2017-10-17 10:15,GBPUSD_20171017_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-11-02,Thursday,12:30,BOE Gov Carney Speaks,GBP,Bank of England,2017-11-02 12:30,GBPUSD_20171102_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-11-14,Tuesday,10:00,BOE Gov Carney Speaks,GBP,Bank of England,2017-11-14 10:00,GBPUSD_20171114_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-11-15,Wednesday,13:00,MPC Member Broadbent Speaks,GBP,Bank of England,2017-11-15 13:00,GBPUSD_20171115_GBP_MPC_Member_Broadbent_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-11-21,Tuesday,10:00,Monetary Policy Report Hearings,GBP,Bank of England,2017-11-21 10:00,GBPUSD_20171121_GBP_Monetary_Policy_Report_Hearings_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-11-28,Tuesday,07:30,BOE Gov Carney Speaks,GBP,Bank of England,2017-11-28 07:30,GBPUSD_20171128_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-11-29,Wednesday,14:00,BOE Gov Carney Speaks,GBP,Bank of England,2017-11-29 14:00,GBPUSD_20171129_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-12-20,Wednesday,13:15,BOE Gov Carney Speaks,GBP,Bank of England,2017-12-20 13:15,GBPUSD_20171220_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-01-26,Friday,14:00,BOE Gov Carney Speaks,GBP,Bank of England,2018-01-26 14:00,GBPUSD_20180126_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-01-30,Tuesday,15:30,BOE Gov Carney Speaks,GBP,Bank of England,2018-01-30 15:30,GBPUSD_20180130_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-02-19,Monday,19:45,BOE Gov Carney Speaks,GBP,Bank of England,2018-02-19 19:45,GBPUSD_20180219_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,178,6,yes
+SPEECH,single,2018-02-21,Wednesday,14:15,Monetary Policy Report Hearings,GBP,Bank of England,2018-02-21 14:15,GBPUSD_20180221_GBP_Monetary_Policy_Report_Hearings_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-03-02,Friday,10:00,BOE Gov Carney Speaks,GBP,Bank of England,2018-03-02 10:00,GBPUSD_20180302_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-04-06,Friday,16:15,BOE Gov Carney Speaks,GBP,Bank of England,2018-04-06 15:15,GBPUSD_20180406_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-04-12,Thursday,20:00,BOE Gov Carney Speaks,GBP,Bank of England,2018-04-12 19:00,GBPUSD_20180412_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-04-27,Friday,15:00,BOE Gov Carney Speaks,GBP,Bank of England,2018-04-27 14:00,GBPUSD_20180427_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-05-22,Tuesday,10:00,Monetary Policy Report Hearings,GBP,Bank of England,2018-05-22 09:00,GBPUSD_20180522_GBP_Monetary_Policy_Report_Hearings_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-05-24,Thursday,09:00,BOE Gov Carney Speaks,GBP,Bank of England,2018-05-24 08:00,GBPUSD_20180524_GBP_BOE_Gov_Carney_Speaks_0900_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-05-24,Thursday,20:10,BOE Gov Carney Speaks,GBP,Bank of England,2018-05-24 19:10,GBPUSD_20180524_GBP_BOE_Gov_Carney_Speaks_2010_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-05-25,Friday,14:20,BOE Gov Carney Speaks,GBP,Bank of England,2018-05-25 13:20,GBPUSD_20180525_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-06-21,Thursday,21:15,BOE Gov Carney Speaks,GBP,Bank of England,2018-06-21 20:15,GBPUSD_20180621_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,180,4,yes
+SPEECH,single,2018-06-27,Wednesday,11:00,BOE Gov Carney Speaks,GBP,Bank of England,2018-06-27 10:00,GBPUSD_20180627_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-07-05,Thursday,10:45,BOE Gov Carney Speaks,GBP,Bank of England,2018-07-05 09:45,GBPUSD_20180705_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-07-11,Wednesday,16:35,BOE Gov Carney Speaks,GBP,Bank of England,2018-07-11 15:35,GBPUSD_20180711_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-07-17,Tuesday,09:00,BOE Gov Carney Speaks,GBP,Bank of England,2018-07-17 08:00,GBPUSD_20180717_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-08-02,Thursday,12:30,BOE Gov Carney Speaks,GBP,Bank of England,2018-08-02 11:30,GBPUSD_20180802_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-09-04,Tuesday,13:15,Monetary Policy Report Hearings,GBP,Bank of England,2018-09-04 12:15,GBPUSD_20180904_GBP_Monetary_Policy_Report_Hearings_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-09-14,Friday,11:00,BOE Gov Carney Speaks,GBP,Bank of England,2018-09-14 10:00,GBPUSD_20180914_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-09-27,Thursday,15:00,BOE Gov Carney Speaks,GBP,Bank of England,2018-09-27 14:00,GBPUSD_20180927_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-10-11,Thursday,06:00,BOE Gov Carney Speaks,GBP,Bank of England,2018-10-11 05:00,GBPUSD_20181011_GBP_BOE_Gov_Carney_Speaks_0600_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-10-11,Thursday,10:00,BOE Gov Carney Speaks,GBP,Bank of England,2018-10-11 09:00,GBPUSD_20181011_GBP_BOE_Gov_Carney_Speaks_1000_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-10-19,Friday,17:10,BOE Gov Carney Speaks,GBP,Bank of England,2018-10-19 16:10,GBPUSD_20181019_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-10-23,Tuesday,16:20,BOE Gov Carney Speaks,GBP,Bank of England,2018-10-23 15:20,GBPUSD_20181023_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-11-01,Thursday,12:30,BOE Gov Carney Speaks,GBP,Bank of England,2018-11-01 12:30,GBPUSD_20181101_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-11-20,Tuesday,10:00,Monetary Policy Report Hearings,GBP,Bank of England,2018-11-20 10:00,GBPUSD_20181120_GBP_Monetary_Policy_Report_Hearings_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-11-26,Monday,18:30,BOE Gov Carney Speaks,GBP,Bank of England,2018-11-26 18:30,GBPUSD_20181126_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-11-28,Wednesday,16:45,BOE Gov Carney Speaks,GBP,Bank of England,2018-11-28 16:45,GBPUSD_20181128_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-12-04,Tuesday,09:15,BOE Gov Carney Speaks,GBP,Bank of England,2018-12-04 09:15,GBPUSD_20181204_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-01-09,Wednesday,15:30,BOE Gov Carney Speaks,GBP,Bank of England,2019-01-09 15:30,GBPUSD_20190109_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-01-10,Thursday,10:30,Monetary Policy Report Hearings,GBP,Bank of England,2019-01-10 10:30,GBPUSD_20190110_GBP_Monetary_Policy_Report_Hearings_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-01-16,Wednesday,09:15,BOE Gov Carney Speaks,GBP,Bank of England,2019-01-16 09:15,GBPUSD_20190116_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-01-28,Monday,14:30,BOE Gov Carney Speaks,GBP,Bank of England,2019-01-28 14:30,GBPUSD_20190128_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-02-07,Thursday,12:30,BOE Gov Carney Speaks,GBP,Bank of England,2019-02-07 12:30,GBPUSD_20190207_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-02-12,Tuesday,13:00,BOE Gov Carney Speaks,GBP,Bank of England,2019-02-12 13:00,GBPUSD_20190212_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-02-25,Monday,10:00,BOE Gov Carney Speaks,GBP,Bank of England,2019-02-25 10:00,GBPUSD_20190225_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-02-26,Tuesday,10:00,Monetary Policy Report Hearings,GBP,Bank of England,2019-02-26 10:00,GBPUSD_20190226_GBP_Monetary_Policy_Report_Hearings_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-03-05,Tuesday,15:35,BOE Gov Carney Speaks,GBP,Bank of England,2019-03-05 15:35,GBPUSD_20190305_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-04-12,Friday,17:30,BOE Gov Carney Speaks,GBP,Bank of England,2019-04-12 16:30,GBPUSD_20190412_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-04-17,Wednesday,14:00,BOE Gov Carney Speaks,GBP,Bank of England,2019-04-17 13:00,GBPUSD_20190417_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-04-29,Monday,09:10,BOE Gov Carney Speaks,GBP,Bank of England,2019-04-29 08:10,GBPUSD_20190429_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-05-02,Thursday,12:30,BOE Gov Carney Speaks,GBP,Bank of England,2019-05-02 11:30,GBPUSD_20190502_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-06-06,Thursday,10:00,BOE Gov Carney Speaks,GBP,Bank of England,2019-06-06 09:00,GBPUSD_20190606_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-06-14,Friday,13:55,BOE Gov Carney Speaks,GBP,Bank of England,2019-06-14 12:55,GBPUSD_20190614_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-06-18,Tuesday,15:00,BOE Gov Carney Speaks,GBP,Bank of England,2019-06-18 14:00,GBPUSD_20190618_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-06-20,Thursday,21:00,BOE Gov Carney Speaks,GBP,Bank of England,2019-06-20 20:00,GBPUSD_20190620_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-06-26,Wednesday,10:15,Monetary Policy Report Hearings,GBP,Bank of England,2019-06-26 09:15,GBPUSD_20190626_GBP_Monetary_Policy_Report_Hearings_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-07-11,Thursday,11:00,BOE Gov Carney Speaks,GBP,Bank of England,2019-07-11 10:00,GBPUSD_20190711_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-07-16,Tuesday,13:00,BOE Gov Carney Speaks,GBP,Bank of England,2019-07-16 12:00,GBPUSD_20190716_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-08-01,Thursday,12:30,BOE Gov Carney Speaks,GBP,Bank of England,2019-08-01 11:30,GBPUSD_20190801_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-08-23,Friday,20:00,BOE Gov Carney Speaks,GBP,Bank of England,2019-08-23 19:00,GBPUSD_20190823_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-09-04,Wednesday,14:15,Monetary Policy Report Hearings,GBP,Bank of England,2019-09-04 13:15,GBPUSD_20190904_GBP_Monetary_Policy_Report_Hearings_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-09-10,Tuesday,13:11,BOE Gov Carney Speaks,GBP,Bank of England,2019-09-10 12:11,GBPUSD_20190910_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-09-26,Thursday,14:45,BOE Gov Carney Speaks,GBP,Bank of England,2019-09-26 13:45,GBPUSD_20190926_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-10-10,Thursday,10:20,BOE Gov Carney Speaks,GBP,Bank of England,2019-10-10 09:20,GBPUSD_20191010_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-10-15,Tuesday,09:30,BOE Gov Carney Speaks,GBP,Bank of England,2019-10-15 08:30,GBPUSD_20191015_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-10-16,Wednesday,14:00,BOE Gov Carney Speaks,GBP,Bank of England,2019-10-16 13:00,GBPUSD_20191016_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-10-18,Friday,18:45,BOE Gov Carney Speaks,GBP,Bank of England,2019-10-18 17:45,GBPUSD_20191018_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-11-07,Thursday,12:30,BOE Gov Carney Speaks,GBP,Bank of England,2019-11-07 12:30,GBPUSD_20191107_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-01-09,Thursday,09:30,BOE Gov Carney Speaks,GBP,Bank of England,2020-01-09 09:30,GBPUSD_20200109_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-01-15,Wednesday,08:40,MPC Member Saunders Speaks,GBP,Bank of England,2020-01-15 08:40,GBPUSD_20200115_GBP_MPC_Member_Saunders_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-01-30,Thursday,12:30,BOE Gov Carney Speaks,GBP,Bank of England,2020-01-30 12:30,GBPUSD_20200130_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-02-11,Tuesday,15:35,BOE Gov Carney Speaks,GBP,Bank of England,2020-02-11 15:35,GBPUSD_20200211_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-03-03,Tuesday,09:30,Monetary Policy Report Hearings,GBP,Bank of England,2020-03-03 09:30,GBPUSD_20200303_GBP_Monetary_Policy_Report_Hearings_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-03-04,Wednesday,14:15,BOE Gov Bailey Speaks,GBP,Bank of England,2020-03-04 14:15,GBPUSD_20200304_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-03-05,Thursday,17:00,BOE Gov Carney Speaks,GBP,Bank of England,2020-03-05 17:00,GBPUSD_20200305_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-03-11,Wednesday,09:00,BOE Gov Carney Speaks,GBP,Bank of England,2020-03-11 09:00,GBPUSD_20200311_GBP_BOE_Gov_Carney_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-03-19,Thursday,16:30,BOE Gov Bailey Speaks,GBP,Bank of England,2020-03-19 16:30,GBPUSD_20200319_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-05-07,Thursday,10:00,BOE Gov Bailey Speaks,GBP,Bank of England,2020-05-07 09:00,GBPUSD_20200507_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-05-14,Thursday,11:30,BOE Gov Bailey Speaks,GBP,Bank of England,2020-05-14 10:30,GBPUSD_20200514_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-05-20,Wednesday,14:30,BOE Gov Bailey Speaks,GBP,Bank of England,2020-05-20 13:30,GBPUSD_20200520_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-06-18,Thursday,14:30,BOE Gov Bailey Speaks,GBP,Bank of England,2020-06-18 13:30,GBPUSD_20200618_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-07-13,Monday,16:30,BOE Gov Bailey Speaks,GBP,Bank of England,2020-07-13 15:30,GBPUSD_20200713_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-08-06,Thursday,10:00,BOE Gov Bailey Speaks,GBP,Bank of England,2020-08-06 09:00,GBPUSD_20200806_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-08-28,Friday,14:05,BOE Gov Bailey Speaks,GBP,Bank of England,2020-08-28 13:05,GBPUSD_20200828_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-09-02,Wednesday,14:30,BOE Gov Bailey Speaks,GBP,Bank of England,2020-09-02 13:30,GBPUSD_20200902_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-09-03,Thursday,15:00,BOE Gov Bailey Speaks,GBP,Bank of England,2020-09-03 14:00,GBPUSD_20200903_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-09-22,Tuesday,08:30,BOE Gov Bailey Speaks,GBP,Bank of England,2020-09-22 07:30,GBPUSD_20200922_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-10-08,Thursday,08:25,BOE Gov Bailey Speaks,GBP,Bank of England,2020-10-08 07:25,GBPUSD_20201008_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-10-13,Tuesday,15:00,BOE Gov Bailey Speaks,GBP,Bank of England,2020-10-13 14:00,GBPUSD_20201013_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-10-22,Thursday,10:25,BOE Gov Bailey Speaks,GBP,Bank of England,2020-10-22 09:25,GBPUSD_20201022_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-11-05,Thursday,09:15,BOE Gov Bailey Speaks,GBP,Bank of England,2020-11-05 09:15,GBPUSD_20201105_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-11-09,Monday,10:35,BOE Gov Bailey Speaks,GBP,Bank of England,2020-11-09 10:35,GBPUSD_20201109_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-11-12,Thursday,08:00,BOE Gov Bailey Speaks,GBP,Bank of England,2020-11-12 08:00,GBPUSD_20201112_GBP_BOE_Gov_Bailey_Speaks_0800_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-11-12,Thursday,16:45,BOE Gov Bailey Speaks,GBP,Bank of England,2020-11-12 16:45,GBPUSD_20201112_GBP_BOE_Gov_Bailey_Speaks_1645_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-11-23,Monday,15:30,Monetary Policy Report Hearings,GBP,Bank of England,2020-11-23 15:30,GBPUSD_20201123_GBP_Monetary_Policy_Report_Hearings_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-12-11,Friday,08:30,BOE Gov Bailey Speaks,GBP,Bank of England,2020-12-11 08:30,GBPUSD_20201211_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-01-06,Wednesday,14:30,BOE Gov Bailey Speaks,GBP,Bank of England,2021-01-06 14:30,GBPUSD_20210106_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-01-20,Wednesday,17:00,BOE Gov Bailey Speaks,GBP,Bank of England,2021-01-20 17:00,GBPUSD_20210120_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-02-04,Thursday,13:13,BOE Gov Bailey Speaks,GBP,Bank of England,2021-02-04 13:13,GBPUSD_20210204_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-02-05,Friday,12:15,BOE Gov Bailey Speaks,GBP,Bank of England,2021-02-05 12:15,GBPUSD_20210205_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-02-24,Wednesday,14:30,Monetary Policy Report Hearings,GBP,Bank of England,2021-02-24 14:30,GBPUSD_20210224_GBP_Monetary_Policy_Report_Hearings_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-03-08,Monday,10:00,BOE Gov Bailey Speaks,GBP,Bank of England,2021-03-08 10:00,GBPUSD_20210308_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-05-06,Thursday,13:00,BOE Gov Bailey Speaks,GBP,Bank of England,2021-05-06 12:00,GBPUSD_20210506_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-05-11,Tuesday,15:30,BOE Gov Bailey Speaks,GBP,Bank of England,2021-05-11 14:30,GBPUSD_20210511_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-05-12,Wednesday,15:00,BOE Gov Bailey Speaks,GBP,Bank of England,2021-05-12 14:00,GBPUSD_20210512_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-05-18,Tuesday,15:00,BOE Gov Bailey Speaks,GBP,Bank of England,2021-05-18 14:00,GBPUSD_20210518_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-05-24,Monday,15:30,Monetary Policy Report Hearings,GBP,Bank of England,2021-05-24 14:30,GBPUSD_20210524_GBP_Monetary_Policy_Report_Hearings_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-06-01,Tuesday,16:00,BOE Gov Bailey Speaks,GBP,Bank of England,2021-06-01 15:00,GBPUSD_20210601_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-06-11,Friday,09:30,BOE Gov Bailey Speaks,GBP,Bank of England,2021-06-11 08:30,GBPUSD_20210611_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-06-15,Tuesday,13:15,BOE Gov Bailey Speaks,GBP,Bank of England,2021-06-15 12:15,GBPUSD_20210615_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-07-01,Thursday,09:00,BOE Gov Bailey Speaks,GBP,Bank of England,2021-07-01 08:00,GBPUSD_20210701_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-07-09,Friday,11:00,BOE Gov Bailey Speaks,GBP,Bank of England,2021-07-09 10:00,GBPUSD_20210709_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-07-13,Tuesday,08:30,BOE Gov Bailey Speaks,GBP,Bank of England,2021-07-13 07:30,GBPUSD_20210713_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-08-05,Thursday,13:00,BOE Gov Bailey Speaks,GBP,Bank of England,2021-08-05 12:00,GBPUSD_20210805_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-08-06,Friday,12:15,MPC Member Broadbent Speaks,GBP,Bank of England,2021-08-06 11:15,GBPUSD_20210806_GBP_MPC_Member_Broadbent_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-09-08,Wednesday,16:00,Monetary Policy Report Hearings,GBP,Bank of England,2021-09-08 15:00,GBPUSD_20210908_GBP_Monetary_Policy_Report_Hearings_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-09-27,Monday,16:00,BOE Gov Bailey Speaks,GBP,Bank of England,2021-09-27 15:00,GBPUSD_20210927_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-09-29,Wednesday,16:45,BOE Gov Bailey Speaks,GBP,Bank of England,2021-09-29 15:45,GBPUSD_20210929_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-10-17,Sunday,14:05,BOE Gov Bailey Speaks,GBP,Bank of England,2021-10-17 13:05,GBPUSD_20211017_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,0,184,no
+SPEECH,single,2021-11-04,Thursday,12:30,BOE Gov Bailey Speaks,GBP,Bank of England,2021-11-04 12:30,GBPUSD_20211104_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-11-08,Monday,17:00,BOE Gov Bailey Speaks,GBP,Bank of England,2021-11-08 17:00,GBPUSD_20211108_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-11-09,Tuesday,16:00,BOE Gov Bailey Speaks,GBP,Bank of England,2021-11-09 16:00,GBPUSD_20211109_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-11-15,Monday,14:30,Monetary Policy Report Hearings,GBP,Bank of England,2021-11-15 14:30,GBPUSD_20211115_GBP_Monetary_Policy_Report_Hearings_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-11-25,Thursday,17:00,BOE Gov Bailey Speaks,GBP,Bank of England,2021-11-25 17:00,GBPUSD_20211125_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-12-01,Wednesday,14:00,BOE Gov Bailey Speaks,GBP,Bank of England,2021-12-01 14:00,GBPUSD_20211201_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-12-03,Friday,11:00,MPC Member Saunders Speaks,GBP,Bank of England,2021-12-03 11:00,GBPUSD_20211203_GBP_MPC_Member_Saunders_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-12-06,Monday,11:30,MPC Member Broadbent Speaks,GBP,Bank of England,2021-12-06 11:30,GBPUSD_20211206_GBP_MPC_Member_Broadbent_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-12-13,Monday,18:00,BOE Gov Bailey Speaks,GBP,Bank of England,2021-12-13 18:00,GBPUSD_20211213_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-01-19,Wednesday,14:15,BOE Gov Bailey Speaks,GBP,Bank of England,2022-01-19 14:15,GBPUSD_20220119_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-02-03,Thursday,12:30,BOE Gov Bailey Speaks,GBP,Bank of England,2022-02-03 12:30,GBPUSD_20220203_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-02-10,Thursday,17:00,BOE Gov Bailey Speaks,GBP,Bank of England,2022-02-10 17:00,GBPUSD_20220210_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-02-23,Wednesday,09:30,Monetary Policy Report Hearings,GBP,Bank of England,2022-02-23 09:30,GBPUSD_20220223_GBP_Monetary_Policy_Report_Hearings_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-03-23,Wednesday,12:00,BOE Gov Bailey Speaks,GBP,Bank of England,2022-03-23 12:00,GBPUSD_20220323_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-03-28,Monday,12:00,BOE Gov Bailey Speaks,GBP,Bank of England,2022-03-28 11:00,GBPUSD_20220328_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-04-21,Thursday,17:30,BOE Gov Bailey Speaks,GBP,Bank of England,2022-04-21 16:30,GBPUSD_20220421_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-04-22,Friday,15:30,BOE Gov Bailey Speaks,GBP,Bank of England,2022-04-22 14:30,GBPUSD_20220422_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-05-05,Thursday,12:30,BOE Gov Bailey Speaks,GBP,Bank of England,2022-05-05 11:30,GBPUSD_20220505_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-05-16,Monday,15:15,Monetary Policy Report Hearings,GBP,Bank of England,2022-05-16 14:15,GBPUSD_20220516_GBP_Monetary_Policy_Report_Hearings_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-05-23,Monday,15:15,BOE Gov Bailey Speaks,GBP,Bank of England,2022-05-23 14:15,GBPUSD_20220523_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-06-29,Wednesday,14:00,BOE Gov Bailey Speaks,GBP,Bank of England,2022-06-29 13:00,GBPUSD_20220629_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-07-11,Monday,15:15,BOE Gov Bailey Speaks,GBP,Bank of England,2022-07-11 14:15,GBPUSD_20220711_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-07-19,Tuesday,16:00,BOE Gov Bailey Speaks,GBP,Bank of England,2022-07-19 15:00,GBPUSD_20220719_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-08-04,Thursday,12:30,BOE Gov Bailey Speaks,GBP,Bank of England,2022-08-04 11:30,GBPUSD_20220804_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-09-07,Wednesday,10:00,Monetary Policy Report Hearings,GBP,Bank of England,2022-09-07 09:00,GBPUSD_20220907_GBP_Monetary_Policy_Report_Hearings_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-10-11,Tuesday,19:35,BOE Gov Bailey Speaks,GBP,Bank of England,2022-10-11 18:35,GBPUSD_20221011_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-10-15,Saturday,14:00,BOE Gov Bailey Speaks,GBP,Bank of England,2022-10-15 13:00,GBPUSD_20221015_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,0,184,no
+SPEECH,single,2022-11-03,Thursday,12:30,BOE Gov Bailey Speaks,GBP,Bank of England,2022-11-03 12:30,GBPUSD_20221103_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-11-16,Wednesday,14:15,Monetary Policy Report Hearings,GBP,Bank of England,2022-11-16 14:15,GBPUSD_20221116_GBP_Monetary_Policy_Report_Hearings_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-11-29,Tuesday,15:00,BOE Gov Bailey Speaks,GBP,Bank of England,2022-11-29 15:00,GBPUSD_20221129_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-12-13,Tuesday,11:00,BOE Gov Bailey Speaks,GBP,Bank of England,2022-12-13 11:00,GBPUSD_20221213_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,152,32,yes
+SPEECH,single,2023-01-16,Monday,15:00,BOE Gov Bailey Speaks,GBP,Bank of England,2023-01-16 15:00,GBPUSD_20230116_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-02-02,Thursday,12:30,BOE Gov Bailey Speaks,GBP,Bank of England,2023-02-02 12:30,GBPUSD_20230202_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-02-09,Thursday,09:45,Monetary Policy Report Hearings,GBP,Bank of England,2023-02-09 09:45,GBPUSD_20230209_GBP_Monetary_Policy_Report_Hearings_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-03-01,Wednesday,10:00,BOE Gov Bailey Speaks,GBP,Bank of England,2023-03-01 10:00,GBPUSD_20230301_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-03-23,Thursday,14:00,BOE Gov Bailey Speaks,GBP,Bank of England,2023-03-23 14:00,GBPUSD_20230323_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-03-27,Monday,18:00,BOE Gov Bailey Speaks,GBP,Bank of England,2023-03-27 17:00,GBPUSD_20230327_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-03-28,Tuesday,09:45,BOE Gov Bailey Speaks,GBP,Bank of England,2023-03-28 08:45,GBPUSD_20230328_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-04-12,Wednesday,14:00,BOE Gov Bailey Speaks,GBP,Bank of England,2023-04-12 13:00,GBPUSD_20230412_GBP_BOE_Gov_Bailey_Speaks_1400_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-04-12,Wednesday,20:15,BOE Gov Bailey Speaks,GBP,Bank of England,2023-04-12 19:15,GBPUSD_20230412_GBP_BOE_Gov_Bailey_Speaks_2015_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-05-11,Thursday,12:30,BOE Gov Bailey Speaks,GBP,Bank of England,2023-05-11 11:30,GBPUSD_20230511_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-05-17,Wednesday,10:50,BOE Gov Bailey Speaks,GBP,Bank of England,2023-05-17 09:50,GBPUSD_20230517_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-05-24,Wednesday,10:30,BOE Gov Bailey Speaks,GBP,Bank of England,2023-05-24 09:30,GBPUSD_20230524_GBP_BOE_Gov_Bailey_Speaks_1030_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-05-24,Wednesday,14:00,BOE Gov Bailey Speaks,GBP,Bank of England,2023-05-24 13:00,GBPUSD_20230524_GBP_BOE_Gov_Bailey_Speaks_1400_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-06-13,Tuesday,15:00,BOE Gov Bailey Speaks,GBP,Bank of England,2023-06-13 14:00,GBPUSD_20230613_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-06-22,Thursday,12:15,BOE Gov Bailey Speaks,GBP,Bank of England,2023-06-22 11:15,GBPUSD_20230622_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-06-28,Wednesday,14:30,BOE Gov Bailey Speaks,GBP,Bank of England,2023-06-28 13:30,GBPUSD_20230628_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-07-09,Sunday,08:30,BOE Gov Bailey Speaks,GBP,Bank of England,2023-07-09 07:30,GBPUSD_20230709_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,0,184,no
+SPEECH,single,2023-07-10,Monday,16:00,BOE Gov Bailey Speaks,GBP,Bank of England,2023-07-10 15:00,GBPUSD_20230710_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-07-12,Wednesday,09:00,BOE Gov Bailey Speaks,GBP,Bank of England,2023-07-12 08:00,GBPUSD_20230712_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-08-03,Thursday,12:30,BOE Gov Bailey Speaks,GBP,Bank of England,2023-08-03 11:30,GBPUSD_20230803_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-10-13,Friday,09:00,BOE Gov Bailey Speaks,GBP,Bank of England,2023-10-13 08:00,GBPUSD_20231013_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-10-14,Saturday,16:00,BOE Gov Bailey Speaks,GBP,Bank of England,2023-10-14 15:00,GBPUSD_20231014_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,0,184,no
+SPEECH,single,2023-11-02,Thursday,12:30,BOE Gov Bailey Speaks,GBP,Bank of England,2023-11-02 12:30,GBPUSD_20231102_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-11-08,Wednesday,09:30,BOE Gov Bailey Speaks,GBP,Bank of England,2023-11-08 09:30,GBPUSD_20231108_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-11-20,Monday,18:45,BOE Gov Bailey Speaks,GBP,Bank of England,2023-11-20 18:45,GBPUSD_20231120_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-11-29,Wednesday,15:05,BOE Gov Bailey Speaks,GBP,Bank of England,2023-11-29 15:05,GBPUSD_20231129_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-12-06,Wednesday,11:00,BOE Gov Bailey Speaks,GBP,Bank of England,2023-12-06 11:00,GBPUSD_20231206_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-12-14,Thursday,13:00,BOE Gov Bailey Speaks,GBP,Bank of England,2023-12-14 13:00,GBPUSD_20231214_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2024-01-10,Wednesday,14:15,BOE Gov Bailey Speaks,GBP,Bank of England,2024-01-10 14:15,GBPUSD_20240110_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2024-01-16,Tuesday,15:00,BOE Gov Bailey Speaks,GBP,Bank of England,2024-01-16 15:00,GBPUSD_20240116_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2024-02-01,Thursday,12:30,BOE Gov Bailey Speaks,GBP,Bank of England,2024-02-01 12:30,GBPUSD_20240201_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2024-02-12,Monday,18:00,BOE Gov Bailey Speaks,GBP,Bank of England,2024-02-12 18:00,GBPUSD_20240212_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2024-02-14,Wednesday,15:00,BOE Gov Bailey Speaks,GBP,Bank of England,2024-02-14 15:00,GBPUSD_20240214_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2024-04-16,Tuesday,18:00,BOE Gov Bailey Speaks,GBP,Bank of England,2024-04-16 17:00,GBPUSD_20240416_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2024-04-17,Wednesday,17:00,BOE Gov Bailey Speaks,GBP,Bank of England,2024-04-17 16:00,GBPUSD_20240417_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2024-05-09,Thursday,12:30,BOE Gov Bailey Speaks,GBP,Bank of England,2024-05-09 11:30,GBPUSD_20240509_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2024-05-21,Tuesday,18:00,BOE Gov Bailey Speaks,GBP,Bank of England,2024-05-21 17:00,GBPUSD_20240521_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2024-06-27,Thursday,10:30,BOE Gov Bailey Speaks,GBP,Bank of England,2024-06-27 09:30,GBPUSD_20240627_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2024-08-01,Thursday,12:30,BOE Gov Bailey Speaks,GBP,Bank of England,2024-08-01 11:30,GBPUSD_20240801_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2024-08-23,Friday,16:00,BOE Gov Bailey Speaks,GBP,Bank of England,2024-08-23 15:00,GBPUSD_20240823_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2024-10-22,Tuesday,14:25,BOE Gov Bailey Speaks,GBP,Bank of England,2024-10-22 13:25,GBPUSD_20241022_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2024-10-23,Wednesday,19:45,BOE Gov Bailey Speaks,GBP,Bank of England,2024-10-23 18:45,GBPUSD_20241023_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2024-10-24,Thursday,20:45,BOE Gov Bailey Speaks,GBP,Bank of England,2024-10-24 19:45,GBPUSD_20241024_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,182,2,yes
+SPEECH,single,2024-11-07,Thursday,12:30,BOE Gov Bailey Speaks,GBP,Bank of England,2024-11-07 12:30,GBPUSD_20241107_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2024-11-14,Thursday,20:43,BOE Gov Bailey Speaks,GBP,Bank of England,2024-11-14 20:43,GBPUSD_20241114_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,181,3,yes
+SPEECH,single,2024-11-19,Tuesday,10:00,Monetary Policy Report Hearings,GBP,Bank of England,2024-11-19 10:00,GBPUSD_20241119_GBP_Monetary_Policy_Report_Hearings_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2024-11-29,Friday,11:00,BOE Gov Bailey Speaks,GBP,Bank of England,2024-11-29 11:00,GBPUSD_20241129_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2025-01-29,Wednesday,14:15,BOE Gov Bailey Speaks,GBP,Bank of England,2025-01-29 14:15,GBPUSD_20250129_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2025-02-06,Thursday,12:30,BOE Gov Bailey Speaks,GBP,Bank of England,2025-02-06 12:30,GBPUSD_20250206_GBP_BOE_Gov_Bailey_Speaks_1230_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2025-02-06,Thursday,21:05,BOE Gov Bailey Speaks,GBP,Bank of England,2025-02-06 21:05,GBPUSD_20250206_GBP_BOE_Gov_Bailey_Speaks_2105_M1.png,charts/SPEECH,181,3,yes
+SPEECH,single,2025-02-11,Tuesday,12:15,BOE Gov Bailey Speaks,GBP,Bank of England,2025-02-11 12:15,GBPUSD_20250211_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2025-02-18,Tuesday,09:30,BOE Gov Bailey Speaks,GBP,Bank of England,2025-02-18 09:30,GBPUSD_20250218_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2025-03-24,Monday,18:00,BOE Gov Bailey Speaks,GBP,Bank of England,2025-03-24 18:00,GBPUSD_20250324_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,182,2,yes
+SPEECH,single,2025-04-23,Wednesday,18:15,BOE Gov Bailey Speaks,GBP,Bank of England,2025-04-23 17:15,GBPUSD_20250423_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2025-05-08,Thursday,12:30,BOE Gov Bailey Speaks,GBP,Bank of England,2025-05-08 11:30,GBPUSD_20250508_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2025-05-09,Friday,09:40,BOE Gov Bailey Speaks,GBP,Bank of England,2025-05-09 08:40,GBPUSD_20250509_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2025-05-13,Tuesday,16:00,BOE Gov Bailey Speaks,GBP,Bank of England,2025-05-13 15:00,GBPUSD_20250513_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2025-05-29,Thursday,16:00,BOE Gov Bailey Speaks,GBP,Bank of England,2025-05-29 15:00,GBPUSD_20250529_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2025-06-24,Tuesday,09:00,BOE Gov Bailey Speaks,GBP,Bank of England,2025-06-24 08:00,GBPUSD_20250624_GBP_BOE_Gov_Bailey_Speaks_0900_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2025-06-24,Tuesday,15:00,BOE Gov Bailey Speaks,GBP,Bank of England,2025-06-24 14:00,GBPUSD_20250624_GBP_BOE_Gov_Bailey_Speaks_1500_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2025-06-26,Thursday,12:00,BOE Gov Bailey Speaks,GBP,Bank of England,2025-06-26 11:00,GBPUSD_20250626_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2025-07-01,Tuesday,14:30,BOE Gov Bailey Speaks,GBP,Bank of England,2025-07-01 13:30,GBPUSD_20250701_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2025-07-03,Thursday,13:20,BOE Gov Bailey Speaks,GBP,Bank of England,2025-07-03 12:20,GBPUSD_20250703_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2025-07-09,Wednesday,11:00,BOE Gov Bailey Speaks,GBP,Bank of England,2025-07-09 10:00,GBPUSD_20250709_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2025-07-15,Tuesday,21:00,BOE Gov Bailey Speaks,GBP,Bank of England,2025-07-15 20:00,GBPUSD_20250715_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,181,3,yes
+SPEECH,single,2025-07-22,Tuesday,10:15,BOE Gov Bailey Speaks,GBP,Bank of England,2025-07-22 09:15,GBPUSD_20250722_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2025-08-07,Thursday,12:30,BOE Gov Bailey Speaks,GBP,Bank of England,2025-08-07 11:30,GBPUSD_20250807_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2025-08-23,Saturday,17:25,BOE Gov Bailey Speaks,GBP,Bank of England,2025-08-23 16:25,GBPUSD_20250823_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,0,184,no
+SPEECH,single,2025-09-03,Wednesday,14:15,Monetary Policy Report Hearings,GBP,Bank of England,2025-09-03 13:15,GBPUSD_20250903_GBP_Monetary_Policy_Report_Hearings_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2025-10-03,Friday,14:20,BOE Gov Bailey Speaks,GBP,Bank of England,2025-10-03 13:20,GBPUSD_20251003_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2025-10-06,Monday,16:00,BOE Gov Bailey Speaks,GBP,Bank of England,2025-10-06 15:00,GBPUSD_20251006_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2025-10-14,Tuesday,18:00,BOE Gov Bailey Speaks,GBP,Bank of England,2025-10-14 17:00,GBPUSD_20251014_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2025-10-18,Saturday,14:00,BOE Gov Bailey Speaks,GBP,Bank of England,2025-10-18 13:00,GBPUSD_20251018_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,0,184,no
+SPEECH,single,2025-11-06,Thursday,12:30,BOE Gov Bailey Speaks,GBP,Bank of England,2025-11-06 12:30,GBPUSD_20251106_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2025-12-02,Tuesday,10:00,BOE Gov Bailey Speaks,GBP,Bank of England,2025-12-02 10:00,GBPUSD_20251202_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2026-01-16,Friday,10:00,BOE Gov Bailey Speaks,GBP,Bank of England,2026-01-16 10:00,GBPUSD_20260116_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2026-01-20,Tuesday,09:45,BOE Gov Bailey Speaks,GBP,Bank of England,2026-01-20 09:45,GBPUSD_20260120_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2026-02-05,Thursday,12:30,BOE Gov Bailey Speaks,GBP,Bank of England,2026-02-05 12:30,GBPUSD_20260205_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2026-04-30,Thursday,12:30,BOE Gov Bailey Speaks,GBP,Bank of England,2026-04-30 11:30,GBPUSD_20260430_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2026-05-08,Friday,13:20,BOE Gov Bailey Speaks,GBP,Bank of England,2026-05-08 12:20,GBPUSD_20260508_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2026-05-21,Thursday,16:00,BOE Gov Bailey Speaks,GBP,Bank of England,2026-05-21 15:00,GBPUSD_20260521_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2026-05-29,Friday,09:20,BOE Gov Bailey Speaks,GBP,Bank of England,2026-05-29 08:20,GBPUSD_20260529_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2026-06-02,Tuesday,15:00,BOE Gov Bailey Speaks,GBP,Bank of England,2026-06-02 14:00,GBPUSD_20260602_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2026-06-04,Thursday,16:40,BOE Gov Bailey Speaks,GBP,Bank of England,2026-06-04 15:40,GBPUSD_20260604_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2026-07-01,Wednesday,14:00,BOE Gov Bailey Speaks,GBP,Bank of England,2026-07-01 13:00,GBPUSD_20260701_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2026-07-14,Tuesday,21:00,BOE Gov Bailey Speaks,GBP,Bank of England,2026-07-14 20:00,GBPUSD_20260714_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,180,4,yes
+SPEECH,single,2026-07-30,Thursday,13:00,BOE Gov Bailey Speaks,GBP,Bank of England,2026-07-30 12:00,GBPUSD_20260730_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2026-09-04,Friday,09:50,BOE Gov Bailey Speaks,GBP,Bank of England,2026-09-04 08:50,GBPUSD_20260904_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2026-09-25,Friday,10:15,BOE Gov Bailey Speaks,GBP,Bank of England,2026-09-25 09:15,GBPUSD_20260925_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2026-10-08,Thursday,13:15,BOE Gov Bailey Speaks,GBP,Bank of England,2026-10-08 12:15,GBPUSD_20261008_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2026-10-16,Friday,03:00,BOE Gov Bailey Speaks,GBP,Bank of England,2026-10-16 02:00,GBPUSD_20261016_GBP_BOE_Gov_Bailey_Speaks_M1.png,charts/SPEECH,184,0,yes

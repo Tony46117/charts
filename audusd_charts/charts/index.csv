@@ -1,0 +1,733 @@
+families,chart_type,local_date,weekday,local_time,event,currency,source,utc_time,file,folders,window_bars,missing_minutes,available
+BUDGET,single,2016-12-19,Monday,11:30,Mid-Year Economic and Fiscal Outlook,AUD,Australian Treasury,2016-12-19 00:30,AUDUSD_20161219_AUD_Mid_Year_Economic_and_Fiscal_Outlook_M1.png,charts/BUDGET,184,0,yes
+BUDGET,single,2017-05-09,Tuesday,19:30,Annual Budget Release,AUD,Australian Treasury,2017-05-09 09:30,AUDUSD_20170509_AUD_Annual_Budget_Release_M1.png,charts/BUDGET,184,0,yes
+BUDGET,single,2018-05-08,Tuesday,19:30,Annual Budget Release,AUD,Australian Treasury,2018-05-08 09:30,AUDUSD_20180508_AUD_Annual_Budget_Release_M1.png,charts/BUDGET,184,0,yes
+BUDGET,single,2019-04-02,Tuesday,19:30,Annual Budget Release,AUD,Australian Treasury,2019-04-02 08:30,AUDUSD_20190402_AUD_Annual_Budget_Release_M1.png,charts/BUDGET,184,0,yes
+BUDGET,single,2020-10-06,Tuesday,19:30,Annual Budget Release,AUD,Australian Treasury,2020-10-06 08:30,AUDUSD_20201006_AUD_Annual_Budget_Release_M1.png,charts/BUDGET,184,0,yes
+BUILD_APPROVALS,single,2016-03-01,Tuesday,11:30,Building Approvals m/m,AUD,ABS Building Approvals,2016-03-01 00:30,AUDUSD_20160301_AUD_Building_Approvals_m_m_M1.png,charts/BUILD_APPROVALS,184,0,yes
+BUILD_APPROVALS,single,2016-05-03,Tuesday,11:30,Building Approvals m/m,AUD,ABS Building Approvals,2016-05-03 01:30,AUDUSD_20160503_AUD_Building_Approvals_m_m_M1.png,charts/BUILD_APPROVALS,184,0,yes
+BUILD_APPROVALS,single,2016-05-31,Tuesday,11:30,Building Approvals m/m,AUD,ABS Building Approvals,2016-05-31 01:30,AUDUSD_20160531_AUD_Building_Approvals_m_m_M1.png,charts/BUILD_APPROVALS,184,0,yes
+BUILD_APPROVALS,single,2016-07-04,Monday,11:30,Building Approvals m/m,AUD,ABS Building Approvals,2016-07-04 01:30,AUDUSD_20160704_AUD_Building_Approvals_m_m_M1.png,charts/BUILD_APPROVALS,184,0,yes
+BUILD_APPROVALS,single,2016-08-30,Tuesday,11:30,Building Approvals m/m,AUD,ABS Building Approvals,2016-08-30 01:30,AUDUSD_20160830_AUD_Building_Approvals_m_m_M1.png,charts/BUILD_APPROVALS,183,1,yes
+BUILD_APPROVALS,single,2016-10-04,Tuesday,11:30,Building Approvals m/m,AUD,ABS Building Approvals,2016-10-04 00:30,AUDUSD_20161004_AUD_Building_Approvals_m_m_M1.png,charts/BUILD_APPROVALS,184,0,yes
+BUILD_APPROVALS,single,2016-11-02,Wednesday,11:30,Building Approvals m/m,AUD,ABS Building Approvals,2016-11-02 00:30,AUDUSD_20161102_AUD_Building_Approvals_m_m_M1.png,charts/BUILD_APPROVALS,183,1,yes
+BUILD_APPROVALS,single,2019-03-04,Monday,11:30,Building Approvals m/m,AUD,ABS Building Approvals,2019-03-04 00:30,AUDUSD_20190304_AUD_Building_Approvals_m_m_M1.png,charts/BUILD_APPROVALS,184,0,yes
+BUILD_APPROVALS,single,2019-04-02,Tuesday,11:30,Building Approvals m/m,AUD,ABS Building Approvals,2019-04-02 00:30,AUDUSD_20190402_AUD_Building_Approvals_m_m_M1.png,charts/BUILD_APPROVALS,184,0,yes
+BUILD_APPROVALS,single,2019-05-03,Friday,11:30,Building Approvals m/m,AUD,ABS Building Approvals,2019-05-03 01:30,AUDUSD_20190503_AUD_Building_Approvals_m_m_M1.png,charts/BUILD_APPROVALS,184,0,yes
+BUILD_APPROVALS,single,2019-07-03,Wednesday,11:30,Building Approvals m/m,AUD,ABS Building Approvals,2019-07-03 01:30,AUDUSD_20190703_AUD_Building_Approvals_m_m_M1.png,charts/BUILD_APPROVALS,184,0,yes
+BUILD_APPROVALS,single,2019-08-30,Friday,11:30,Building Approvals m/m,AUD,ABS Building Approvals,2019-08-30 01:30,AUDUSD_20190830_AUD_Building_Approvals_m_m_M1.png,charts/BUILD_APPROVALS,184,0,yes
+BUILD_APPROVALS,single,2019-10-01,Tuesday,11:30,Building Approvals m/m,AUD,ABS Building Approvals,2019-10-01 01:30,AUDUSD_20191001_AUD_Building_Approvals_m_m_M1.png,charts/BUILD_APPROVALS,184,0,yes
+BUILD_APPROVALS,single,2019-10-31,Thursday,11:30,Building Approvals m/m,AUD,ABS Building Approvals,2019-10-31 00:30,AUDUSD_20191031_AUD_Building_Approvals_m_m_M1.png,charts/BUILD_APPROVALS,184,0,yes
+BUILD_APPROVALS,single,2019-12-02,Monday,11:30,Building Approvals m/m,AUD,ABS Building Approvals,2019-12-02 00:30,AUDUSD_20191202_AUD_Building_Approvals_m_m_M1.png,charts/BUILD_APPROVALS,184,0,yes
+BUILD_APPROVALS,single,2020-01-08,Wednesday,11:30,Building Approvals m/m,AUD,ABS Building Approvals,2020-01-08 00:30,AUDUSD_20200108_AUD_Building_Approvals_m_m_M1.png,charts/BUILD_APPROVALS,184,0,yes
+BUILD_APPROVALS,single,2020-03-03,Tuesday,11:30,Building Approvals m/m,AUD,ABS Building Approvals,2020-03-03 00:30,AUDUSD_20200303_AUD_Building_Approvals_m_m_M1.png,charts/BUILD_APPROVALS,184,0,yes
+BUILD_APPROVALS+CAPEX,joint,2019-05-30,Thursday,11:30,Building Approvals m/m + Private Capital Expenditure q/q,AUD,ABS Building Approvals + ABS Capital Expenditure,2019-05-30 01:30,AUDUSD_20190530_AUD_BUILD_APPROVALS+CAPEX_M1.png,charts/BUILD_APPROVALS;charts/CAPEX,184,0,yes
+BUILD_APPROVALS+RETAIL,joint,2016-04-04,Monday,11:30,Building Approvals m/m + Retail Sales m/m,AUD,ABS Building Approvals + ABS Retail,2016-04-04 01:30,AUDUSD_20160404_AUD_BUILD_APPROVALS+RETAIL_M1.png,charts/BUILD_APPROVALS;charts/RETAIL,184,0,yes
+BUILD_APPROVALS+TRADE,joint,2016-01-07,Thursday,11:30,Building Approvals m/m + Goods Trade Balance,AUD,ABS Building Approvals + ABS Trade,2016-01-07 00:30,AUDUSD_20160107_AUD_BUILD_APPROVALS+TRADE_M1.png,charts/BUILD_APPROVALS;charts/TRADE,184,0,yes
+BUILD_APPROVALS+TRADE,joint,2016-02-03,Wednesday,11:30,Building Approvals m/m + Goods Trade Balance,AUD,ABS Building Approvals + ABS Trade,2016-02-03 00:30,AUDUSD_20160203_AUD_BUILD_APPROVALS+TRADE_M1.png,charts/BUILD_APPROVALS;charts/TRADE,184,0,yes
+BUILD_APPROVALS+TRADE,joint,2016-08-02,Tuesday,11:30,Building Approvals m/m + Goods Trade Balance,AUD,ABS Building Approvals + ABS Trade,2016-08-02 01:30,AUDUSD_20160802_AUD_BUILD_APPROVALS+TRADE_M1.png,charts/BUILD_APPROVALS;charts/TRADE,184,0,yes
+CAPEX,single,2016-02-25,Thursday,11:30,Private Capital Expenditure q/q,AUD,ABS Capital Expenditure,2016-02-25 00:30,AUDUSD_20160225_AUD_Private_Capital_Expenditure_q_q_M1.png,charts/CAPEX,184,0,yes
+CAPEX,single,2016-05-26,Thursday,11:30,Private Capital Expenditure q/q,AUD,ABS Capital Expenditure,2016-05-26 01:30,AUDUSD_20160526_AUD_Private_Capital_Expenditure_q_q_M1.png,charts/CAPEX,184,0,yes
+CAPEX,single,2016-12-01,Thursday,11:30,Private Capital Expenditure q/q,AUD,ABS Capital Expenditure,2016-12-01 00:30,AUDUSD_20161201_AUD_Private_Capital_Expenditure_q_q_M1.png,charts/CAPEX,184,0,yes
+CAPEX,single,2017-02-23,Thursday,11:30,Private Capital Expenditure q/q,AUD,ABS Capital Expenditure,2017-02-23 00:30,AUDUSD_20170223_AUD_Private_Capital_Expenditure_q_q_M1.png,charts/CAPEX,182,2,yes
+CAPEX,single,2017-08-31,Thursday,11:30,Private Capital Expenditure q/q,AUD,ABS Capital Expenditure,2017-08-31 01:30,AUDUSD_20170831_AUD_Private_Capital_Expenditure_q_q_M1.png,charts/CAPEX,184,0,yes
+CAPEX,single,2017-11-30,Thursday,11:30,Private Capital Expenditure q/q,AUD,ABS Capital Expenditure,2017-11-30 00:30,AUDUSD_20171130_AUD_Private_Capital_Expenditure_q_q_M1.png,charts/CAPEX,184,0,yes
+CAPEX,single,2018-03-01,Thursday,11:30,Private Capital Expenditure q/q,AUD,ABS Capital Expenditure,2018-03-01 00:30,AUDUSD_20180301_AUD_Private_Capital_Expenditure_q_q_M1.png,charts/CAPEX,184,0,yes
+CAPEX,single,2018-05-31,Thursday,11:30,Private Capital Expenditure q/q,AUD,ABS Capital Expenditure,2018-05-31 01:30,AUDUSD_20180531_AUD_Private_Capital_Expenditure_q_q_M1.png,charts/CAPEX,183,1,yes
+CAPEX,single,2018-08-30,Thursday,11:30,Private Capital Expenditure q/q,AUD,ABS Capital Expenditure,2018-08-30 01:30,AUDUSD_20180830_AUD_Private_Capital_Expenditure_q_q_M1.png,charts/CAPEX,184,0,yes
+CAPEX,single,2018-11-29,Thursday,11:30,Private Capital Expenditure q/q,AUD,ABS Capital Expenditure,2018-11-29 00:30,AUDUSD_20181129_AUD_Private_Capital_Expenditure_q_q_M1.png,charts/CAPEX,183,1,yes
+CAPEX,single,2019-02-28,Thursday,11:30,Private Capital Expenditure q/q,AUD,ABS Capital Expenditure,2019-02-28 00:30,AUDUSD_20190228_AUD_Private_Capital_Expenditure_q_q_M1.png,charts/CAPEX,184,0,yes
+CAPEX,single,2019-08-29,Thursday,11:30,Private Capital Expenditure q/q,AUD,ABS Capital Expenditure,2019-08-29 01:30,AUDUSD_20190829_AUD_Private_Capital_Expenditure_q_q_M1.png,charts/CAPEX,184,0,yes
+CAPEX,single,2019-11-28,Thursday,11:30,Private Capital Expenditure q/q,AUD,ABS Capital Expenditure,2019-11-28 00:30,AUDUSD_20191128_AUD_Private_Capital_Expenditure_q_q_M1.png,charts/CAPEX,184,0,yes
+CAPEX,single,2020-02-27,Thursday,11:30,Private Capital Expenditure q/q,AUD,ABS Capital Expenditure,2020-02-27 00:30,AUDUSD_20200227_AUD_Private_Capital_Expenditure_q_q_M1.png,charts/CAPEX,184,0,yes
+CAPEX,single,2020-05-28,Thursday,11:30,Private Capital Expenditure q/q,AUD,ABS Capital Expenditure,2020-05-28 01:30,AUDUSD_20200528_AUD_Private_Capital_Expenditure_q_q_M1.png,charts/CAPEX,184,0,yes
+CAPEX+RETAIL,joint,2016-09-01,Thursday,11:30,Private Capital Expenditure q/q + Retail Sales m/m,AUD,ABS Capital Expenditure + ABS Retail,2016-09-01 01:30,AUDUSD_20160901_AUD_CAPEX+RETAIL_M1.png,charts/CAPEX;charts/RETAIL,183,1,yes
+CAPEX+RETAIL,joint,2017-06-01,Thursday,11:30,Private Capital Expenditure q/q + Retail Sales m/m,AUD,ABS Capital Expenditure + ABS Retail,2017-06-01 01:30,AUDUSD_20170601_AUD_CAPEX+RETAIL_M1.png,charts/CAPEX;charts/RETAIL,184,0,yes
+CONSTRUCTION,single,2019-11-27,Wednesday,11:30,Construction Work Done q/q,AUD,ABS Construction Work Done,2019-11-27 00:30,AUDUSD_20191127_AUD_Construction_Work_Done_q_q_M1.png,charts/CONSTRUCTION,184,0,yes
+CPI_M,single,2016-01-27,Wednesday,11:30,CPI m/m,AUD,ABS CPI,2016-01-27 00:30,AUDUSD_20160127_AUD_CPI_m_m_M1.png,charts/CPI_M,184,0,yes
+CPI_M,single,2016-04-27,Wednesday,11:30,CPI m/m,AUD,ABS CPI,2016-04-27 01:30,AUDUSD_20160427_AUD_CPI_m_m_M1.png,charts/CPI_M,184,0,yes
+CPI_M,single,2016-07-27,Wednesday,11:30,CPI m/m,AUD,ABS CPI,2016-07-27 01:30,AUDUSD_20160727_AUD_CPI_m_m_M1.png,charts/CPI_M,184,0,yes
+CPI_M,single,2016-10-26,Wednesday,11:30,CPI m/m,AUD,ABS CPI,2016-10-26 00:30,AUDUSD_20161026_AUD_CPI_m_m_M1.png,charts/CPI_M,184,0,yes
+CPI_M,single,2020-04-29,Wednesday,11:30,CPI m/m,AUD,ABS CPI,2020-04-29 01:30,AUDUSD_20200429_AUD_CPI_m_m_M1.png,charts/CPI_M,184,0,yes
+CPI_M+CPI_Y+TRIMMED,joint,2022-10-26,Wednesday,11:30,CPI m/m + CPI y/y + Trimmed Mean CPI m/m,AUD,ABS CPI,2022-10-26 00:30,AUDUSD_20221026_AUD_CPI_M+CPI_Y+TRIMMED_M1.png,charts/CPI_M;charts/CPI_Y;charts/TRIMMED,184,0,yes
+CPI_M+CPI_Y+TRIMMED,joint,2023-01-25,Wednesday,11:30,CPI m/m + CPI y/y + Trimmed Mean CPI m/m,AUD,ABS CPI,2023-01-25 00:30,AUDUSD_20230125_AUD_CPI_M+CPI_Y+TRIMMED_M1.png,charts/CPI_M;charts/CPI_Y;charts/TRIMMED,184,0,yes
+CPI_M+CPI_Y+TRIMMED,joint,2023-04-26,Wednesday,11:30,CPI m/m + CPI y/y + Trimmed Mean CPI m/m,AUD,ABS CPI,2023-04-26 01:30,AUDUSD_20230426_AUD_CPI_M+CPI_Y+TRIMMED_M1.png,charts/CPI_M;charts/CPI_Y;charts/TRIMMED,184,0,yes
+CPI_M+CPI_Y+TRIMMED,joint,2023-07-26,Wednesday,11:30,CPI m/m + CPI y/y + Trimmed Mean CPI m/m,AUD,ABS CPI,2023-07-26 01:30,AUDUSD_20230726_AUD_CPI_M+CPI_Y+TRIMMED_M1.png,charts/CPI_M;charts/CPI_Y;charts/TRIMMED,184,0,yes
+CPI_M+CPI_Y+TRIMMED,joint,2023-10-25,Wednesday,11:30,CPI m/m + CPI y/y + Trimmed Mean CPI m/m,AUD,ABS CPI,2023-10-25 00:30,AUDUSD_20231025_AUD_CPI_M+CPI_Y+TRIMMED_M1.png,charts/CPI_M;charts/CPI_Y;charts/TRIMMED,184,0,yes
+CPI_M+CPI_Y+TRIMMED,joint,2024-01-31,Wednesday,11:30,CPI m/m + CPI y/y + Trimmed Mean CPI m/m,AUD,ABS CPI,2024-01-31 00:30,AUDUSD_20240131_AUD_CPI_M+CPI_Y+TRIMMED_M1.png,charts/CPI_M;charts/CPI_Y;charts/TRIMMED,182,2,yes
+CPI_M+CPI_Y+TRIMMED,joint,2024-04-24,Wednesday,11:30,CPI m/m + CPI y/y + Trimmed Mean CPI m/m,AUD,ABS CPI,2024-04-24 01:30,AUDUSD_20240424_AUD_CPI_M+CPI_Y+TRIMMED_M1.png,charts/CPI_M;charts/CPI_Y;charts/TRIMMED,184,0,yes
+CPI_M+CPI_Y+TRIMMED,joint,2024-07-31,Wednesday,11:30,CPI m/m + CPI y/y + Trimmed Mean CPI m/m,AUD,ABS CPI,2024-07-31 01:30,AUDUSD_20240731_AUD_CPI_M+CPI_Y+TRIMMED_M1.png,charts/CPI_M;charts/CPI_Y;charts/TRIMMED,184,0,yes
+CPI_M+CPI_Y+TRIMMED,joint,2024-10-30,Wednesday,11:30,CPI m/m + CPI y/y + Trimmed Mean CPI m/m,AUD,ABS CPI,2024-10-30 00:30,AUDUSD_20241030_AUD_CPI_M+CPI_Y+TRIMMED_M1.png,charts/CPI_M;charts/CPI_Y;charts/TRIMMED,184,0,yes
+CPI_M+CPI_Y+TRIMMED,joint,2025-01-29,Wednesday,11:30,CPI m/m + CPI y/y + Trimmed Mean CPI m/m,AUD,ABS CPI,2025-01-29 00:30,AUDUSD_20250129_AUD_CPI_M+CPI_Y+TRIMMED_M1.png,charts/CPI_M;charts/CPI_Y;charts/TRIMMED,184,0,yes
+CPI_M+CPI_Y+TRIMMED,joint,2025-04-30,Wednesday,11:30,CPI m/m + CPI y/y + Trimmed Mean CPI m/m,AUD,ABS CPI,2025-04-30 01:30,AUDUSD_20250430_AUD_CPI_M+CPI_Y+TRIMMED_M1.png,charts/CPI_M;charts/CPI_Y;charts/TRIMMED,184,0,yes
+CPI_M+CPI_Y+TRIMMED,joint,2025-07-30,Wednesday,11:30,CPI m/m + CPI y/y + Trimmed Mean CPI m/m,AUD,ABS CPI,2025-07-30 01:30,AUDUSD_20250730_AUD_CPI_M+CPI_Y+TRIMMED_M1.png,charts/CPI_M;charts/CPI_Y;charts/TRIMMED,184,0,yes
+CPI_M+CPI_Y+TRIMMED,joint,2025-10-29,Wednesday,11:30,CPI m/m + CPI y/y + Trimmed Mean CPI m/m,AUD,ABS CPI,2025-10-29 00:30,AUDUSD_20251029_AUD_CPI_M+CPI_Y+TRIMMED_M1.png,charts/CPI_M;charts/CPI_Y;charts/TRIMMED,184,0,yes
+CPI_M+CPI_Y+TRIMMED,joint,2025-11-26,Wednesday,11:30,CPI m/m + CPI y/y + Trimmed Mean CPI m/m,AUD,ABS CPI,2025-11-26 00:30,AUDUSD_20251126_AUD_CPI_M+CPI_Y+TRIMMED_M1.png,charts/CPI_M;charts/CPI_Y;charts/TRIMMED,184,0,yes
+CPI_M+CPI_Y+TRIMMED,joint,2026-01-07,Wednesday,11:30,CPI m/m + CPI y/y + Trimmed Mean CPI m/m,AUD,ABS CPI,2026-01-07 00:30,AUDUSD_20260107_AUD_CPI_M+CPI_Y+TRIMMED_M1.png,charts/CPI_M;charts/CPI_Y;charts/TRIMMED,184,0,yes
+CPI_M+CPI_Y+TRIMMED,joint,2026-01-28,Wednesday,11:30,CPI m/m + CPI y/y + Trimmed Mean CPI m/m,AUD,ABS CPI,2026-01-28 00:30,AUDUSD_20260128_AUD_CPI_M+CPI_Y+TRIMMED_M1.png,charts/CPI_M;charts/CPI_Y;charts/TRIMMED,184,0,yes
+CPI_M+CPI_Y+TRIMMED,joint,2026-02-25,Wednesday,11:30,CPI m/m + CPI y/y + Trimmed Mean CPI m/m,AUD,ABS CPI,2026-02-25 00:30,AUDUSD_20260225_AUD_CPI_M+CPI_Y+TRIMMED_M1.png,charts/CPI_M;charts/CPI_Y;charts/TRIMMED,183,1,yes
+CPI_M+CPI_Y+TRIMMED,joint,2026-03-25,Wednesday,11:30,CPI m/m + CPI y/y + Trimmed Mean CPI m/m,AUD,ABS CPI,2026-03-25 00:30,AUDUSD_20260325_AUD_CPI_M+CPI_Y+TRIMMED_M1.png,charts/CPI_M;charts/CPI_Y;charts/TRIMMED,184,0,yes
+CPI_M+CPI_Y+TRIMMED,joint,2026-04-29,Wednesday,11:30,CPI m/m + CPI y/y + Trimmed Mean CPI m/m,AUD,ABS CPI,2026-04-29 01:30,AUDUSD_20260429_AUD_CPI_M+CPI_Y+TRIMMED_M1.png,charts/CPI_M;charts/CPI_Y;charts/TRIMMED,184,0,yes
+CPI_M+CPI_Y+TRIMMED,joint,2026-05-27,Wednesday,11:30,CPI m/m + CPI y/y + Trimmed Mean CPI m/m,AUD,ABS CPI,2026-05-27 01:30,AUDUSD_20260527_AUD_CPI_M+CPI_Y+TRIMMED_M1.png,charts/CPI_M;charts/CPI_Y;charts/TRIMMED,184,0,yes
+CPI_M+CPI_Y+TRIMMED,joint,2026-06-24,Wednesday,11:30,CPI m/m + CPI y/y + Trimmed Mean CPI m/m,AUD,ABS CPI,2026-06-24 01:30,AUDUSD_20260624_AUD_CPI_M+CPI_Y+TRIMMED_M1.png,charts/CPI_M;charts/CPI_Y;charts/TRIMMED,184,0,yes
+CPI_M+CPI_Y+TRIMMED,joint,2026-07-29,Wednesday,11:30,CPI m/m + CPI y/y + Trimmed Mean CPI m/m,AUD,ABS CPI,2026-07-29 01:30,AUDUSD_20260729_AUD_CPI_M+CPI_Y+TRIMMED_M1.png,charts/CPI_M;charts/CPI_Y;charts/TRIMMED,184,0,yes
+CPI_M+CPI_Y+TRIMMED,joint,2026-08-26,Wednesday,11:30,CPI m/m + CPI y/y + Trimmed Mean CPI m/m,AUD,ABS CPI,2026-08-26 01:30,AUDUSD_20260826_AUD_CPI_M+CPI_Y+TRIMMED_M1.png,charts/CPI_M;charts/CPI_Y;charts/TRIMMED,184,0,yes
+CPI_M+CPI_Y+TRIMMED,joint,2026-09-30,Wednesday,11:30,CPI m/m + CPI y/y + Trimmed Mean CPI m/m,AUD,ABS CPI,2026-09-30 01:30,AUDUSD_20260930_AUD_CPI_M+CPI_Y+TRIMMED_M1.png,charts/CPI_M;charts/CPI_Y;charts/TRIMMED,184,0,yes
+CPI_M+TRIMMED,joint,2017-01-25,Wednesday,11:30,CPI m/m + Trimmed Mean CPI m/m,AUD,ABS CPI,2017-01-25 00:30,AUDUSD_20170125_AUD_CPI_M+TRIMMED_M1.png,charts/CPI_M;charts/TRIMMED,184,0,yes
+CPI_M+TRIMMED,joint,2017-04-26,Wednesday,11:30,CPI m/m + Trimmed Mean CPI m/m,AUD,ABS CPI,2017-04-26 01:30,AUDUSD_20170426_AUD_CPI_M+TRIMMED_M1.png,charts/CPI_M;charts/TRIMMED,184,0,yes
+CPI_M+TRIMMED,joint,2017-07-26,Wednesday,11:30,CPI m/m + Trimmed Mean CPI m/m,AUD,ABS CPI,2017-07-26 01:30,AUDUSD_20170726_AUD_CPI_M+TRIMMED_M1.png,charts/CPI_M;charts/TRIMMED,184,0,yes
+CPI_M+TRIMMED,joint,2017-10-25,Wednesday,11:30,CPI m/m + Trimmed Mean CPI m/m,AUD,ABS CPI,2017-10-25 00:30,AUDUSD_20171025_AUD_CPI_M+TRIMMED_M1.png,charts/CPI_M;charts/TRIMMED,183,1,yes
+CPI_M+TRIMMED,joint,2018-01-31,Wednesday,11:30,CPI m/m + Trimmed Mean CPI m/m,AUD,ABS CPI,2018-01-31 00:30,AUDUSD_20180131_AUD_CPI_M+TRIMMED_M1.png,charts/CPI_M;charts/TRIMMED,184,0,yes
+CPI_M+TRIMMED,joint,2018-04-24,Tuesday,11:30,CPI m/m + Trimmed Mean CPI m/m,AUD,ABS CPI,2018-04-24 01:30,AUDUSD_20180424_AUD_CPI_M+TRIMMED_M1.png,charts/CPI_M;charts/TRIMMED,184,0,yes
+CPI_M+TRIMMED,joint,2018-07-25,Wednesday,11:30,CPI m/m + Trimmed Mean CPI m/m,AUD,ABS CPI,2018-07-25 01:30,AUDUSD_20180725_AUD_CPI_M+TRIMMED_M1.png,charts/CPI_M;charts/TRIMMED,184,0,yes
+CPI_M+TRIMMED,joint,2018-10-31,Wednesday,11:30,CPI m/m + Trimmed Mean CPI m/m,AUD,ABS CPI,2018-10-31 00:30,AUDUSD_20181031_AUD_CPI_M+TRIMMED_M1.png,charts/CPI_M;charts/TRIMMED,184,0,yes
+CPI_M+TRIMMED,joint,2019-01-30,Wednesday,11:30,CPI m/m + Trimmed Mean CPI m/m,AUD,ABS CPI,2019-01-30 00:30,AUDUSD_20190130_AUD_CPI_M+TRIMMED_M1.png,charts/CPI_M;charts/TRIMMED,184,0,yes
+CPI_M+TRIMMED,joint,2019-04-24,Wednesday,11:30,CPI m/m + Trimmed Mean CPI m/m,AUD,ABS CPI,2019-04-24 01:30,AUDUSD_20190424_AUD_CPI_M+TRIMMED_M1.png,charts/CPI_M;charts/TRIMMED,184,0,yes
+CPI_M+TRIMMED,joint,2019-07-31,Wednesday,11:30,CPI m/m + Trimmed Mean CPI m/m,AUD,ABS CPI,2019-07-31 01:30,AUDUSD_20190731_AUD_CPI_M+TRIMMED_M1.png,charts/CPI_M;charts/TRIMMED,184,0,yes
+CPI_M+TRIMMED,joint,2019-10-30,Wednesday,11:30,CPI m/m + Trimmed Mean CPI m/m,AUD,ABS CPI,2019-10-30 00:30,AUDUSD_20191030_AUD_CPI_M+TRIMMED_M1.png,charts/CPI_M;charts/TRIMMED,184,0,yes
+CPI_M+TRIMMED,joint,2020-01-29,Wednesday,11:30,CPI m/m + Trimmed Mean CPI m/m,AUD,ABS CPI,2020-01-29 00:30,AUDUSD_20200129_AUD_CPI_M+TRIMMED_M1.png,charts/CPI_M;charts/TRIMMED,184,0,yes
+CPI_M+TRIMMED,joint,2020-07-29,Wednesday,11:30,CPI m/m + Trimmed Mean CPI m/m,AUD,ABS CPI,2020-07-29 01:30,AUDUSD_20200729_AUD_CPI_M+TRIMMED_M1.png,charts/CPI_M;charts/TRIMMED,184,0,yes
+CPI_M+TRIMMED,joint,2020-10-28,Wednesday,11:30,CPI m/m + Trimmed Mean CPI m/m,AUD,ABS CPI,2020-10-28 00:30,AUDUSD_20201028_AUD_CPI_M+TRIMMED_M1.png,charts/CPI_M;charts/TRIMMED,184,0,yes
+CPI_M+TRIMMED,joint,2021-01-27,Wednesday,11:30,CPI m/m + Trimmed Mean CPI m/m,AUD,ABS CPI,2021-01-27 00:30,AUDUSD_20210127_AUD_CPI_M+TRIMMED_M1.png,charts/CPI_M;charts/TRIMMED,184,0,yes
+CPI_M+TRIMMED,joint,2021-04-28,Wednesday,11:30,CPI m/m + Trimmed Mean CPI m/m,AUD,ABS CPI,2021-04-28 01:30,AUDUSD_20210428_AUD_CPI_M+TRIMMED_M1.png,charts/CPI_M;charts/TRIMMED,184,0,yes
+CPI_M+TRIMMED,joint,2021-07-28,Wednesday,11:30,CPI m/m + Trimmed Mean CPI m/m,AUD,ABS CPI,2021-07-28 01:30,AUDUSD_20210728_AUD_CPI_M+TRIMMED_M1.png,charts/CPI_M;charts/TRIMMED,184,0,yes
+CPI_M+TRIMMED,joint,2021-10-27,Wednesday,11:30,CPI m/m + Trimmed Mean CPI m/m,AUD,ABS CPI,2021-10-27 00:30,AUDUSD_20211027_AUD_CPI_M+TRIMMED_M1.png,charts/CPI_M;charts/TRIMMED,183,1,yes
+CPI_M+TRIMMED,joint,2022-01-25,Tuesday,11:30,CPI m/m + Trimmed Mean CPI m/m,AUD,ABS CPI,2022-01-25 00:30,AUDUSD_20220125_AUD_CPI_M+TRIMMED_M1.png,charts/CPI_M;charts/TRIMMED,184,0,yes
+CPI_M+TRIMMED,joint,2022-04-27,Wednesday,11:30,CPI m/m + Trimmed Mean CPI m/m,AUD,ABS CPI,2022-04-27 01:30,AUDUSD_20220427_AUD_CPI_M+TRIMMED_M1.png,charts/CPI_M;charts/TRIMMED,184,0,yes
+CPI_M+TRIMMED,joint,2022-07-27,Wednesday,11:30,CPI m/m + Trimmed Mean CPI m/m,AUD,ABS CPI,2022-07-27 01:30,AUDUSD_20220727_AUD_CPI_M+TRIMMED_M1.png,charts/CPI_M;charts/TRIMMED,184,0,yes
+CPI_Y,single,2022-11-30,Wednesday,11:30,CPI y/y,AUD,ABS CPI,2022-11-30 00:30,AUDUSD_20221130_AUD_CPI_y_y_M1.png,charts/CPI_Y,184,0,yes
+CPI_Y,single,2023-01-11,Wednesday,11:30,CPI y/y,AUD,ABS CPI,2023-01-11 00:30,AUDUSD_20230111_AUD_CPI_y_y_M1.png,charts/CPI_Y,184,0,yes
+CPI_Y,single,2023-03-01,Wednesday,11:30,CPI y/y,AUD,ABS CPI,2023-03-01 00:30,AUDUSD_20230301_AUD_CPI_y_y_M1.png,charts/CPI_Y,184,0,yes
+CPI_Y,single,2023-03-29,Wednesday,11:30,CPI y/y,AUD,ABS CPI,2023-03-29 00:30,AUDUSD_20230329_AUD_CPI_y_y_M1.png,charts/CPI_Y,184,0,yes
+CPI_Y,single,2023-05-31,Wednesday,11:30,CPI y/y,AUD,ABS CPI,2023-05-31 01:30,AUDUSD_20230531_AUD_CPI_y_y_M1.png,charts/CPI_Y,184,0,yes
+CPI_Y,single,2023-06-28,Wednesday,11:30,CPI y/y,AUD,ABS CPI,2023-06-28 01:30,AUDUSD_20230628_AUD_CPI_y_y_M1.png,charts/CPI_Y,184,0,yes
+CPI_Y,single,2023-08-30,Wednesday,11:30,CPI y/y,AUD,ABS CPI,2023-08-30 01:30,AUDUSD_20230830_AUD_CPI_y_y_M1.png,charts/CPI_Y,184,0,yes
+CPI_Y,single,2023-09-27,Wednesday,11:30,CPI y/y,AUD,ABS CPI,2023-09-27 01:30,AUDUSD_20230927_AUD_CPI_y_y_M1.png,charts/CPI_Y,184,0,yes
+CPI_Y,single,2023-11-29,Wednesday,11:30,CPI y/y,AUD,ABS CPI,2023-11-29 00:30,AUDUSD_20231129_AUD_CPI_y_y_M1.png,charts/CPI_Y,184,0,yes
+CPI_Y,single,2024-01-10,Wednesday,11:30,CPI y/y,AUD,ABS CPI,2024-01-10 00:30,AUDUSD_20240110_AUD_CPI_y_y_M1.png,charts/CPI_Y,184,0,yes
+CPI_Y,single,2024-02-28,Wednesday,11:30,CPI y/y,AUD,ABS CPI,2024-02-28 00:30,AUDUSD_20240228_AUD_CPI_y_y_M1.png,charts/CPI_Y,183,1,yes
+CPI_Y,single,2024-03-27,Wednesday,11:30,CPI y/y,AUD,ABS CPI,2024-03-27 00:30,AUDUSD_20240327_AUD_CPI_y_y_M1.png,charts/CPI_Y,184,0,yes
+CPI_Y,single,2024-05-29,Wednesday,11:30,CPI y/y,AUD,ABS CPI,2024-05-29 01:30,AUDUSD_20240529_AUD_CPI_y_y_M1.png,charts/CPI_Y,184,0,yes
+CPI_Y,single,2024-06-26,Wednesday,11:30,CPI y/y,AUD,ABS CPI,2024-06-26 01:30,AUDUSD_20240626_AUD_CPI_y_y_M1.png,charts/CPI_Y,184,0,yes
+CPI_Y,single,2024-08-28,Wednesday,11:30,CPI y/y,AUD,ABS CPI,2024-08-28 01:30,AUDUSD_20240828_AUD_CPI_y_y_M1.png,charts/CPI_Y,184,0,yes
+CPI_Y,single,2024-09-25,Wednesday,11:30,CPI y/y,AUD,ABS CPI,2024-09-25 01:30,AUDUSD_20240925_AUD_CPI_y_y_M1.png,charts/CPI_Y,184,0,yes
+CPI_Y,single,2024-11-27,Wednesday,11:30,CPI y/y,AUD,ABS CPI,2024-11-27 00:30,AUDUSD_20241127_AUD_CPI_y_y_M1.png,charts/CPI_Y,184,0,yes
+CPI_Y,single,2025-01-08,Wednesday,11:30,CPI y/y,AUD,ABS CPI,2025-01-08 00:30,AUDUSD_20250108_AUD_CPI_y_y_M1.png,charts/CPI_Y,182,2,yes
+CPI_Y,single,2025-02-26,Wednesday,11:30,CPI y/y,AUD,ABS CPI,2025-02-26 00:30,AUDUSD_20250226_AUD_CPI_y_y_M1.png,charts/CPI_Y,184,0,yes
+CPI_Y,single,2025-03-26,Wednesday,11:30,CPI y/y,AUD,ABS CPI,2025-03-26 00:30,AUDUSD_20250326_AUD_CPI_y_y_M1.png,charts/CPI_Y,184,0,yes
+CPI_Y,single,2025-05-28,Wednesday,11:30,CPI y/y,AUD,ABS CPI,2025-05-28 01:30,AUDUSD_20250528_AUD_CPI_y_y_M1.png,charts/CPI_Y,184,0,yes
+CPI_Y,single,2025-06-25,Wednesday,11:30,CPI y/y,AUD,ABS CPI,2025-06-25 01:30,AUDUSD_20250625_AUD_CPI_y_y_M1.png,charts/CPI_Y,184,0,yes
+CPI_Y,single,2025-08-27,Wednesday,11:30,CPI y/y,AUD,ABS CPI,2025-08-27 01:30,AUDUSD_20250827_AUD_CPI_y_y_M1.png,charts/CPI_Y,183,1,yes
+CPI_Y,single,2025-09-24,Wednesday,11:30,CPI y/y,AUD,ABS CPI,2025-09-24 01:30,AUDUSD_20250924_AUD_CPI_y_y_M1.png,charts/CPI_Y,184,0,yes
+CURRENT_ACCOUNT+RETAIL,joint,2017-12-05,Tuesday,11:30,Current Account + Retail Sales m/m,AUD,ABS Balance of Payments + ABS Retail,2017-12-05 00:30,AUDUSD_20171205_AUD_CURRENT_ACCOUNT+RETAIL_M1.png,charts/CURRENT_ACCOUNT;charts/RETAIL,183,1,yes
+CURRENT_ACCOUNT+RETAIL,joint,2018-03-06,Tuesday,11:30,Current Account + Retail Sales m/m,AUD,ABS Balance of Payments + ABS Retail,2018-03-06 00:30,AUDUSD_20180306_AUD_CURRENT_ACCOUNT+RETAIL_M1.png,charts/CURRENT_ACCOUNT;charts/RETAIL,184,0,yes
+EMPLOY+UNEMP,joint,2016-01-14,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2016-01-14 00:30,AUDUSD_20160114_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2016-02-18,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2016-02-18 00:30,AUDUSD_20160218_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2016-03-17,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2016-03-17 00:30,AUDUSD_20160317_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2016-04-14,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2016-04-14 01:30,AUDUSD_20160414_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2016-05-19,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2016-05-19 01:30,AUDUSD_20160519_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2016-06-16,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2016-06-16 01:30,AUDUSD_20160616_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2016-07-14,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2016-07-14 01:30,AUDUSD_20160714_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2016-08-18,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2016-08-18 01:30,AUDUSD_20160818_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2016-09-15,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2016-09-15 01:30,AUDUSD_20160915_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2016-10-20,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2016-10-20 00:30,AUDUSD_20161020_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,183,1,yes
+EMPLOY+UNEMP,joint,2016-11-17,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2016-11-17 00:30,AUDUSD_20161117_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2016-12-15,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2016-12-15 00:30,AUDUSD_20161215_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2017-01-19,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2017-01-19 00:30,AUDUSD_20170119_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2017-02-16,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2017-02-16 00:30,AUDUSD_20170216_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,183,1,yes
+EMPLOY+UNEMP,joint,2017-03-16,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2017-03-16 00:30,AUDUSD_20170316_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2017-04-13,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2017-04-13 01:30,AUDUSD_20170413_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2017-05-18,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2017-05-18 01:30,AUDUSD_20170518_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2017-06-15,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2017-06-15 01:30,AUDUSD_20170615_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2017-07-20,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2017-07-20 01:30,AUDUSD_20170720_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2017-08-17,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2017-08-17 01:30,AUDUSD_20170817_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2017-09-14,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2017-09-14 01:30,AUDUSD_20170914_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2017-10-19,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2017-10-19 00:30,AUDUSD_20171019_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,183,1,yes
+EMPLOY+UNEMP,joint,2017-11-16,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2017-11-16 00:30,AUDUSD_20171116_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,183,1,yes
+EMPLOY+UNEMP,joint,2017-12-14,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2017-12-14 00:30,AUDUSD_20171214_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,183,1,yes
+EMPLOY+UNEMP,joint,2018-01-18,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2018-01-18 00:30,AUDUSD_20180118_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2018-02-15,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2018-02-15 00:30,AUDUSD_20180215_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,183,1,yes
+EMPLOY+UNEMP,joint,2018-03-22,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2018-03-22 00:30,AUDUSD_20180322_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2018-04-19,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2018-04-19 01:30,AUDUSD_20180419_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2018-05-17,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2018-05-17 01:30,AUDUSD_20180517_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,182,2,yes
+EMPLOY+UNEMP,joint,2018-06-14,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2018-06-14 01:30,AUDUSD_20180614_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2018-07-19,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2018-07-19 01:30,AUDUSD_20180719_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,183,1,yes
+EMPLOY+UNEMP,joint,2018-08-16,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2018-08-16 01:30,AUDUSD_20180816_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2018-09-13,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2018-09-13 01:30,AUDUSD_20180913_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2018-10-18,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2018-10-18 00:30,AUDUSD_20181018_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2018-11-15,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2018-11-15 00:30,AUDUSD_20181115_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,183,1,yes
+EMPLOY+UNEMP,joint,2018-12-20,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2018-12-20 00:30,AUDUSD_20181220_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2019-01-24,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2019-01-24 00:30,AUDUSD_20190124_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2019-02-21,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2019-02-21 00:30,AUDUSD_20190221_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2019-03-21,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2019-03-21 00:30,AUDUSD_20190321_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2019-04-18,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2019-04-18 01:30,AUDUSD_20190418_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2019-05-16,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2019-05-16 01:30,AUDUSD_20190516_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2019-06-13,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2019-06-13 01:30,AUDUSD_20190613_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2019-07-18,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2019-07-18 01:30,AUDUSD_20190718_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2019-08-15,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2019-08-15 01:30,AUDUSD_20190815_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2019-09-19,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2019-09-19 01:30,AUDUSD_20190919_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2019-10-17,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2019-10-17 00:30,AUDUSD_20191017_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2019-11-14,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2019-11-14 00:30,AUDUSD_20191114_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2019-12-19,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2019-12-19 00:30,AUDUSD_20191219_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2020-01-23,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2020-01-23 00:30,AUDUSD_20200123_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2020-02-20,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2020-02-20 00:30,AUDUSD_20200220_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2020-03-19,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2020-03-19 00:30,AUDUSD_20200319_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2020-04-16,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2020-04-16 01:30,AUDUSD_20200416_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2020-05-14,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2020-05-14 01:30,AUDUSD_20200514_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2020-06-18,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2020-06-18 01:30,AUDUSD_20200618_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2020-07-16,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2020-07-16 01:30,AUDUSD_20200716_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2020-08-13,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2020-08-13 01:30,AUDUSD_20200813_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2020-09-17,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2020-09-17 01:30,AUDUSD_20200917_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2020-10-15,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2020-10-15 00:30,AUDUSD_20201015_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2020-11-19,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2020-11-19 00:30,AUDUSD_20201119_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2020-12-17,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2020-12-17 00:30,AUDUSD_20201217_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,180,4,yes
+EMPLOY+UNEMP,joint,2021-01-21,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2021-01-21 00:30,AUDUSD_20210121_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2021-02-18,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2021-02-18 00:30,AUDUSD_20210218_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,180,4,yes
+EMPLOY+UNEMP,joint,2021-03-18,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2021-03-18 00:30,AUDUSD_20210318_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2021-04-15,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2021-04-15 01:30,AUDUSD_20210415_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,183,1,yes
+EMPLOY+UNEMP,joint,2021-05-20,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2021-05-20 01:30,AUDUSD_20210520_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2021-06-17,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2021-06-17 01:30,AUDUSD_20210617_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2021-07-15,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2021-07-15 01:30,AUDUSD_20210715_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2021-08-19,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2021-08-19 01:30,AUDUSD_20210819_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2021-09-16,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2021-09-16 01:30,AUDUSD_20210916_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2021-10-14,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2021-10-14 00:30,AUDUSD_20211014_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,183,1,yes
+EMPLOY+UNEMP,joint,2021-11-11,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2021-11-11 00:30,AUDUSD_20211111_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2021-12-16,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2021-12-16 00:30,AUDUSD_20211216_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2022-01-20,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2022-01-20 00:30,AUDUSD_20220120_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2022-02-17,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2022-02-17 00:30,AUDUSD_20220217_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2022-03-17,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2022-03-17 00:30,AUDUSD_20220317_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2022-04-14,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2022-04-14 01:30,AUDUSD_20220414_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2022-05-19,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2022-05-19 01:30,AUDUSD_20220519_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2022-06-16,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2022-06-16 01:30,AUDUSD_20220616_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2022-07-14,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2022-07-14 01:30,AUDUSD_20220714_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2022-08-18,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2022-08-18 01:30,AUDUSD_20220818_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2022-09-15,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2022-09-15 01:30,AUDUSD_20220915_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2022-10-20,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2022-10-20 00:30,AUDUSD_20221020_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2022-11-17,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2022-11-17 00:30,AUDUSD_20221117_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2022-12-15,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2022-12-15 00:30,AUDUSD_20221215_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2023-02-16,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2023-02-16 00:30,AUDUSD_20230216_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2023-03-16,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2023-03-16 00:30,AUDUSD_20230316_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2023-04-13,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2023-04-13 01:30,AUDUSD_20230413_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2023-05-18,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2023-05-18 01:30,AUDUSD_20230518_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2023-06-15,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2023-06-15 01:30,AUDUSD_20230615_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2023-07-20,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2023-07-20 01:30,AUDUSD_20230720_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2023-08-17,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2023-08-17 01:30,AUDUSD_20230817_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2023-09-14,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2023-09-14 01:30,AUDUSD_20230914_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2023-10-19,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2023-10-19 00:30,AUDUSD_20231019_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2023-11-16,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2023-11-16 00:30,AUDUSD_20231116_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2023-12-14,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2023-12-14 00:30,AUDUSD_20231214_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2024-01-18,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2024-01-18 00:30,AUDUSD_20240118_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2024-02-15,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2024-02-15 00:30,AUDUSD_20240215_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2024-03-21,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2024-03-21 00:30,AUDUSD_20240321_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2024-04-18,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2024-04-18 01:30,AUDUSD_20240418_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2024-05-16,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2024-05-16 01:30,AUDUSD_20240516_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2024-06-13,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2024-06-13 01:30,AUDUSD_20240613_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2024-07-18,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2024-07-18 01:30,AUDUSD_20240718_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2024-08-15,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2024-08-15 01:30,AUDUSD_20240815_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2024-09-19,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2024-09-19 01:30,AUDUSD_20240919_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2024-10-17,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2024-10-17 00:30,AUDUSD_20241017_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,182,2,yes
+EMPLOY+UNEMP,joint,2024-11-14,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2024-11-14 00:30,AUDUSD_20241114_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2024-12-12,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2024-12-12 00:30,AUDUSD_20241212_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,174,10,yes
+EMPLOY+UNEMP,joint,2025-01-16,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2025-01-16 00:30,AUDUSD_20250116_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2025-02-20,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2025-02-20 00:30,AUDUSD_20250220_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2025-03-20,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2025-03-20 00:30,AUDUSD_20250320_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2025-04-17,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2025-04-17 01:30,AUDUSD_20250417_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2025-05-15,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2025-05-15 01:30,AUDUSD_20250515_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2025-06-19,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2025-06-19 01:30,AUDUSD_20250619_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2025-07-17,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2025-07-17 01:30,AUDUSD_20250717_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2025-08-14,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2025-08-14 01:30,AUDUSD_20250814_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2025-09-18,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2025-09-18 01:30,AUDUSD_20250918_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2025-10-16,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2025-10-16 00:30,AUDUSD_20251016_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2025-11-13,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2025-11-13 00:30,AUDUSD_20251113_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2025-12-11,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2025-12-11 00:30,AUDUSD_20251211_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,183,1,yes
+EMPLOY+UNEMP,joint,2026-01-22,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2026-01-22 00:30,AUDUSD_20260122_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2026-02-19,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2026-02-19 00:30,AUDUSD_20260219_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2026-03-19,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2026-03-19 00:30,AUDUSD_20260319_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2026-04-16,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2026-04-16 01:30,AUDUSD_20260416_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2026-05-21,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2026-05-21 01:30,AUDUSD_20260521_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2026-06-25,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2026-06-25 01:30,AUDUSD_20260625_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2026-07-23,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2026-07-23 01:30,AUDUSD_20260723_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2026-08-20,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2026-08-20 01:30,AUDUSD_20260820_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2026-09-24,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2026-09-24 01:30,AUDUSD_20260924_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2026-10-15,Thursday,11:30,Employment Change + Unemployment Rate,AUD,ABS Labour Force,2026-10-15 00:30,AUDUSD_20261015_AUD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+GDP,single,2016-03-02,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2016-03-02 00:30,AUDUSD_20160302_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2016-06-01,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2016-06-01 01:30,AUDUSD_20160601_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2016-09-07,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2016-09-07 01:30,AUDUSD_20160907_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2016-12-07,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2016-12-07 00:30,AUDUSD_20161207_AUD_GDP_q_q_M1.png,charts/GDP,183,1,yes
+GDP,single,2017-03-01,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2017-03-01 00:30,AUDUSD_20170301_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2017-06-07,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2017-06-07 01:30,AUDUSD_20170607_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2017-09-06,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2017-09-06 01:30,AUDUSD_20170906_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2017-12-06,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2017-12-06 00:30,AUDUSD_20171206_AUD_GDP_q_q_M1.png,charts/GDP,182,2,yes
+GDP,single,2018-03-07,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2018-03-07 00:30,AUDUSD_20180307_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2018-06-06,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2018-06-06 01:30,AUDUSD_20180606_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2018-09-05,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2018-09-05 01:30,AUDUSD_20180905_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2018-12-05,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2018-12-05 00:30,AUDUSD_20181205_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2019-03-06,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2019-03-06 00:30,AUDUSD_20190306_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2019-06-05,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2019-06-05 01:30,AUDUSD_20190605_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2019-09-04,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2019-09-04 01:30,AUDUSD_20190904_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2019-12-04,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2019-12-04 00:30,AUDUSD_20191204_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2020-03-04,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2020-03-04 00:30,AUDUSD_20200304_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2020-06-03,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2020-06-03 01:30,AUDUSD_20200603_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2020-09-02,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2020-09-02 01:30,AUDUSD_20200902_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2020-12-02,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2020-12-02 00:30,AUDUSD_20201202_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2021-03-03,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2021-03-03 00:30,AUDUSD_20210303_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2021-06-02,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2021-06-02 01:30,AUDUSD_20210602_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2021-09-01,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2021-09-01 01:30,AUDUSD_20210901_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2021-12-01,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2021-12-01 00:30,AUDUSD_20211201_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2022-03-02,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2022-03-02 00:30,AUDUSD_20220302_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2022-06-01,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2022-06-01 01:30,AUDUSD_20220601_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2022-09-07,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2022-09-07 01:30,AUDUSD_20220907_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2022-12-07,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2022-12-07 00:30,AUDUSD_20221207_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2023-06-07,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2023-06-07 01:30,AUDUSD_20230607_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2023-09-06,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2023-09-06 01:30,AUDUSD_20230906_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2023-12-06,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2023-12-06 00:30,AUDUSD_20231206_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2024-03-06,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2024-03-06 00:30,AUDUSD_20240306_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2024-06-05,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2024-06-05 01:30,AUDUSD_20240605_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2024-09-04,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2024-09-04 01:30,AUDUSD_20240904_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2024-12-04,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2024-12-04 00:30,AUDUSD_20241204_AUD_GDP_q_q_M1.png,charts/GDP,183,1,yes
+GDP,single,2025-03-05,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2025-03-05 00:30,AUDUSD_20250305_AUD_GDP_q_q_M1.png,charts/GDP,183,1,yes
+GDP,single,2025-06-04,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2025-06-04 01:30,AUDUSD_20250604_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2025-09-03,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2025-09-03 01:30,AUDUSD_20250903_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2025-12-03,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2025-12-03 00:30,AUDUSD_20251203_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2026-03-04,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2026-03-04 00:30,AUDUSD_20260304_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2026-06-03,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2026-06-03 01:30,AUDUSD_20260603_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2026-09-02,Wednesday,11:30,GDP q/q,AUD,ABS National Accounts,2026-09-02 01:30,AUDUSD_20260902_AUD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+MINUTES,single,2016-02-16,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2016-02-16 00:30,AUDUSD_20160216_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2016-03-15,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2016-03-15 00:30,AUDUSD_20160315_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2016-04-19,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2016-04-19 01:30,AUDUSD_20160419_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2016-05-17,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2016-05-17 01:30,AUDUSD_20160517_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2016-06-21,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2016-06-21 01:30,AUDUSD_20160621_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2016-07-19,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2016-07-19 01:30,AUDUSD_20160719_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,183,1,yes
+MINUTES,single,2016-08-16,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2016-08-16 01:30,AUDUSD_20160816_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,183,1,yes
+MINUTES,single,2016-09-20,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2016-09-20 01:30,AUDUSD_20160920_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2016-10-18,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2016-10-18 00:30,AUDUSD_20161018_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,182,2,yes
+MINUTES,single,2016-11-15,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2016-11-15 00:30,AUDUSD_20161115_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2016-12-20,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2016-12-20 00:30,AUDUSD_20161220_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2017-02-21,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2017-02-21 00:30,AUDUSD_20170221_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,183,1,yes
+MINUTES,single,2017-03-21,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2017-03-21 00:30,AUDUSD_20170321_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,183,1,yes
+MINUTES,single,2017-04-18,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2017-04-18 01:30,AUDUSD_20170418_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2017-05-16,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2017-05-16 01:30,AUDUSD_20170516_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2017-06-20,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2017-06-20 01:30,AUDUSD_20170620_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2017-07-18,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2017-07-18 01:30,AUDUSD_20170718_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2017-08-15,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2017-08-15 01:30,AUDUSD_20170815_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2017-09-19,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2017-09-19 01:30,AUDUSD_20170919_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2017-10-17,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2017-10-17 00:30,AUDUSD_20171017_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2017-11-21,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2017-11-21 00:30,AUDUSD_20171121_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,182,2,yes
+MINUTES,single,2017-12-19,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2017-12-19 00:30,AUDUSD_20171219_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,183,1,yes
+MINUTES,single,2018-02-20,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2018-02-20 00:30,AUDUSD_20180220_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2018-03-20,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2018-03-20 00:30,AUDUSD_20180320_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,183,1,yes
+MINUTES,single,2018-04-17,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2018-04-17 01:30,AUDUSD_20180417_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2018-05-15,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2018-05-15 01:30,AUDUSD_20180515_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2018-06-19,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2018-06-19 01:30,AUDUSD_20180619_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2018-07-17,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2018-07-17 01:30,AUDUSD_20180717_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2018-08-21,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2018-08-21 01:30,AUDUSD_20180821_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2018-09-18,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2018-09-18 01:30,AUDUSD_20180918_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2019-02-19,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2019-02-19 00:30,AUDUSD_20190219_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,183,1,yes
+MINUTES,single,2019-03-19,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2019-03-19 00:30,AUDUSD_20190319_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2019-04-16,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2019-04-16 01:30,AUDUSD_20190416_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2019-05-21,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2019-05-21 01:30,AUDUSD_20190521_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2019-06-18,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2019-06-18 01:30,AUDUSD_20190618_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2019-07-16,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2019-07-16 01:30,AUDUSD_20190716_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2019-08-20,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2019-08-20 01:30,AUDUSD_20190820_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2019-09-17,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2019-09-17 01:30,AUDUSD_20190917_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2019-10-15,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2019-10-15 00:30,AUDUSD_20191015_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2019-11-19,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2019-11-19 00:30,AUDUSD_20191119_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2019-12-17,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2019-12-17 00:30,AUDUSD_20191217_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2020-02-18,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2020-02-18 00:30,AUDUSD_20200218_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2020-03-17,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2020-03-17 00:30,AUDUSD_20200317_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2020-08-18,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2020-08-18 01:30,AUDUSD_20200818_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2020-10-20,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2020-10-20 00:30,AUDUSD_20201020_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2020-11-17,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2020-11-17 00:30,AUDUSD_20201117_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2021-07-20,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2021-07-20 01:30,AUDUSD_20210720_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2021-09-21,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2021-09-21 01:30,AUDUSD_20210921_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2021-10-19,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2021-10-19 00:30,AUDUSD_20211019_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2021-11-16,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2021-11-16 00:30,AUDUSD_20211116_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,183,1,yes
+MINUTES,single,2021-12-21,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2021-12-21 00:30,AUDUSD_20211221_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2022-02-15,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2022-02-15 00:30,AUDUSD_20220215_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2022-03-15,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2022-03-15 00:30,AUDUSD_20220315_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2022-05-17,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2022-05-17 01:30,AUDUSD_20220517_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2022-06-21,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2022-06-21 01:30,AUDUSD_20220621_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2022-07-19,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2022-07-19 01:30,AUDUSD_20220719_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2022-08-16,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2022-08-16 01:30,AUDUSD_20220816_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2022-09-20,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2022-09-20 01:30,AUDUSD_20220920_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2022-10-18,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2022-10-18 00:30,AUDUSD_20221018_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2022-11-15,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2022-11-15 00:30,AUDUSD_20221115_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2023-07-18,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2023-07-18 01:30,AUDUSD_20230718_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2023-09-19,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2023-09-19 01:30,AUDUSD_20230919_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2023-10-17,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2023-10-17 00:30,AUDUSD_20231017_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2023-11-21,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2023-11-21 00:30,AUDUSD_20231121_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2023-12-19,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2023-12-19 00:30,AUDUSD_20231219_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES,single,2024-02-20,Tuesday,11:30,Monetary Policy Meeting Minutes,AUD,RBA,2024-02-20 00:30,AUDUSD_20240220_AUD_Monetary_Policy_Meeting_Minutes_M1.png,charts/MINUTES,184,0,yes
+MINUTES+WPI,joint,2023-08-15,Tuesday,11:30,Monetary Policy Meeting Minutes + Wage Price Index q/q,AUD,ABS Wage Price Index + RBA,2023-08-15 01:30,AUDUSD_20230815_AUD_MINUTES+WPI_M1.png,charts/MINUTES;charts/WPI,184,0,yes
+POLITICS,single,2019-05-18,Saturday,11:30,Parliamentary Elections,AUD,AEC,2019-05-18 01:30,AUDUSD_20190518_AUD_Parliamentary_Elections_M1.png,charts/POLITICS,0,184,no
+POLITICS,single,2022-05-21,Saturday,11:30,Parliamentary Elections,AUD,AEC,2022-05-21 01:30,AUDUSD_20220521_AUD_Parliamentary_Elections_M1.png,charts/POLITICS,0,184,no
+POLITICS,single,2025-05-03,Saturday,11:30,Parliamentary Elections,AUD,AEC,2025-05-03 01:30,AUDUSD_20250503_AUD_Parliamentary_Elections_M1.png,charts/POLITICS,0,184,no
+RATE+RBA_MPS+RBA_STMT,joint,2024-05-07,Tuesday,14:30,Cash Rate + RBA Monetary Policy Statement + RBA Rate Statement,AUD,RBA,2024-05-07 04:30,AUDUSD_20240507_AUD_RATE+RBA_MPS+RBA_STMT_M1.png,charts/RATE;charts/RBA_MPS;charts/RBA_STMT,184,0,yes
+RATE+RBA_MPS+RBA_STMT,joint,2024-08-06,Tuesday,14:30,Cash Rate + RBA Monetary Policy Statement + RBA Rate Statement,AUD,RBA,2024-08-06 04:30,AUDUSD_20240806_AUD_RATE+RBA_MPS+RBA_STMT_M1.png,charts/RATE;charts/RBA_MPS;charts/RBA_STMT,184,0,yes
+RATE+RBA_MPS+RBA_STMT,joint,2024-11-05,Tuesday,14:30,Cash Rate + RBA Monetary Policy Statement + RBA Rate Statement,AUD,RBA,2024-11-05 03:30,AUDUSD_20241105_AUD_RATE+RBA_MPS+RBA_STMT_M1.png,charts/RATE;charts/RBA_MPS;charts/RBA_STMT,184,0,yes
+RATE+RBA_MPS+RBA_STMT,joint,2025-02-18,Tuesday,14:30,Cash Rate + RBA Monetary Policy Statement + RBA Rate Statement,AUD,RBA,2025-02-18 03:30,AUDUSD_20250218_AUD_RATE+RBA_MPS+RBA_STMT_M1.png,charts/RATE;charts/RBA_MPS;charts/RBA_STMT,184,0,yes
+RATE+RBA_MPS+RBA_STMT,joint,2025-05-20,Tuesday,14:30,Cash Rate + RBA Monetary Policy Statement + RBA Rate Statement,AUD,RBA,2025-05-20 04:30,AUDUSD_20250520_AUD_RATE+RBA_MPS+RBA_STMT_M1.png,charts/RATE;charts/RBA_MPS;charts/RBA_STMT,184,0,yes
+RATE+RBA_MPS+RBA_STMT,joint,2025-08-12,Tuesday,14:30,Cash Rate + RBA Monetary Policy Statement + RBA Rate Statement,AUD,RBA,2025-08-12 04:30,AUDUSD_20250812_AUD_RATE+RBA_MPS+RBA_STMT_M1.png,charts/RATE;charts/RBA_MPS;charts/RBA_STMT,183,1,yes
+RATE+RBA_MPS+RBA_STMT,joint,2025-11-04,Tuesday,14:30,Cash Rate + RBA Monetary Policy Statement + RBA Rate Statement,AUD,RBA,2025-11-04 03:30,AUDUSD_20251104_AUD_RATE+RBA_MPS+RBA_STMT_M1.png,charts/RATE;charts/RBA_MPS;charts/RBA_STMT,184,0,yes
+RATE+RBA_MPS+RBA_STMT,joint,2026-02-03,Tuesday,14:30,Cash Rate + RBA Monetary Policy Statement + RBA Rate Statement,AUD,RBA,2026-02-03 03:30,AUDUSD_20260203_AUD_RATE+RBA_MPS+RBA_STMT_M1.png,charts/RATE;charts/RBA_MPS;charts/RBA_STMT,184,0,yes
+RATE+RBA_MPS+RBA_STMT,joint,2026-05-05,Tuesday,14:30,Cash Rate + RBA Monetary Policy Statement + RBA Rate Statement,AUD,RBA,2026-05-05 04:30,AUDUSD_20260505_AUD_RATE+RBA_MPS+RBA_STMT_M1.png,charts/RATE;charts/RBA_MPS;charts/RBA_STMT,184,0,yes
+RATE+RBA_MPS+RBA_STMT,joint,2026-08-11,Tuesday,14:30,Cash Rate + RBA Monetary Policy Statement + RBA Rate Statement,AUD,RBA,2026-08-11 04:30,AUDUSD_20260811_AUD_RATE+RBA_MPS+RBA_STMT_M1.png,charts/RATE;charts/RBA_MPS;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2016-02-02,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2016-02-02 03:30,AUDUSD_20160202_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2016-03-01,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2016-03-01 03:30,AUDUSD_20160301_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2016-04-05,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2016-04-05 04:30,AUDUSD_20160405_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2016-05-03,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2016-05-03 04:30,AUDUSD_20160503_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2016-06-07,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2016-06-07 04:30,AUDUSD_20160607_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2016-07-05,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2016-07-05 04:30,AUDUSD_20160705_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2016-08-02,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2016-08-02 04:30,AUDUSD_20160802_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,183,1,yes
+RATE+RBA_STMT,joint,2016-09-06,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2016-09-06 04:30,AUDUSD_20160906_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2016-10-04,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2016-10-04 03:30,AUDUSD_20161004_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2016-11-01,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2016-11-01 03:30,AUDUSD_20161101_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2016-12-06,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2016-12-06 03:30,AUDUSD_20161206_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2017-02-07,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2017-02-07 03:30,AUDUSD_20170207_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2017-03-07,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2017-03-07 03:30,AUDUSD_20170307_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2017-04-04,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2017-04-04 04:30,AUDUSD_20170404_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2017-05-02,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2017-05-02 04:30,AUDUSD_20170502_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2017-09-05,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2017-09-05 04:30,AUDUSD_20170905_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2018-03-06,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2018-03-06 03:30,AUDUSD_20180306_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2019-05-07,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2019-05-07 04:30,AUDUSD_20190507_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2019-06-04,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2019-06-04 04:30,AUDUSD_20190604_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2019-07-02,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2019-07-02 04:30,AUDUSD_20190702_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2019-08-06,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2019-08-06 04:30,AUDUSD_20190806_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2019-09-03,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2019-09-03 04:30,AUDUSD_20190903_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2019-10-01,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2019-10-01 04:30,AUDUSD_20191001_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2019-12-03,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2019-12-03 03:30,AUDUSD_20191203_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2020-02-04,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2020-02-04 03:30,AUDUSD_20200204_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2020-03-03,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2020-03-03 03:30,AUDUSD_20200303_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2020-03-19,Thursday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2020-03-19 03:30,AUDUSD_20200319_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2020-04-07,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2020-04-07 04:30,AUDUSD_20200407_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2020-05-05,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2020-05-05 04:30,AUDUSD_20200505_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2020-06-02,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2020-06-02 04:30,AUDUSD_20200602_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,182,2,yes
+RATE+RBA_STMT,joint,2020-07-07,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2020-07-07 04:30,AUDUSD_20200707_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2020-08-04,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2020-08-04 04:30,AUDUSD_20200804_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2020-09-01,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2020-09-01 04:30,AUDUSD_20200901_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2020-10-06,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2020-10-06 03:30,AUDUSD_20201006_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2020-11-03,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2020-11-03 03:30,AUDUSD_20201103_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2021-11-02,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2021-11-02 03:30,AUDUSD_20211102_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2021-12-07,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2021-12-07 03:30,AUDUSD_20211207_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2022-02-01,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2022-02-01 03:30,AUDUSD_20220201_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2022-03-01,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2022-03-01 03:30,AUDUSD_20220301_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,183,1,yes
+RATE+RBA_STMT,joint,2022-04-05,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2022-04-05 04:30,AUDUSD_20220405_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2022-05-03,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2022-05-03 04:30,AUDUSD_20220503_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2022-06-07,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2022-06-07 04:30,AUDUSD_20220607_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2022-07-05,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2022-07-05 04:30,AUDUSD_20220705_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2022-08-02,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2022-08-02 04:30,AUDUSD_20220802_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2022-09-06,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2022-09-06 04:30,AUDUSD_20220906_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2022-10-04,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2022-10-04 03:30,AUDUSD_20221004_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2022-11-01,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2022-11-01 03:30,AUDUSD_20221101_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2022-12-06,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2022-12-06 03:30,AUDUSD_20221206_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2023-02-07,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2023-02-07 03:30,AUDUSD_20230207_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2023-03-07,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2023-03-07 03:30,AUDUSD_20230307_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2023-04-04,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2023-04-04 04:30,AUDUSD_20230404_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2023-05-02,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2023-05-02 04:30,AUDUSD_20230502_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2023-06-06,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2023-06-06 04:30,AUDUSD_20230606_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2023-07-04,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2023-07-04 04:30,AUDUSD_20230704_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2023-08-01,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2023-08-01 04:30,AUDUSD_20230801_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2023-09-05,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2023-09-05 04:30,AUDUSD_20230905_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2023-10-03,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2023-10-03 03:30,AUDUSD_20231003_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2023-11-07,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2023-11-07 03:30,AUDUSD_20231107_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2023-12-05,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2023-12-05 03:30,AUDUSD_20231205_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2024-02-06,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2024-02-06 03:30,AUDUSD_20240206_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2024-03-19,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2024-03-19 03:30,AUDUSD_20240319_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2024-06-18,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2024-06-18 04:30,AUDUSD_20240618_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2024-09-24,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2024-09-24 04:30,AUDUSD_20240924_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2024-12-10,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2024-12-10 03:30,AUDUSD_20241210_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2025-04-01,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2025-04-01 03:30,AUDUSD_20250401_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2025-07-08,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2025-07-08 04:30,AUDUSD_20250708_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2025-09-30,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2025-09-30 04:30,AUDUSD_20250930_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,183,1,yes
+RATE+RBA_STMT,joint,2025-12-09,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2025-12-09 03:30,AUDUSD_20251209_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2026-03-17,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2026-03-17 03:30,AUDUSD_20260317_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2026-06-16,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2026-06-16 04:30,AUDUSD_20260616_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RATE+RBA_STMT,joint,2026-09-29,Tuesday,14:30,Cash Rate + RBA Rate Statement,AUD,RBA,2026-09-29 04:30,AUDUSD_20260929_AUD_RATE+RBA_STMT_M1.png,charts/RATE;charts/RBA_STMT,184,0,yes
+RBA_FSR,single,2020-10-09,Friday,11:30,RBA Financial Stability Review,AUD,RBA,2020-10-09 00:30,AUDUSD_20201009_AUD_RBA_Financial_Stability_Review_M1.png,charts/RBA_FSR,184,0,yes
+RBA_MPS,single,2016-05-06,Friday,11:30,RBA Monetary Policy Statement,AUD,RBA,2016-05-06 01:30,AUDUSD_20160506_AUD_RBA_Monetary_Policy_Statement_M1.png,charts/RBA_MPS,184,0,yes
+RBA_MPS,single,2016-08-05,Friday,11:30,RBA Monetary Policy Statement,AUD,RBA,2016-08-05 01:30,AUDUSD_20160805_AUD_RBA_Monetary_Policy_Statement_M1.png,charts/RBA_MPS,184,0,yes
+RBA_MPS,single,2017-02-10,Friday,11:30,RBA Monetary Policy Statement,AUD,RBA,2017-02-10 00:30,AUDUSD_20170210_AUD_RBA_Monetary_Policy_Statement_M1.png,charts/RBA_MPS,184,0,yes
+RBA_MPS,single,2017-05-05,Friday,11:30,RBA Monetary Policy Statement,AUD,RBA,2017-05-05 01:30,AUDUSD_20170505_AUD_RBA_Monetary_Policy_Statement_M1.png,charts/RBA_MPS,183,1,yes
+RBA_MPS,single,2017-11-10,Friday,11:30,RBA Monetary Policy Statement,AUD,RBA,2017-11-10 00:30,AUDUSD_20171110_AUD_RBA_Monetary_Policy_Statement_M1.png,charts/RBA_MPS,183,1,yes
+RBA_MPS,single,2018-02-09,Friday,11:30,RBA Monetary Policy Statement,AUD,RBA,2018-02-09 00:30,AUDUSD_20180209_AUD_RBA_Monetary_Policy_Statement_M1.png,charts/RBA_MPS,184,0,yes
+RBA_MPS,single,2018-05-04,Friday,11:30,RBA Monetary Policy Statement,AUD,RBA,2018-05-04 01:30,AUDUSD_20180504_AUD_RBA_Monetary_Policy_Statement_M1.png,charts/RBA_MPS,184,0,yes
+RBA_MPS,single,2018-08-10,Friday,11:30,RBA Monetary Policy Statement,AUD,RBA,2018-08-10 01:30,AUDUSD_20180810_AUD_RBA_Monetary_Policy_Statement_M1.png,charts/RBA_MPS,184,0,yes
+RBA_MPS,single,2018-11-09,Friday,11:30,RBA Monetary Policy Statement,AUD,RBA,2018-11-09 00:30,AUDUSD_20181109_AUD_RBA_Monetary_Policy_Statement_M1.png,charts/RBA_MPS,183,1,yes
+RBA_MPS,single,2019-02-08,Friday,11:30,RBA Monetary Policy Statement,AUD,RBA,2019-02-08 00:30,AUDUSD_20190208_AUD_RBA_Monetary_Policy_Statement_M1.png,charts/RBA_MPS,184,0,yes
+RBA_MPS,single,2019-05-10,Friday,11:30,RBA Monetary Policy Statement,AUD,RBA,2019-05-10 01:30,AUDUSD_20190510_AUD_RBA_Monetary_Policy_Statement_M1.png,charts/RBA_MPS,184,0,yes
+RBA_MPS,single,2019-08-09,Friday,11:30,RBA Monetary Policy Statement,AUD,RBA,2019-08-09 01:30,AUDUSD_20190809_AUD_RBA_Monetary_Policy_Statement_M1.png,charts/RBA_MPS,184,0,yes
+RBA_MPS,single,2019-11-08,Friday,11:30,RBA Monetary Policy Statement,AUD,RBA,2019-11-08 00:30,AUDUSD_20191108_AUD_RBA_Monetary_Policy_Statement_M1.png,charts/RBA_MPS,184,0,yes
+RBA_MPS,single,2020-02-07,Friday,11:30,RBA Monetary Policy Statement,AUD,RBA,2020-02-07 00:30,AUDUSD_20200207_AUD_RBA_Monetary_Policy_Statement_M1.png,charts/RBA_MPS,183,1,yes
+RBA_MPS,single,2020-05-08,Friday,11:30,RBA Monetary Policy Statement,AUD,RBA,2020-05-08 01:30,AUDUSD_20200508_AUD_RBA_Monetary_Policy_Statement_M1.png,charts/RBA_MPS,184,0,yes
+RBA_MPS,single,2020-08-07,Friday,11:30,RBA Monetary Policy Statement,AUD,RBA,2020-08-07 01:30,AUDUSD_20200807_AUD_RBA_Monetary_Policy_Statement_M1.png,charts/RBA_MPS,184,0,yes
+RBA_MPS,single,2022-05-06,Friday,11:30,RBA Monetary Policy Statement,AUD,RBA,2022-05-06 01:30,AUDUSD_20220506_AUD_RBA_Monetary_Policy_Statement_M1.png,charts/RBA_MPS,184,0,yes
+RBA_MPS,single,2022-08-05,Friday,11:30,RBA Monetary Policy Statement,AUD,RBA,2022-08-05 01:30,AUDUSD_20220805_AUD_RBA_Monetary_Policy_Statement_M1.png,charts/RBA_MPS,184,0,yes
+RBA_MPS+RETAIL,joint,2016-02-05,Friday,11:30,RBA Monetary Policy Statement + Retail Sales m/m,AUD,ABS Retail + RBA,2016-02-05 00:30,AUDUSD_20160205_AUD_RBA_MPS+RETAIL_M1.png,charts/RBA_MPS;charts/RETAIL,184,0,yes
+RBA_MPS+RETAIL,joint,2016-11-04,Friday,11:30,RBA Monetary Policy Statement + Retail Sales m/m,AUD,ABS Retail + RBA,2016-11-04 00:30,AUDUSD_20161104_AUD_RBA_MPS+RETAIL_M1.png,charts/RBA_MPS;charts/RETAIL,184,0,yes
+RBA_MPS+RETAIL,joint,2017-08-04,Friday,11:30,RBA Monetary Policy Statement + Retail Sales m/m,AUD,ABS Retail + RBA,2017-08-04 01:30,AUDUSD_20170804_AUD_RBA_MPS+RETAIL_M1.png,charts/RBA_MPS;charts/RETAIL,184,0,yes
+RBA_PRESS,single,2024-02-06,Tuesday,15:30,RBA Press Conference,AUD,RBA,2024-02-06 04:30,AUDUSD_20240206_AUD_RBA_Press_Conference_M1.png,charts/RBA_PRESS,184,0,yes
+RBA_PRESS,single,2024-03-19,Tuesday,15:30,RBA Press Conference,AUD,RBA,2024-03-19 04:30,AUDUSD_20240319_AUD_RBA_Press_Conference_M1.png,charts/RBA_PRESS,184,0,yes
+RBA_PRESS,single,2025-07-08,Tuesday,15:30,RBA Press Conference,AUD,RBA,2025-07-08 05:30,AUDUSD_20250708_AUD_RBA_Press_Conference_M1.png,charts/RBA_PRESS,184,0,yes
+RBA_PRESS,single,2025-08-12,Tuesday,15:30,RBA Press Conference,AUD,RBA,2025-08-12 05:30,AUDUSD_20250812_AUD_RBA_Press_Conference_M1.png,charts/RBA_PRESS,184,0,yes
+RBA_PRESS,single,2025-09-30,Tuesday,15:30,RBA Press Conference,AUD,RBA,2025-09-30 05:30,AUDUSD_20250930_AUD_RBA_Press_Conference_M1.png,charts/RBA_PRESS,184,0,yes
+RBA_PRESS,single,2025-11-04,Tuesday,15:30,RBA Press Conference,AUD,RBA,2025-11-04 04:30,AUDUSD_20251104_AUD_RBA_Press_Conference_M1.png,charts/RBA_PRESS,184,0,yes
+RBA_PRESS,single,2025-12-09,Tuesday,15:30,RBA Press Conference,AUD,RBA,2025-12-09 04:30,AUDUSD_20251209_AUD_RBA_Press_Conference_M1.png,charts/RBA_PRESS,184,0,yes
+RBA_PRESS,single,2026-02-03,Tuesday,15:30,RBA Press Conference,AUD,RBA,2026-02-03 04:30,AUDUSD_20260203_AUD_RBA_Press_Conference_M1.png,charts/RBA_PRESS,184,0,yes
+RBA_PRESS,single,2026-03-17,Tuesday,15:30,RBA Press Conference,AUD,RBA,2026-03-17 04:30,AUDUSD_20260317_AUD_RBA_Press_Conference_M1.png,charts/RBA_PRESS,184,0,yes
+RBA_PRESS,single,2026-05-05,Tuesday,15:30,RBA Press Conference,AUD,RBA,2026-05-05 05:30,AUDUSD_20260505_AUD_RBA_Press_Conference_M1.png,charts/RBA_PRESS,184,0,yes
+RBA_PRESS,single,2026-06-16,Tuesday,15:30,RBA Press Conference,AUD,RBA,2026-06-16 05:30,AUDUSD_20260616_AUD_RBA_Press_Conference_M1.png,charts/RBA_PRESS,184,0,yes
+RBA_PRESS,single,2026-08-11,Tuesday,15:30,RBA Press Conference,AUD,RBA,2026-08-11 05:30,AUDUSD_20260811_AUD_RBA_Press_Conference_M1.png,charts/RBA_PRESS,184,0,yes
+RBA_STMT,single,2017-06-06,Tuesday,14:30,RBA Rate Statement,AUD,RBA,2017-06-06 04:30,AUDUSD_20170606_AUD_RBA_Rate_Statement_M1.png,charts/RBA_STMT,184,0,yes
+RBA_STMT,single,2017-07-04,Tuesday,14:30,RBA Rate Statement,AUD,RBA,2017-07-04 04:30,AUDUSD_20170704_AUD_RBA_Rate_Statement_M1.png,charts/RBA_STMT,183,1,yes
+RBA_STMT,single,2017-08-01,Tuesday,14:30,RBA Rate Statement,AUD,RBA,2017-08-01 04:30,AUDUSD_20170801_AUD_RBA_Rate_Statement_M1.png,charts/RBA_STMT,184,0,yes
+RBA_STMT,single,2017-10-03,Tuesday,14:30,RBA Rate Statement,AUD,RBA,2017-10-03 03:30,AUDUSD_20171003_AUD_RBA_Rate_Statement_M1.png,charts/RBA_STMT,181,3,yes
+RBA_STMT,single,2017-11-07,Tuesday,14:30,RBA Rate Statement,AUD,RBA,2017-11-07 03:30,AUDUSD_20171107_AUD_RBA_Rate_Statement_M1.png,charts/RBA_STMT,183,1,yes
+RBA_STMT,single,2017-12-05,Tuesday,14:30,RBA Rate Statement,AUD,RBA,2017-12-05 03:30,AUDUSD_20171205_AUD_RBA_Rate_Statement_M1.png,charts/RBA_STMT,183,1,yes
+RBA_STMT,single,2018-02-06,Tuesday,14:30,RBA Rate Statement,AUD,RBA,2018-02-06 03:30,AUDUSD_20180206_AUD_RBA_Rate_Statement_M1.png,charts/RBA_STMT,184,0,yes
+RBA_STMT,single,2018-04-03,Tuesday,14:30,RBA Rate Statement,AUD,RBA,2018-04-03 04:30,AUDUSD_20180403_AUD_RBA_Rate_Statement_M1.png,charts/RBA_STMT,183,1,yes
+RBA_STMT,single,2018-05-01,Tuesday,14:30,RBA Rate Statement,AUD,RBA,2018-05-01 04:30,AUDUSD_20180501_AUD_RBA_Rate_Statement_M1.png,charts/RBA_STMT,178,6,yes
+RBA_STMT,single,2018-06-05,Tuesday,14:30,RBA Rate Statement,AUD,RBA,2018-06-05 04:30,AUDUSD_20180605_AUD_RBA_Rate_Statement_M1.png,charts/RBA_STMT,184,0,yes
+RBA_STMT,single,2018-07-03,Tuesday,14:30,RBA Rate Statement,AUD,RBA,2018-07-03 04:30,AUDUSD_20180703_AUD_RBA_Rate_Statement_M1.png,charts/RBA_STMT,184,0,yes
+RBA_STMT,single,2018-08-07,Tuesday,14:30,RBA Rate Statement,AUD,RBA,2018-08-07 04:30,AUDUSD_20180807_AUD_RBA_Rate_Statement_M1.png,charts/RBA_STMT,183,1,yes
+RBA_STMT,single,2018-09-04,Tuesday,14:30,RBA Rate Statement,AUD,RBA,2018-09-04 04:30,AUDUSD_20180904_AUD_RBA_Rate_Statement_M1.png,charts/RBA_STMT,182,2,yes
+RBA_STMT,single,2018-10-02,Tuesday,14:30,RBA Rate Statement,AUD,RBA,2018-10-02 04:30,AUDUSD_20181002_AUD_RBA_Rate_Statement_M1.png,charts/RBA_STMT,183,1,yes
+RBA_STMT,single,2018-11-06,Tuesday,14:30,RBA Rate Statement,AUD,RBA,2018-11-06 03:30,AUDUSD_20181106_AUD_RBA_Rate_Statement_M1.png,charts/RBA_STMT,184,0,yes
+RBA_STMT,single,2018-12-04,Tuesday,14:30,RBA Rate Statement,AUD,RBA,2018-12-04 03:30,AUDUSD_20181204_AUD_RBA_Rate_Statement_M1.png,charts/RBA_STMT,184,0,yes
+RBA_STMT,single,2019-02-05,Tuesday,14:30,RBA Rate Statement,AUD,RBA,2019-02-05 03:30,AUDUSD_20190205_AUD_RBA_Rate_Statement_M1.png,charts/RBA_STMT,184,0,yes
+RBA_STMT,single,2019-03-05,Tuesday,14:30,RBA Rate Statement,AUD,RBA,2019-03-05 03:30,AUDUSD_20190305_AUD_RBA_Rate_Statement_M1.png,charts/RBA_STMT,184,0,yes
+RBA_STMT,single,2019-04-02,Tuesday,14:30,RBA Rate Statement,AUD,RBA,2019-04-02 03:30,AUDUSD_20190402_AUD_RBA_Rate_Statement_M1.png,charts/RBA_STMT,184,0,yes
+RBA_STMT,single,2019-11-05,Tuesday,14:30,RBA Rate Statement,AUD,RBA,2019-11-05 03:30,AUDUSD_20191105_AUD_RBA_Rate_Statement_M1.png,charts/RBA_STMT,184,0,yes
+RBA_STMT,single,2020-12-01,Tuesday,14:30,RBA Rate Statement,AUD,RBA,2020-12-01 03:30,AUDUSD_20201201_AUD_RBA_Rate_Statement_M1.png,charts/RBA_STMT,184,0,yes
+RBA_STMT,single,2021-02-02,Tuesday,14:30,RBA Rate Statement,AUD,RBA,2021-02-02 03:30,AUDUSD_20210202_AUD_RBA_Rate_Statement_M1.png,charts/RBA_STMT,184,0,yes
+RBA_STMT,single,2021-03-02,Tuesday,14:30,RBA Rate Statement,AUD,RBA,2021-03-02 03:30,AUDUSD_20210302_AUD_RBA_Rate_Statement_M1.png,charts/RBA_STMT,184,0,yes
+RBA_STMT,single,2021-04-06,Tuesday,14:30,RBA Rate Statement,AUD,RBA,2021-04-06 04:30,AUDUSD_20210406_AUD_RBA_Rate_Statement_M1.png,charts/RBA_STMT,184,0,yes
+RBA_STMT,single,2021-05-04,Tuesday,14:30,RBA Rate Statement,AUD,RBA,2021-05-04 04:30,AUDUSD_20210504_AUD_RBA_Rate_Statement_M1.png,charts/RBA_STMT,184,0,yes
+RBA_STMT,single,2021-06-01,Tuesday,14:30,RBA Rate Statement,AUD,RBA,2021-06-01 04:30,AUDUSD_20210601_AUD_RBA_Rate_Statement_M1.png,charts/RBA_STMT,183,1,yes
+RBA_STMT,single,2021-07-06,Tuesday,14:30,RBA Rate Statement,AUD,RBA,2021-07-06 04:30,AUDUSD_20210706_AUD_RBA_Rate_Statement_M1.png,charts/RBA_STMT,184,0,yes
+RBA_STMT,single,2021-08-03,Tuesday,14:30,RBA Rate Statement,AUD,RBA,2021-08-03 04:30,AUDUSD_20210803_AUD_RBA_Rate_Statement_M1.png,charts/RBA_STMT,184,0,yes
+RBA_STMT,single,2021-09-07,Tuesday,14:30,RBA Rate Statement,AUD,RBA,2021-09-07 04:30,AUDUSD_20210907_AUD_RBA_Rate_Statement_M1.png,charts/RBA_STMT,184,0,yes
+RBA_STMT,single,2021-10-05,Tuesday,14:30,RBA Rate Statement,AUD,RBA,2021-10-05 03:30,AUDUSD_20211005_AUD_RBA_Rate_Statement_M1.png,charts/RBA_STMT,184,0,yes
+RETAIL,single,2016-01-08,Friday,11:30,Retail Sales m/m,AUD,ABS Retail,2016-01-08 00:30,AUDUSD_20160108_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2016-03-04,Friday,11:30,Retail Sales m/m,AUD,ABS Retail,2016-03-04 00:30,AUDUSD_20160304_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2016-08-04,Thursday,11:30,Retail Sales m/m,AUD,ABS Retail,2016-08-04 01:30,AUDUSD_20160804_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,183,1,yes
+RETAIL,single,2016-10-05,Wednesday,11:30,Retail Sales m/m,AUD,ABS Retail,2016-10-05 00:30,AUDUSD_20161005_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,183,1,yes
+RETAIL,single,2016-12-02,Friday,11:30,Retail Sales m/m,AUD,ABS Retail,2016-12-02 00:30,AUDUSD_20161202_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2017-01-10,Tuesday,11:30,Retail Sales m/m,AUD,ABS Retail,2017-01-10 00:30,AUDUSD_20170110_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2017-02-06,Monday,11:30,Retail Sales m/m,AUD,ABS Retail,2017-02-06 00:30,AUDUSD_20170206_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2017-03-06,Monday,11:30,Retail Sales m/m,AUD,ABS Retail,2017-03-06 00:30,AUDUSD_20170306_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,182,2,yes
+RETAIL,single,2017-04-03,Monday,11:30,Retail Sales m/m,AUD,ABS Retail,2017-04-03 01:30,AUDUSD_20170403_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2017-05-09,Tuesday,11:30,Retail Sales m/m,AUD,ABS Retail,2017-05-09 01:30,AUDUSD_20170509_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2017-07-04,Tuesday,11:30,Retail Sales m/m,AUD,ABS Retail,2017-07-04 01:30,AUDUSD_20170704_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2017-11-03,Friday,11:30,Retail Sales m/m,AUD,ABS Retail,2017-11-03 00:30,AUDUSD_20171103_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,183,1,yes
+RETAIL,single,2018-01-11,Thursday,11:30,Retail Sales m/m,AUD,ABS Retail,2018-01-11 00:30,AUDUSD_20180111_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2018-04-04,Wednesday,11:30,Retail Sales m/m,AUD,ABS Retail,2018-04-04 01:30,AUDUSD_20180404_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2018-05-08,Tuesday,11:30,Retail Sales m/m,AUD,ABS Retail,2018-05-08 01:30,AUDUSD_20180508_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2018-06-04,Monday,11:30,Retail Sales m/m,AUD,ABS Retail,2018-06-04 01:30,AUDUSD_20180604_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2018-08-03,Friday,11:30,Retail Sales m/m,AUD,ABS Retail,2018-08-03 01:30,AUDUSD_20180803_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2018-09-03,Monday,11:30,Retail Sales m/m,AUD,ABS Retail,2018-09-03 01:30,AUDUSD_20180903_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2018-10-05,Friday,11:30,Retail Sales m/m,AUD,ABS Retail,2018-10-05 01:30,AUDUSD_20181005_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2018-11-02,Friday,11:30,Retail Sales m/m,AUD,ABS Retail,2018-11-02 00:30,AUDUSD_20181102_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,181,3,yes
+RETAIL,single,2018-12-06,Thursday,11:30,Retail Sales m/m,AUD,ABS Retail,2018-12-06 00:30,AUDUSD_20181206_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2019-01-11,Friday,11:30,Retail Sales m/m,AUD,ABS Retail,2019-01-11 00:30,AUDUSD_20190111_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2019-02-05,Tuesday,11:30,Retail Sales m/m,AUD,ABS Retail,2019-02-05 00:30,AUDUSD_20190205_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2019-03-07,Thursday,11:30,Retail Sales m/m,AUD,ABS Retail,2019-03-07 00:30,AUDUSD_20190307_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2019-04-03,Wednesday,11:30,Retail Sales m/m,AUD,ABS Retail,2019-04-03 00:30,AUDUSD_20190403_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2019-05-07,Tuesday,11:30,Retail Sales m/m,AUD,ABS Retail,2019-05-07 01:30,AUDUSD_20190507_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2019-06-04,Tuesday,11:30,Retail Sales m/m,AUD,ABS Retail,2019-06-04 01:30,AUDUSD_20190604_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2019-07-04,Thursday,11:30,Retail Sales m/m,AUD,ABS Retail,2019-07-04 01:30,AUDUSD_20190704_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2019-08-02,Friday,11:30,Retail Sales m/m,AUD,ABS Retail,2019-08-02 01:30,AUDUSD_20190802_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2019-09-03,Tuesday,11:30,Retail Sales m/m,AUD,ABS Retail,2019-09-03 01:30,AUDUSD_20190903_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2019-10-04,Friday,11:30,Retail Sales m/m,AUD,ABS Retail,2019-10-04 01:30,AUDUSD_20191004_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2019-11-04,Monday,11:30,Retail Sales m/m,AUD,ABS Retail,2019-11-04 00:30,AUDUSD_20191104_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2020-01-10,Friday,11:30,Retail Sales m/m,AUD,ABS Retail,2020-01-10 00:30,AUDUSD_20200110_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2020-03-06,Friday,11:30,Retail Sales m/m,AUD,ABS Retail,2020-03-06 00:30,AUDUSD_20200306_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2020-03-18,Wednesday,11:30,Retail Sales m/m,AUD,ABS Retail,2020-03-18 00:30,AUDUSD_20200318_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2020-04-22,Wednesday,11:30,Retail Sales m/m,AUD,ABS Retail,2020-04-22 01:30,AUDUSD_20200422_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2020-05-20,Wednesday,11:30,Retail Sales m/m,AUD,ABS Retail,2020-05-20 01:30,AUDUSD_20200520_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2021-04-21,Wednesday,11:30,Retail Sales m/m,AUD,ABS Retail,2021-04-21 01:30,AUDUSD_20210421_AUD_Retail_Sales_m_m_M1.png,charts/RETAIL,184,0,yes
+RETAIL+TRADE,joint,2016-05-05,Thursday,11:30,Retail Sales m/m + Goods Trade Balance,AUD,ABS Retail + ABS Trade,2016-05-05 01:30,AUDUSD_20160505_AUD_RETAIL+TRADE_M1.png,charts/RETAIL;charts/TRADE,184,0,yes
+RETAIL+TRADE,joint,2016-06-02,Thursday,11:30,Retail Sales m/m + Goods Trade Balance,AUD,ABS Retail + ABS Trade,2016-06-02 01:30,AUDUSD_20160602_AUD_RETAIL+TRADE_M1.png,charts/RETAIL;charts/TRADE,184,0,yes
+RETAIL+TRADE,joint,2016-07-05,Tuesday,11:30,Retail Sales m/m + Goods Trade Balance,AUD,ABS Retail + ABS Trade,2016-07-05 01:30,AUDUSD_20160705_AUD_RETAIL+TRADE_M1.png,charts/RETAIL;charts/TRADE,184,0,yes
+RETAIL+TRADE,joint,2017-09-07,Thursday,11:30,Retail Sales m/m + Goods Trade Balance,AUD,ABS Retail + ABS Trade,2017-09-07 01:30,AUDUSD_20170907_AUD_RETAIL+TRADE_M1.png,charts/RETAIL;charts/TRADE,184,0,yes
+RETAIL+TRADE,joint,2017-10-05,Thursday,11:30,Retail Sales m/m + Goods Trade Balance,AUD,ABS Retail + ABS Trade,2017-10-05 00:30,AUDUSD_20171005_AUD_RETAIL+TRADE_M1.png,charts/RETAIL;charts/TRADE,183,1,yes
+RETAIL+TRADE,joint,2018-02-06,Tuesday,11:30,Retail Sales m/m + Goods Trade Balance,AUD,ABS Retail + ABS Trade,2018-02-06 00:30,AUDUSD_20180206_AUD_RETAIL+TRADE_M1.png,charts/RETAIL;charts/TRADE,184,0,yes
+RETAIL+TRADE,joint,2018-07-04,Wednesday,11:30,Retail Sales m/m + Goods Trade Balance,AUD,ABS Retail + ABS Trade,2018-07-04 01:30,AUDUSD_20180704_AUD_RETAIL+TRADE_M1.png,charts/RETAIL;charts/TRADE,183,1,yes
+RETAIL+TRADE,joint,2019-12-05,Thursday,11:30,Retail Sales m/m + Goods Trade Balance,AUD,ABS Retail + ABS Trade,2019-12-05 00:30,AUDUSD_20191205_AUD_RETAIL+TRADE_M1.png,charts/RETAIL;charts/TRADE,184,0,yes
+RETAIL+TRADE,joint,2020-02-06,Thursday,11:30,Retail Sales m/m + Goods Trade Balance,AUD,ABS Retail + ABS Trade,2020-02-06 00:30,AUDUSD_20200206_AUD_RETAIL+TRADE_M1.png,charts/RETAIL;charts/TRADE,184,0,yes
+SPEECH,single,2016-02-12,Friday,09:30,RBA Gov Stevens Speaks,AUD,RBA,2016-02-11 22:30,AUDUSD_20160212_AUD_RBA_Gov_Stevens_Speaks_M1.png,charts/SPEECH,183,1,yes
+SPEECH,single,2016-03-22,Tuesday,16:15,RBA Gov Stevens Speaks,AUD,RBA,2016-03-22 05:15,AUDUSD_20160322_AUD_RBA_Gov_Stevens_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-04-19,Tuesday,23:30,RBA Gov Stevens Speaks,AUD,RBA,2016-04-19 13:30,AUDUSD_20160419_AUD_RBA_Gov_Stevens_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-05-24,Tuesday,13:05,RBA Gov Stevens Speaks,AUD,RBA,2016-05-24 03:05,AUDUSD_20160524_AUD_RBA_Gov_Stevens_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-08-10,Wednesday,13:05,RBA Gov Stevens Speaks,AUD,RBA,2016-08-10 03:05,AUDUSD_20160810_AUD_RBA_Gov_Stevens_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-09-22,Thursday,10:00,RBA Gov Lowe Speaks,AUD,RBA,2016-09-22 00:00,AUDUSD_20160922_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,183,1,yes
+SPEECH,single,2016-10-18,Tuesday,08:10,RBA Gov Lowe Speaks,AUD,RBA,2016-10-17 21:10,AUDUSD_20161018_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,178,6,yes
+SPEECH,single,2016-11-15,Tuesday,19:15,RBA Gov Lowe Speaks,AUD,RBA,2016-11-15 08:15,AUDUSD_20161115_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-02-09,Thursday,20:00,RBA Gov Lowe Speaks,AUD,RBA,2017-02-09 09:00,AUDUSD_20170209_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-02-22,Wednesday,08:30,RBA Gov Lowe Speaks,AUD,RBA,2017-02-21 21:30,AUDUSD_20170222_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,179,5,yes
+SPEECH,single,2017-02-24,Friday,09:30,RBA Gov Lowe Speaks,AUD,RBA,2017-02-23 22:30,AUDUSD_20170224_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,180,4,yes
+SPEECH,single,2017-04-04,Tuesday,19:15,RBA Gov Lowe Speaks,AUD,RBA,2017-04-04 09:15,AUDUSD_20170404_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,183,1,yes
+SPEECH,single,2017-04-27,Thursday,19:10,RBA Gov Lowe Speaks,AUD,RBA,2017-04-27 09:10,AUDUSD_20170427_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-05-04,Thursday,13:10,RBA Gov Lowe Speaks,AUD,RBA,2017-05-04 03:10,AUDUSD_20170504_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,183,1,yes
+SPEECH,single,2017-06-19,Monday,09:30,RBA Gov Lowe Speaks,AUD,RBA,2017-06-18 23:30,AUDUSD_20170619_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,179,5,yes
+SPEECH,single,2017-07-26,Wednesday,13:05,RBA Gov Lowe Speaks,AUD,RBA,2017-07-26 03:05,AUDUSD_20170726_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-08-11,Friday,09:30,RBA Gov Lowe Speaks,AUD,RBA,2017-08-10 23:30,AUDUSD_20170811_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,180,4,yes
+SPEECH,single,2017-09-05,Tuesday,19:10,RBA Gov Lowe Speaks,AUD,RBA,2017-09-05 09:10,AUDUSD_20170905_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-09-08,Friday,18:30,RBA Gov Lowe Speaks,AUD,RBA,2017-09-08 08:30,AUDUSD_20170908_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-09-21,Thursday,15:10,RBA Gov Lowe Speaks,AUD,RBA,2017-09-21 05:10,AUDUSD_20170921_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-11-21,Tuesday,20:05,RBA Gov Lowe Speaks,AUD,RBA,2017-11-21 09:05,AUDUSD_20171121_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-12-13,Wednesday,09:15,RBA Gov Lowe Speaks,AUD,RBA,2017-12-12 22:15,AUDUSD_20171213_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,174,10,yes
+SPEECH,single,2018-02-08,Thursday,20:00,RBA Gov Lowe Speaks,AUD,RBA,2018-02-08 09:00,AUDUSD_20180208_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-02-16,Friday,09:30,RBA Gov Lowe Speaks,AUD,RBA,2018-02-15 22:30,AUDUSD_20180216_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,180,4,yes
+SPEECH,single,2018-03-07,Wednesday,08:35,RBA Gov Lowe Speaks,AUD,RBA,2018-03-06 21:35,AUDUSD_20180307_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-04-11,Wednesday,15:00,RBA Gov Lowe Speaks,AUD,RBA,2018-04-11 05:00,AUDUSD_20180411_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,181,3,yes
+SPEECH,single,2018-05-01,Tuesday,20:20,RBA Gov Lowe Speaks,AUD,RBA,2018-05-01 10:20,AUDUSD_20180501_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,183,1,yes
+SPEECH,single,2018-05-23,Wednesday,18:00,RBA Gov Lowe Speaks,AUD,RBA,2018-05-23 08:00,AUDUSD_20180523_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-06-13,Wednesday,13:20,RBA Gov Lowe Speaks,AUD,RBA,2018-06-13 03:20,AUDUSD_20180613_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,174,10,yes
+SPEECH,single,2018-06-20,Wednesday,23:30,RBA Gov Lowe Speaks,AUD,RBA,2018-06-20 13:30,AUDUSD_20180620_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-08-08,Wednesday,13:01,RBA Gov Lowe Speaks,AUD,RBA,2018-08-08 03:01,AUDUSD_20180808_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,183,1,yes
+SPEECH,single,2018-08-17,Friday,09:34,RBA Gov Lowe Speaks,AUD,RBA,2018-08-16 23:34,AUDUSD_20180817_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,178,6,yes
+SPEECH,single,2018-08-21,Tuesday,08:00,RBA Gov Lowe Speaks,AUD,RBA,2018-08-20 22:00,AUDUSD_20180821_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,179,5,yes
+SPEECH,single,2018-09-04,Tuesday,21:30,RBA Gov Lowe Speaks,AUD,RBA,2018-09-04 11:30,AUDUSD_20180904_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-02-06,Wednesday,12:30,RBA Gov Lowe Speaks,AUD,RBA,2019-02-06 01:30,AUDUSD_20190206_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-02-22,Friday,09:30,RBA Gov Lowe Speaks,AUD,RBA,2019-02-21 22:30,AUDUSD_20190222_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-03-06,Wednesday,09:10,RBA Gov Lowe Speaks,AUD,RBA,2019-03-05 22:10,AUDUSD_20190306_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,183,1,yes
+SPEECH,single,2019-05-21,Tuesday,13:10,RBA Gov Lowe Speaks,AUD,RBA,2019-05-21 03:10,AUDUSD_20190521_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-06-04,Tuesday,19:30,RBA Gov Lowe Speaks,AUD,RBA,2019-06-04 09:30,AUDUSD_20190604_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-06-20,Thursday,12:35,RBA Gov Lowe Speaks,AUD,RBA,2019-06-20 02:35,AUDUSD_20190620_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-06-24,Monday,09:30,RBA Gov Lowe Speaks,AUD,RBA,2019-06-23 23:30,AUDUSD_20190624_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-07-02,Tuesday,19:30,RBA Gov Lowe Speaks,AUD,RBA,2019-07-02 09:30,AUDUSD_20190702_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-07-25,Thursday,13:05,RBA Gov Lowe Speaks,AUD,RBA,2019-07-25 03:05,AUDUSD_20190725_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-08-09,Friday,09:30,RBA Gov Lowe Speaks,AUD,RBA,2019-08-08 23:30,AUDUSD_20190809_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-08-25,Sunday,02:25,RBA Gov Lowe Speaks,AUD,RBA,2019-08-24 16:25,AUDUSD_20190825_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,0,184,no
+SPEECH,single,2019-09-24,Tuesday,19:55,RBA Gov Lowe Speaks,AUD,RBA,2019-09-24 09:55,AUDUSD_20190924_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-10-01,Tuesday,19:20,RBA Gov Lowe Speaks,AUD,RBA,2019-10-01 09:20,AUDUSD_20191001_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-10-18,Friday,07:00,RBA Gov Lowe Speaks,AUD,RBA,2019-10-17 20:00,AUDUSD_20191018_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-10-29,Tuesday,17:45,RBA Gov Lowe Speaks,AUD,RBA,2019-10-29 06:45,AUDUSD_20191029_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-11-26,Tuesday,20:05,RBA Gov Lowe Speaks,AUD,RBA,2019-11-26 09:05,AUDUSD_20191126_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-12-10,Tuesday,09:05,RBA Gov Lowe Speaks,AUD,RBA,2019-12-09 22:05,AUDUSD_20191210_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-02-05,Wednesday,12:30,RBA Gov Lowe Speaks,AUD,RBA,2020-02-05 01:30,AUDUSD_20200205_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-02-07,Friday,09:30,RBA Gov Lowe Speaks,AUD,RBA,2020-02-06 22:30,AUDUSD_20200207_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,182,2,yes
+SPEECH,single,2020-02-13,Thursday,11:00,RBA Gov Lowe Speaks,AUD,RBA,2020-02-13 00:00,AUDUSD_20200213_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-03-19,Thursday,16:00,RBA Gov Lowe Speaks,AUD,RBA,2020-03-19 05:00,AUDUSD_20200319_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-04-21,Tuesday,15:00,RBA Gov Lowe Speaks,AUD,RBA,2020-04-21 05:00,AUDUSD_20200421_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-05-21,Thursday,12:30,RBA Gov Lowe Speaks,AUD,RBA,2020-05-21 02:30,AUDUSD_20200521_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,183,1,yes
+SPEECH,single,2020-05-28,Thursday,10:00,RBA Gov Lowe Speaks,AUD,RBA,2020-05-28 00:00,AUDUSD_20200528_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,182,2,yes
+SPEECH,single,2020-06-22,Monday,09:00,RBA Gov Lowe Speaks,AUD,RBA,2020-06-21 23:00,AUDUSD_20200622_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-07-21,Tuesday,13:00,RBA Gov Lowe Speaks,AUD,RBA,2020-07-21 03:00,AUDUSD_20200721_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-08-14,Friday,09:30,RBA Gov Lowe Speaks,AUD,RBA,2020-08-13 23:30,AUDUSD_20200814_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,182,2,yes
+SPEECH,single,2020-10-15,Thursday,08:45,RBA Gov Lowe Speaks,AUD,RBA,2020-10-14 21:45,AUDUSD_20201015_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,163,21,yes
+SPEECH,single,2020-11-03,Tuesday,16:00,RBA Gov Lowe Speaks,AUD,RBA,2020-11-03 05:00,AUDUSD_20201103_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-11-16,Monday,19:25,RBA Gov Lowe Speaks,AUD,RBA,2020-11-16 08:25,AUDUSD_20201116_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-11-18,Wednesday,09:00,RBA Gov Lowe Speaks,AUD,RBA,2020-11-17 22:00,AUDUSD_20201118_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,170,14,yes
+SPEECH,single,2020-12-02,Wednesday,11:00,RBA Gov Lowe Speaks,AUD,RBA,2020-12-02 00:00,AUDUSD_20201202_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,183,1,yes
+SPEECH,single,2021-03-10,Wednesday,09:00,RBA Gov Lowe Speaks,AUD,RBA,2021-03-09 22:00,AUDUSD_20210310_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,178,6,yes
+SPEECH,single,2021-03-15,Monday,10:15,RBA Gov Lowe Speaks,AUD,RBA,2021-03-14 23:15,AUDUSD_20210315_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-06-17,Thursday,10:10,RBA Gov Lowe Speaks,AUD,RBA,2021-06-17 00:10,AUDUSD_20210617_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-07-06,Tuesday,16:00,RBA Gov Lowe Speaks,AUD,RBA,2021-07-06 06:00,AUDUSD_20210706_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-07-08,Thursday,12:30,RBA Gov Lowe Speaks,AUD,RBA,2021-07-08 02:30,AUDUSD_20210708_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-08-06,Friday,09:30,RBA Gov Lowe Speaks,AUD,RBA,2021-08-05 23:30,AUDUSD_20210806_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,175,9,yes
+SPEECH,single,2021-09-14,Tuesday,12:45,RBA Gov Lowe Speaks,AUD,RBA,2021-09-14 02:45,AUDUSD_20210914_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-10-22,Friday,06:00,RBA Gov Lowe Speaks,AUD,RBA,2021-10-21 19:00,AUDUSD_20211022_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-11-02,Tuesday,16:00,RBA Gov Lowe Speaks,AUD,RBA,2021-11-02 05:00,AUDUSD_20211102_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-11-16,Tuesday,13:30,RBA Gov Lowe Speaks,AUD,RBA,2021-11-16 02:30,AUDUSD_20211116_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-12-09,Thursday,09:05,RBA Gov Lowe Speaks,AUD,RBA,2021-12-08 22:05,AUDUSD_20211209_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,181,3,yes
+SPEECH,single,2021-12-16,Thursday,10:30,RBA Gov Lowe Speaks,AUD,RBA,2021-12-15 23:30,AUDUSD_20211216_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,182,2,yes
+SPEECH,single,2022-02-02,Wednesday,12:30,RBA Gov Lowe Speaks,AUD,RBA,2022-02-02 01:30,AUDUSD_20220202_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-02-11,Friday,09:30,RBA Gov Lowe Speaks,AUD,RBA,2022-02-10 22:30,AUDUSD_20220211_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,181,3,yes
+SPEECH,single,2022-03-09,Wednesday,09:15,RBA Gov Lowe Speaks,AUD,RBA,2022-03-08 22:15,AUDUSD_20220309_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,182,2,yes
+SPEECH,single,2022-03-11,Friday,08:45,RBA Gov Lowe Speaks,AUD,RBA,2022-03-10 21:45,AUDUSD_20220311_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,177,7,yes
+SPEECH,single,2022-05-03,Tuesday,16:30,RBA Gov Lowe Speaks,AUD,RBA,2022-05-03 06:30,AUDUSD_20220503_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-06-21,Tuesday,10:00,RBA Gov Lowe Speaks,AUD,RBA,2022-06-21 00:00,AUDUSD_20220621_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-06-24,Friday,21:30,RBA Gov Lowe Speaks,AUD,RBA,2022-06-24 11:30,AUDUSD_20220624_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-07-20,Wednesday,09:10,RBA Gov Lowe Speaks,AUD,RBA,2022-07-19 23:10,AUDUSD_20220720_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,181,3,yes
+SPEECH,single,2022-09-08,Thursday,13:05,RBA Gov Lowe Speaks,AUD,RBA,2022-09-08 03:05,AUDUSD_20220908_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-11-01,Tuesday,19:20,RBA Gov Lowe Speaks,AUD,RBA,2022-11-01 08:20,AUDUSD_20221101_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-11-08,Tuesday,20:30,RBA Gov Lowe Speaks,AUD,RBA,2022-11-08 09:30,AUDUSD_20221108_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-11-22,Tuesday,19:30,RBA Gov Lowe Speaks,AUD,RBA,2022-11-22 08:30,AUDUSD_20221122_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-11-28,Monday,10:00,RBA Gov Lowe Speaks,AUD,RBA,2022-11-27 23:00,AUDUSD_20221128_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,139,45,yes
+SPEECH,single,2022-12-02,Friday,13:40,RBA Gov Lowe Speaks,AUD,RBA,2022-12-02 02:40,AUDUSD_20221202_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-12-14,Wednesday,09:30,RBA Gov Lowe Speaks,AUD,RBA,2022-12-13 22:30,AUDUSD_20221214_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,179,5,yes
+SPEECH,single,2023-02-15,Wednesday,11:15,RBA Gov Lowe Speaks,AUD,RBA,2023-02-15 00:15,AUDUSD_20230215_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-02-17,Friday,09:30,RBA Gov Lowe Speaks,AUD,RBA,2023-02-16 22:30,AUDUSD_20230217_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,177,7,yes
+SPEECH,single,2023-03-08,Wednesday,08:55,RBA Gov Lowe Speaks,AUD,RBA,2023-03-07 21:55,AUDUSD_20230308_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,181,3,yes
+SPEECH,single,2023-04-05,Wednesday,12:30,RBA Gov Lowe Speaks,AUD,RBA,2023-04-05 02:30,AUDUSD_20230405_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-04-20,Thursday,12:00,RBA Gov Lowe Speaks,AUD,RBA,2023-04-20 02:00,AUDUSD_20230420_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-05-02,Tuesday,21:20,RBA Gov Lowe Speaks,AUD,RBA,2023-05-02 11:20,AUDUSD_20230502_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-05-31,Wednesday,09:00,RBA Gov Lowe Speaks,AUD,RBA,2023-05-30 23:00,AUDUSD_20230531_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,180,4,yes
+SPEECH,single,2023-06-07,Wednesday,09:20,RBA Gov Lowe Speaks,AUD,RBA,2023-06-06 23:20,AUDUSD_20230607_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,182,2,yes
+SPEECH,single,2023-07-12,Wednesday,13:10,RBA Gov Lowe Speaks,AUD,RBA,2023-07-12 03:10,AUDUSD_20230712_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-08-11,Friday,09:30,RBA Gov Lowe Speaks,AUD,RBA,2023-08-10 23:30,AUDUSD_20230811_AUD_RBA_Gov_Lowe_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-08-29,Tuesday,17:40,RBA Gov Bullock Speaks,AUD,RBA,2023-08-29 07:40,AUDUSD_20230829_AUD_RBA_Gov_Bullock_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-10-18,Wednesday,09:35,RBA Gov Bullock Speaks,AUD,RBA,2023-10-17 22:35,AUDUSD_20231018_AUD_RBA_Gov_Bullock_Speaks_M1.png,charts/SPEECH,182,2,yes
+SPEECH,single,2023-10-24,Tuesday,19:00,RBA Gov Bullock Speaks,AUD,RBA,2023-10-24 08:00,AUDUSD_20231024_AUD_RBA_Gov_Bullock_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-10-26,Thursday,09:00,RBA Gov Bullock Speaks,AUD,RBA,2023-10-25 22:00,AUDUSD_20231026_AUD_RBA_Gov_Bullock_Speaks_M1.png,charts/SPEECH,183,1,yes
+SPEECH,single,2023-11-21,Tuesday,10:00,RBA Gov Bullock Speaks,AUD,RBA,2023-11-20 23:00,AUDUSD_20231121_AUD_RBA_Gov_Bullock_Speaks_M1.png,charts/SPEECH,183,1,yes
+SPEECH,single,2023-11-22,Wednesday,19:35,RBA Gov Bullock Speaks,AUD,RBA,2023-11-22 08:35,AUDUSD_20231122_AUD_RBA_Gov_Bullock_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-11-28,Tuesday,12:18,RBA Gov Bullock Speaks,AUD,RBA,2023-11-28 01:18,AUDUSD_20231128_AUD_RBA_Gov_Bullock_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-12-12,Tuesday,09:20,RBA Gov Bullock Speaks,AUD,RBA,2023-12-11 22:20,AUDUSD_20231212_AUD_RBA_Gov_Bullock_Speaks_M1.png,charts/SPEECH,180,4,yes
+SPEECH,single,2024-02-09,Friday,09:30,RBA Gov Bullock Speaks,AUD,RBA,2024-02-08 22:30,AUDUSD_20240209_AUD_RBA_Gov_Bullock_Speaks_M1.png,charts/SPEECH,176,8,yes
+SPEECH,single,2024-02-15,Thursday,09:00,RBA Gov Bullock Speaks,AUD,RBA,2024-02-14 22:00,AUDUSD_20240215_AUD_RBA_Gov_Bullock_Speaks_M1.png,charts/SPEECH,178,6,yes
+SPEECH,single,2024-08-08,Thursday,12:40,RBA Gov Bullock Speaks,AUD,RBA,2024-08-08 02:40,AUDUSD_20240808_AUD_RBA_Gov_Bullock_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2024-08-16,Friday,09:30,RBA Gov Bullock Speaks,AUD,RBA,2024-08-15 23:30,AUDUSD_20240816_AUD_RBA_Gov_Bullock_Speaks_M1.png,charts/SPEECH,183,1,yes
+SPEECH,single,2024-09-05,Thursday,13:05,RBA Gov Bullock Speaks,AUD,RBA,2024-09-05 03:05,AUDUSD_20240905_AUD_RBA_Gov_Bullock_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2024-11-07,Thursday,09:00,RBA Gov Bullock Speaks,AUD,RBA,2024-11-06 22:00,AUDUSD_20241107_AUD_RBA_Gov_Bullock_Speaks_M1.png,charts/SPEECH,179,5,yes
+SPEECH,single,2024-11-14,Thursday,10:00,RBA Gov Bullock Speaks,AUD,RBA,2024-11-13 23:00,AUDUSD_20241114_AUD_RBA_Gov_Bullock_Speaks_M1.png,charts/SPEECH,183,1,yes
+SPEECH,single,2024-11-21,Thursday,19:00,RBA Gov Bullock Speaks,AUD,RBA,2024-11-21 08:00,AUDUSD_20241121_AUD_RBA_Gov_Bullock_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2024-11-28,Thursday,19:55,RBA Gov Bullock Speaks,AUD,RBA,2024-11-28 08:55,AUDUSD_20241128_AUD_RBA_Gov_Bullock_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2025-02-21,Friday,09:30,RBA Gov Bullock Speaks,AUD,RBA,2025-02-20 22:30,AUDUSD_20250221_AUD_RBA_Gov_Bullock_Speaks_M1.png,charts/SPEECH,178,6,yes
+SPEECH,single,2025-04-10,Thursday,20:00,RBA Gov Bullock Speaks,AUD,RBA,2025-04-10 10:00,AUDUSD_20250410_AUD_RBA_Gov_Bullock_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2025-07-24,Thursday,13:05,RBA Gov Bullock Speaks,AUD,RBA,2025-07-24 03:05,AUDUSD_20250724_AUD_RBA_Gov_Bullock_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2025-09-03,Wednesday,18:00,RBA Gov Bullock Speaks,AUD,RBA,2025-09-03 08:00,AUDUSD_20250903_AUD_RBA_Gov_Bullock_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2025-09-22,Monday,11:00,RBA Gov Bullock Speaks,AUD,RBA,2025-09-22 01:00,AUDUSD_20250922_AUD_RBA_Gov_Bullock_Speaks_M1.png,charts/SPEECH,183,1,yes
+SPEECH,single,2025-10-10,Friday,09:00,RBA Gov Bullock Speaks,AUD,RBA,2025-10-09 22:00,AUDUSD_20251010_AUD_RBA_Gov_Bullock_Speaks_M1.png,charts/SPEECH,173,11,yes
+SPEECH,single,2025-10-16,Thursday,06:45,RBA Gov Bullock Speaks,AUD,RBA,2025-10-15 19:45,AUDUSD_20251016_AUD_RBA_Gov_Bullock_Speaks_M1.png,charts/SPEECH,179,5,yes
+SPEECH,single,2025-10-27,Monday,19:15,RBA Gov Bullock Speaks,AUD,RBA,2025-10-27 08:15,AUDUSD_20251027_AUD_RBA_Gov_Bullock_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2026-02-06,Friday,09:30,RBA Gov Bullock Speaks,AUD,RBA,2026-02-05 22:30,AUDUSD_20260206_AUD_RBA_Gov_Bullock_Speaks_M1.png,charts/SPEECH,183,1,yes
+SPEECH,single,2026-03-03,Tuesday,08:10,RBA Gov Bullock Speaks,AUD,RBA,2026-03-02 21:10,AUDUSD_20260303_AUD_RBA_Gov_Bullock_Speaks_M1.png,charts/SPEECH,180,4,yes
+SPEECH,single,2026-06-04,Thursday,15:00,RBA Gov Bullock Speaks,AUD,RBA,2026-06-04 05:00,AUDUSD_20260604_AUD_RBA_Gov_Bullock_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2026-07-28,Tuesday,13:05,RBA Gov Bullock Speaks,AUD,RBA,2026-07-28 03:05,AUDUSD_20260728_AUD_RBA_Gov_Bullock_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2026-09-22,Tuesday,13:10,RBA Gov Bullock Speaks,AUD,RBA,2026-09-22 03:10,AUDUSD_20260922_AUD_RBA_Gov_Bullock_Speaks_M1.png,charts/SPEECH,184,0,yes
+TRADE,single,2016-03-03,Thursday,11:30,Goods Trade Balance,AUD,ABS Trade,2016-03-03 00:30,AUDUSD_20160303_AUD_Goods_Trade_Balance_M1.png,charts/TRADE,184,0,yes
+TRADE,single,2016-04-05,Tuesday,11:30,Goods Trade Balance,AUD,ABS Trade,2016-04-05 01:30,AUDUSD_20160405_AUD_Goods_Trade_Balance_M1.png,charts/TRADE,184,0,yes
+TRADE,single,2016-09-08,Thursday,11:30,Goods Trade Balance,AUD,ABS Trade,2016-09-08 01:30,AUDUSD_20160908_AUD_Goods_Trade_Balance_M1.png,charts/TRADE,182,2,yes
+TRADE,single,2016-10-06,Thursday,11:30,Goods Trade Balance,AUD,ABS Trade,2016-10-06 00:30,AUDUSD_20161006_AUD_Goods_Trade_Balance_M1.png,charts/TRADE,183,1,yes
+TRADE,single,2016-11-03,Thursday,11:30,Goods Trade Balance,AUD,ABS Trade,2016-11-03 00:30,AUDUSD_20161103_AUD_Goods_Trade_Balance_M1.png,charts/TRADE,184,0,yes
+TRADE,single,2017-04-04,Tuesday,11:30,Goods Trade Balance,AUD,ABS Trade,2017-04-04 01:30,AUDUSD_20170404_AUD_Goods_Trade_Balance_M1.png,charts/TRADE,183,1,yes
+TRADE,single,2017-05-04,Thursday,11:30,Goods Trade Balance,AUD,ABS Trade,2017-05-04 01:30,AUDUSD_20170504_AUD_Goods_Trade_Balance_M1.png,charts/TRADE,183,1,yes
+TRADE,single,2017-06-08,Thursday,11:30,Goods Trade Balance,AUD,ABS Trade,2017-06-08 01:30,AUDUSD_20170608_AUD_Goods_Trade_Balance_M1.png,charts/TRADE,183,1,yes
+TRADE,single,2017-07-06,Thursday,11:30,Goods Trade Balance,AUD,ABS Trade,2017-07-06 01:30,AUDUSD_20170706_AUD_Goods_Trade_Balance_M1.png,charts/TRADE,184,0,yes
+TRADE,single,2017-08-03,Thursday,11:30,Goods Trade Balance,AUD,ABS Trade,2017-08-03 01:30,AUDUSD_20170803_AUD_Goods_Trade_Balance_M1.png,charts/TRADE,184,0,yes
+TRADE,single,2017-11-02,Thursday,11:30,Goods Trade Balance,AUD,ABS Trade,2017-11-02 00:30,AUDUSD_20171102_AUD_Goods_Trade_Balance_M1.png,charts/TRADE,181,3,yes
+TRADE,single,2017-12-07,Thursday,11:30,Goods Trade Balance,AUD,ABS Trade,2017-12-07 00:30,AUDUSD_20171207_AUD_Goods_Trade_Balance_M1.png,charts/TRADE,182,2,yes
+TRADE,single,2018-01-05,Friday,11:30,Goods Trade Balance,AUD,ABS Trade,2018-01-05 00:30,AUDUSD_20180105_AUD_Goods_Trade_Balance_M1.png,charts/TRADE,183,1,yes
+TRADE,single,2018-03-08,Thursday,11:30,Goods Trade Balance,AUD,ABS Trade,2018-03-08 00:30,AUDUSD_20180308_AUD_Goods_Trade_Balance_M1.png,charts/TRADE,184,0,yes
+TRADE,single,2018-04-05,Thursday,11:30,Goods Trade Balance,AUD,ABS Trade,2018-04-05 01:30,AUDUSD_20180405_AUD_Goods_Trade_Balance_M1.png,charts/TRADE,184,0,yes
+TRADE,single,2018-05-03,Thursday,11:30,Goods Trade Balance,AUD,ABS Trade,2018-05-03 01:30,AUDUSD_20180503_AUD_Goods_Trade_Balance_M1.png,charts/TRADE,184,0,yes
+TRADE,single,2018-06-07,Thursday,11:30,Goods Trade Balance,AUD,ABS Trade,2018-06-07 01:30,AUDUSD_20180607_AUD_Goods_Trade_Balance_M1.png,charts/TRADE,184,0,yes
+TRADE,single,2018-08-02,Thursday,11:30,Goods Trade Balance,AUD,ABS Trade,2018-08-02 01:30,AUDUSD_20180802_AUD_Goods_Trade_Balance_M1.png,charts/TRADE,184,0,yes
+TRADE,single,2018-09-06,Thursday,11:30,Goods Trade Balance,AUD,ABS Trade,2018-09-06 01:30,AUDUSD_20180906_AUD_Goods_Trade_Balance_M1.png,charts/TRADE,184,0,yes
+TRADE,single,2020-01-09,Thursday,11:30,Goods Trade Balance,AUD,ABS Trade,2020-01-09 00:30,AUDUSD_20200109_AUD_Goods_Trade_Balance_M1.png,charts/TRADE,184,0,yes
+TRADE,single,2020-03-05,Thursday,11:30,Goods Trade Balance,AUD,ABS Trade,2020-03-05 00:30,AUDUSD_20200305_AUD_Goods_Trade_Balance_M1.png,charts/TRADE,184,0,yes
+TRADE,single,2020-05-07,Thursday,11:30,Goods Trade Balance,AUD,ABS Trade,2020-05-07 01:30,AUDUSD_20200507_AUD_Goods_Trade_Balance_M1.png,charts/TRADE,184,0,yes
+WPI,single,2018-05-16,Wednesday,11:30,Wage Price Index q/q,AUD,ABS Wage Price Index,2018-05-16 01:30,AUDUSD_20180516_AUD_Wage_Price_Index_q_q_M1.png,charts/WPI,184,0,yes
+WPI,single,2018-08-15,Wednesday,11:30,Wage Price Index q/q,AUD,ABS Wage Price Index,2018-08-15 01:30,AUDUSD_20180815_AUD_Wage_Price_Index_q_q_M1.png,charts/WPI,184,0,yes
+WPI,single,2018-11-14,Wednesday,11:30,Wage Price Index q/q,AUD,ABS Wage Price Index,2018-11-14 00:30,AUDUSD_20181114_AUD_Wage_Price_Index_q_q_M1.png,charts/WPI,184,0,yes
+WPI,single,2019-02-20,Wednesday,11:30,Wage Price Index q/q,AUD,ABS Wage Price Index,2019-02-20 00:30,AUDUSD_20190220_AUD_Wage_Price_Index_q_q_M1.png,charts/WPI,184,0,yes
+WPI,single,2019-05-15,Wednesday,11:30,Wage Price Index q/q,AUD,ABS Wage Price Index,2019-05-15 01:30,AUDUSD_20190515_AUD_Wage_Price_Index_q_q_M1.png,charts/WPI,184,0,yes
+WPI,single,2019-08-14,Wednesday,11:30,Wage Price Index q/q,AUD,ABS Wage Price Index,2019-08-14 01:30,AUDUSD_20190814_AUD_Wage_Price_Index_q_q_M1.png,charts/WPI,184,0,yes
+WPI,single,2019-11-13,Wednesday,11:30,Wage Price Index q/q,AUD,ABS Wage Price Index,2019-11-13 00:30,AUDUSD_20191113_AUD_Wage_Price_Index_q_q_M1.png,charts/WPI,184,0,yes
+WPI,single,2020-02-19,Wednesday,11:30,Wage Price Index q/q,AUD,ABS Wage Price Index,2020-02-19 00:30,AUDUSD_20200219_AUD_Wage_Price_Index_q_q_M1.png,charts/WPI,184,0,yes
+WPI,single,2022-05-18,Wednesday,11:30,Wage Price Index q/q,AUD,ABS Wage Price Index,2022-05-18 01:30,AUDUSD_20220518_AUD_Wage_Price_Index_q_q_M1.png,charts/WPI,184,0,yes
+WPI,single,2022-08-17,Wednesday,11:30,Wage Price Index q/q,AUD,ABS Wage Price Index,2022-08-17 01:30,AUDUSD_20220817_AUD_Wage_Price_Index_q_q_M1.png,charts/WPI,184,0,yes
+WPI,single,2022-11-16,Wednesday,11:30,Wage Price Index q/q,AUD,ABS Wage Price Index,2022-11-16 00:30,AUDUSD_20221116_AUD_Wage_Price_Index_q_q_M1.png,charts/WPI,184,0,yes
+WPI,single,2023-02-22,Wednesday,11:30,Wage Price Index q/q,AUD,ABS Wage Price Index,2023-02-22 00:30,AUDUSD_20230222_AUD_Wage_Price_Index_q_q_M1.png,charts/WPI,184,0,yes
+WPI,single,2023-05-17,Wednesday,11:30,Wage Price Index q/q,AUD,ABS Wage Price Index,2023-05-17 01:30,AUDUSD_20230517_AUD_Wage_Price_Index_q_q_M1.png,charts/WPI,184,0,yes
+WPI,single,2023-11-15,Wednesday,11:30,Wage Price Index q/q,AUD,ABS Wage Price Index,2023-11-15 00:30,AUDUSD_20231115_AUD_Wage_Price_Index_q_q_M1.png,charts/WPI,184,0,yes
+WPI,single,2024-02-21,Wednesday,11:30,Wage Price Index q/q,AUD,ABS Wage Price Index,2024-02-21 00:30,AUDUSD_20240221_AUD_Wage_Price_Index_q_q_M1.png,charts/WPI,184,0,yes
+WPI,single,2024-05-15,Wednesday,11:30,Wage Price Index q/q,AUD,ABS Wage Price Index,2024-05-15 01:30,AUDUSD_20240515_AUD_Wage_Price_Index_q_q_M1.png,charts/WPI,184,0,yes
+WPI,single,2024-08-13,Tuesday,11:30,Wage Price Index q/q,AUD,ABS Wage Price Index,2024-08-13 01:30,AUDUSD_20240813_AUD_Wage_Price_Index_q_q_M1.png,charts/WPI,184,0,yes
+WPI,single,2024-11-13,Wednesday,11:30,Wage Price Index q/q,AUD,ABS Wage Price Index,2024-11-13 00:30,AUDUSD_20241113_AUD_Wage_Price_Index_q_q_M1.png,charts/WPI,184,0,yes
+WPI,single,2025-02-19,Wednesday,11:30,Wage Price Index q/q,AUD,ABS Wage Price Index,2025-02-19 00:30,AUDUSD_20250219_AUD_Wage_Price_Index_q_q_M1.png,charts/WPI,181,3,yes
+WPI,single,2025-05-14,Wednesday,11:30,Wage Price Index q/q,AUD,ABS Wage Price Index,2025-05-14 01:30,AUDUSD_20250514_AUD_Wage_Price_Index_q_q_M1.png,charts/WPI,184,0,yes
+WPI,single,2025-08-13,Wednesday,11:30,Wage Price Index q/q,AUD,ABS Wage Price Index,2025-08-13 01:30,AUDUSD_20250813_AUD_Wage_Price_Index_q_q_M1.png,charts/WPI,184,0,yes
+WPI,single,2025-11-19,Wednesday,11:30,Wage Price Index q/q,AUD,ABS Wage Price Index,2025-11-19 00:30,AUDUSD_20251119_AUD_Wage_Price_Index_q_q_M1.png,charts/WPI,182,2,yes

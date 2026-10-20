@@ -1,0 +1,442 @@
+families,chart_type,local_date,weekday,local_time,event,currency,source,utc_time,file,folders,window_bars,missing_minutes,available
+BUDGET,single,2016-05-26,Thursday,14:00,Annual Budget Release,NZD,NZ Treasury,2016-05-26 02:00,NZDUSD_20160526_NZD_Annual_Budget_Release_M1.png,charts/BUDGET,184,0,yes
+BUDGET,single,2017-05-25,Thursday,14:00,Annual Budget Release,NZD,NZ Treasury,2017-05-25 02:00,NZDUSD_20170525_NZD_Annual_Budget_Release_M1.png,charts/BUDGET,182,2,yes
+BUDGET,single,2018-05-17,Thursday,14:00,Annual Budget Release,NZD,NZ Treasury,2018-05-17 02:00,NZDUSD_20180517_NZD_Annual_Budget_Release_M1.png,charts/BUDGET,184,0,yes
+BUDGET,single,2019-05-30,Thursday,14:00,Annual Budget Release,NZD,NZ Treasury,2019-05-30 02:00,NZDUSD_20190530_NZD_Annual_Budget_Release_M1.png,charts/BUDGET,184,0,yes
+BUDGET,single,2020-05-14,Thursday,14:00,Annual Budget Release,NZD,NZ Treasury,2020-05-14 02:00,NZDUSD_20200514_NZD_Annual_Budget_Release_M1.png,charts/BUDGET,184,0,yes
+BUSINESS_CONF,single,2016-01-19,Tuesday,10:00,NZIER Business Confidence,NZD,ANZ / NZIER,2016-01-18 21:00,NZDUSD_20160119_NZD_NZIER_Business_Confidence_M1.png,charts/BUSINESS_CONF,184,0,yes
+BUSINESS_CONF,single,2017-11-30,Thursday,13:00,ANZ Business Confidence,NZD,ANZ / NZIER,2017-11-30 00:00,NZDUSD_20171130_NZD_ANZ_Business_Confidence_M1.png,charts/BUSINESS_CONF,175,9,yes
+BUSINESS_CONF,single,2017-12-19,Tuesday,13:00,ANZ Business Confidence,NZD,ANZ / NZIER,2017-12-19 00:00,NZDUSD_20171219_NZD_ANZ_Business_Confidence_M1.png,charts/BUSINESS_CONF,173,11,yes
+BUSINESS_CONF,single,2018-02-28,Wednesday,13:00,ANZ Business Confidence,NZD,ANZ / NZIER,2018-02-28 00:00,NZDUSD_20180228_NZD_ANZ_Business_Confidence_M1.png,charts/BUSINESS_CONF,172,12,yes
+BUSINESS_CONF,single,2018-03-28,Wednesday,13:00,ANZ Business Confidence,NZD,ANZ / NZIER,2018-03-28 00:00,NZDUSD_20180328_NZD_ANZ_Business_Confidence_M1.png,charts/BUSINESS_CONF,183,1,yes
+BUSINESS_CONF,single,2018-04-30,Monday,13:00,ANZ Business Confidence,NZD,ANZ / NZIER,2018-04-30 01:00,NZDUSD_20180430_NZD_ANZ_Business_Confidence_M1.png,charts/BUSINESS_CONF,183,1,yes
+BUSINESS_CONF,single,2018-05-31,Thursday,13:00,ANZ Business Confidence,NZD,ANZ / NZIER,2018-05-31 01:00,NZDUSD_20180531_NZD_ANZ_Business_Confidence_M1.png,charts/BUSINESS_CONF,183,1,yes
+BUSINESS_CONF,single,2018-06-27,Wednesday,13:00,ANZ Business Confidence,NZD,ANZ / NZIER,2018-06-27 01:00,NZDUSD_20180627_NZD_ANZ_Business_Confidence_M1.png,charts/BUSINESS_CONF,183,1,yes
+BUSINESS_CONF,single,2018-07-31,Tuesday,13:00,ANZ Business Confidence,NZD,ANZ / NZIER,2018-07-31 01:00,NZDUSD_20180731_NZD_ANZ_Business_Confidence_M1.png,charts/BUSINESS_CONF,183,1,yes
+BUSINESS_CONF,single,2018-08-30,Thursday,13:00,ANZ Business Confidence,NZD,ANZ / NZIER,2018-08-30 01:00,NZDUSD_20180830_NZD_ANZ_Business_Confidence_M1.png,charts/BUSINESS_CONF,184,0,yes
+BUSINESS_CONF,single,2018-09-26,Wednesday,13:00,ANZ Business Confidence,NZD,ANZ / NZIER,2018-09-26 01:00,NZDUSD_20180926_NZD_ANZ_Business_Confidence_M1.png,charts/BUSINESS_CONF,184,0,yes
+BUSINESS_CONF,single,2018-10-31,Wednesday,13:00,ANZ Business Confidence,NZD,ANZ / NZIER,2018-10-31 00:00,NZDUSD_20181031_NZD_ANZ_Business_Confidence_M1.png,charts/BUSINESS_CONF,184,0,yes
+BUSINESS_CONF,single,2018-11-29,Thursday,13:00,ANZ Business Confidence,NZD,ANZ / NZIER,2018-11-29 00:00,NZDUSD_20181129_NZD_ANZ_Business_Confidence_M1.png,charts/BUSINESS_CONF,183,1,yes
+BUSINESS_CONF,single,2019-02-28,Thursday,13:00,ANZ Business Confidence,NZD,ANZ / NZIER,2019-02-28 00:00,NZDUSD_20190228_NZD_ANZ_Business_Confidence_M1.png,charts/BUSINESS_CONF,184,0,yes
+BUSINESS_CONF,single,2019-03-28,Thursday,13:00,ANZ Business Confidence,NZD,ANZ / NZIER,2019-03-28 00:00,NZDUSD_20190328_NZD_ANZ_Business_Confidence_M1.png,charts/BUSINESS_CONF,184,0,yes
+BUSINESS_CONF,single,2019-04-30,Tuesday,13:00,ANZ Business Confidence,NZD,ANZ / NZIER,2019-04-30 01:00,NZDUSD_20190430_NZD_ANZ_Business_Confidence_M1.png,charts/BUSINESS_CONF,184,0,yes
+BUSINESS_CONF,single,2019-05-29,Wednesday,13:00,ANZ Business Confidence,NZD,ANZ / NZIER,2019-05-29 01:00,NZDUSD_20190529_NZD_ANZ_Business_Confidence_M1.png,charts/BUSINESS_CONF,184,0,yes
+BUSINESS_CONF,single,2019-06-27,Thursday,13:00,ANZ Business Confidence,NZD,ANZ / NZIER,2019-06-27 01:00,NZDUSD_20190627_NZD_ANZ_Business_Confidence_M1.png,charts/BUSINESS_CONF,184,0,yes
+BUSINESS_CONF,single,2019-07-31,Wednesday,13:00,ANZ Business Confidence,NZD,ANZ / NZIER,2019-07-31 01:00,NZDUSD_20190731_NZD_ANZ_Business_Confidence_M1.png,charts/BUSINESS_CONF,184,0,yes
+BUSINESS_CONF,single,2019-08-29,Thursday,13:00,ANZ Business Confidence,NZD,ANZ / NZIER,2019-08-29 01:00,NZDUSD_20190829_NZD_ANZ_Business_Confidence_M1.png,charts/BUSINESS_CONF,184,0,yes
+BUSINESS_CONF,single,2019-09-30,Monday,13:00,ANZ Business Confidence,NZD,ANZ / NZIER,2019-09-30 00:00,NZDUSD_20190930_NZD_ANZ_Business_Confidence_M1.png,charts/BUSINESS_CONF,184,0,yes
+BUSINESS_CONF,single,2019-10-01,Tuesday,10:00,NZIER Business Confidence,NZD,ANZ / NZIER,2019-09-30 21:00,NZDUSD_20191001_NZD_NZIER_Business_Confidence_M1.png,charts/BUSINESS_CONF,182,2,yes
+BUSINESS_CONF,single,2019-10-31,Thursday,13:00,ANZ Business Confidence,NZD,ANZ / NZIER,2019-10-31 00:00,NZDUSD_20191031_NZD_ANZ_Business_Confidence_M1.png,charts/BUSINESS_CONF,184,0,yes
+BUSINESS_CONF,single,2019-11-28,Thursday,13:00,ANZ Business Confidence,NZD,ANZ / NZIER,2019-11-28 00:00,NZDUSD_20191128_NZD_ANZ_Business_Confidence_M1.png,charts/BUSINESS_CONF,184,0,yes
+BUSINESS_CONF,single,2019-12-17,Tuesday,13:00,ANZ Business Confidence,NZD,ANZ / NZIER,2019-12-17 00:00,NZDUSD_20191217_NZD_ANZ_Business_Confidence_M1.png,charts/BUSINESS_CONF,184,0,yes
+BUSINESS_CONF,single,2020-01-14,Tuesday,10:00,NZIER Business Confidence,NZD,ANZ / NZIER,2020-01-13 21:00,NZDUSD_20200114_NZD_NZIER_Business_Confidence_M1.png,charts/BUSINESS_CONF,180,4,yes
+BUSINESS_CONF,single,2020-02-27,Thursday,13:00,ANZ Business Confidence,NZD,ANZ / NZIER,2020-02-27 00:00,NZDUSD_20200227_NZD_ANZ_Business_Confidence_M1.png,charts/BUSINESS_CONF,184,0,yes
+BUSINESS_CONF,single,2020-03-31,Tuesday,13:00,ANZ Business Confidence,NZD,ANZ / NZIER,2020-03-31 00:00,NZDUSD_20200331_NZD_ANZ_Business_Confidence_M1.png,charts/BUSINESS_CONF,184,0,yes
+BUSINESS_CONF,single,2020-04-08,Wednesday,13:00,Prelim ANZ Business Confidence,NZD,ANZ / NZIER,2020-04-08 01:00,NZDUSD_20200408_NZD_Prelim_ANZ_Business_Confidence_M1.png,charts/BUSINESS_CONF,184,0,yes
+BUSINESS_CONF,single,2020-05-11,Monday,13:00,Prelim ANZ Business Confidence,NZD,ANZ / NZIER,2020-05-11 01:00,NZDUSD_20200511_NZD_Prelim_ANZ_Business_Confidence_M1.png,charts/BUSINESS_CONF,184,0,yes
+CPI,single,2016-01-20,Wednesday,10:45,CPI q/q,NZD,Stats NZ,2016-01-19 21:45,NZDUSD_20160120_NZD_CPI_q_q_M1.png,charts/CPI,184,0,yes
+CPI,single,2016-04-18,Monday,10:45,CPI q/q,NZD,Stats NZ,2016-04-17 22:45,NZDUSD_20160418_NZD_CPI_q_q_M1.png,charts/CPI,182,2,yes
+CPI,single,2016-07-18,Monday,10:45,CPI q/q,NZD,Stats NZ,2016-07-17 22:45,NZDUSD_20160718_NZD_CPI_q_q_M1.png,charts/CPI,182,2,yes
+CPI,single,2016-10-18,Tuesday,10:45,CPI q/q,NZD,Stats NZ,2016-10-17 21:45,NZDUSD_20161018_NZD_CPI_q_q_M1.png,charts/CPI,176,8,yes
+CPI,single,2017-01-26,Thursday,10:45,CPI q/q,NZD,Stats NZ,2017-01-25 21:45,NZDUSD_20170126_NZD_CPI_q_q_M1.png,charts/CPI,176,8,yes
+CPI,single,2017-04-20,Thursday,10:45,CPI q/q,NZD,Stats NZ,2017-04-19 22:45,NZDUSD_20170420_NZD_CPI_q_q_M1.png,charts/CPI,173,11,yes
+CPI,single,2017-07-18,Tuesday,10:45,CPI q/q,NZD,Stats NZ,2017-07-17 22:45,NZDUSD_20170718_NZD_CPI_q_q_M1.png,charts/CPI,178,6,yes
+CPI,single,2017-10-17,Tuesday,10:45,CPI q/q,NZD,Stats NZ,2017-10-16 21:45,NZDUSD_20171017_NZD_CPI_q_q_M1.png,charts/CPI,175,9,yes
+CPI,single,2018-01-25,Thursday,10:45,CPI q/q,NZD,Stats NZ,2018-01-24 21:45,NZDUSD_20180125_NZD_CPI_q_q_M1.png,charts/CPI,183,1,yes
+CPI,single,2018-04-19,Thursday,10:45,CPI q/q,NZD,Stats NZ,2018-04-18 22:45,NZDUSD_20180419_NZD_CPI_q_q_M1.png,charts/CPI,182,2,yes
+CPI,single,2018-07-17,Tuesday,10:45,CPI q/q,NZD,Stats NZ,2018-07-16 22:45,NZDUSD_20180717_NZD_CPI_q_q_M1.png,charts/CPI,158,26,yes
+CPI,single,2018-10-16,Tuesday,10:45,CPI q/q,NZD,Stats NZ,2018-10-15 21:45,NZDUSD_20181016_NZD_CPI_q_q_M1.png,charts/CPI,184,0,yes
+CPI,single,2019-01-23,Wednesday,10:45,CPI q/q,NZD,Stats NZ,2019-01-22 21:45,NZDUSD_20190123_NZD_CPI_q_q_M1.png,charts/CPI,184,0,yes
+CPI,single,2019-04-17,Wednesday,10:45,CPI q/q,NZD,Stats NZ,2019-04-16 22:45,NZDUSD_20190417_NZD_CPI_q_q_M1.png,charts/CPI,184,0,yes
+CPI,single,2019-07-16,Tuesday,10:45,CPI q/q,NZD,Stats NZ,2019-07-15 22:45,NZDUSD_20190716_NZD_CPI_q_q_M1.png,charts/CPI,182,2,yes
+CPI,single,2019-10-16,Wednesday,10:45,CPI q/q,NZD,Stats NZ,2019-10-15 21:45,NZDUSD_20191016_NZD_CPI_q_q_M1.png,charts/CPI,184,0,yes
+CPI,single,2020-01-24,Friday,10:45,CPI q/q,NZD,Stats NZ,2020-01-23 21:45,NZDUSD_20200124_NZD_CPI_q_q_M1.png,charts/CPI,183,1,yes
+CPI,single,2020-07-16,Thursday,10:45,CPI q/q,NZD,Stats NZ,2020-07-15 22:45,NZDUSD_20200716_NZD_CPI_q_q_M1.png,charts/CPI,183,1,yes
+CPI,single,2021-01-22,Friday,10:45,CPI q/q,NZD,Stats NZ,2021-01-21 21:45,NZDUSD_20210122_NZD_CPI_q_q_M1.png,charts/CPI,168,16,yes
+CPI,single,2021-04-21,Wednesday,10:45,CPI q/q,NZD,Stats NZ,2021-04-20 22:45,NZDUSD_20210421_NZD_CPI_q_q_M1.png,charts/CPI,175,9,yes
+CPI,single,2021-07-16,Friday,10:45,CPI q/q,NZD,Stats NZ,2021-07-15 22:45,NZDUSD_20210716_NZD_CPI_q_q_M1.png,charts/CPI,182,2,yes
+CPI,single,2021-10-18,Monday,10:45,CPI q/q,NZD,Stats NZ,2021-10-17 21:45,NZDUSD_20211018_NZD_CPI_q_q_M1.png,charts/CPI,132,52,yes
+CPI,single,2022-01-27,Thursday,10:45,CPI q/q,NZD,Stats NZ,2022-01-26 21:45,NZDUSD_20220127_NZD_CPI_q_q_M1.png,charts/CPI,182,2,yes
+CPI,single,2022-04-21,Thursday,10:45,CPI q/q,NZD,Stats NZ,2022-04-20 22:45,NZDUSD_20220421_NZD_CPI_q_q_M1.png,charts/CPI,183,1,yes
+CPI,single,2022-07-18,Monday,10:45,CPI q/q,NZD,Stats NZ,2022-07-17 22:45,NZDUSD_20220718_NZD_CPI_q_q_M1.png,charts/CPI,178,6,yes
+CPI,single,2022-10-18,Tuesday,10:45,CPI q/q,NZD,Stats NZ,2022-10-17 21:45,NZDUSD_20221018_NZD_CPI_q_q_M1.png,charts/CPI,168,16,yes
+CPI,single,2023-01-25,Wednesday,10:45,CPI q/q,NZD,Stats NZ,2023-01-24 21:45,NZDUSD_20230125_NZD_CPI_q_q_M1.png,charts/CPI,180,4,yes
+CPI,single,2023-04-20,Thursday,10:45,CPI q/q,NZD,Stats NZ,2023-04-19 22:45,NZDUSD_20230420_NZD_CPI_q_q_M1.png,charts/CPI,181,3,yes
+CPI,single,2023-07-19,Wednesday,10:45,CPI q/q,NZD,Stats NZ,2023-07-18 22:45,NZDUSD_20230719_NZD_CPI_q_q_M1.png,charts/CPI,182,2,yes
+CPI,single,2023-10-17,Tuesday,10:45,CPI q/q,NZD,Stats NZ,2023-10-16 21:45,NZDUSD_20231017_NZD_CPI_q_q_M1.png,charts/CPI,182,2,yes
+CPI,single,2024-01-24,Wednesday,10:45,CPI q/q,NZD,Stats NZ,2024-01-23 21:45,NZDUSD_20240124_NZD_CPI_q_q_M1.png,charts/CPI,180,4,yes
+CPI,single,2024-04-17,Wednesday,10:45,CPI q/q,NZD,Stats NZ,2024-04-16 22:45,NZDUSD_20240417_NZD_CPI_q_q_M1.png,charts/CPI,182,2,yes
+CPI,single,2024-07-17,Wednesday,10:45,CPI q/q,NZD,Stats NZ,2024-07-16 22:45,NZDUSD_20240717_NZD_CPI_q_q_M1.png,charts/CPI,184,0,yes
+CPI,single,2024-10-16,Wednesday,10:45,CPI q/q,NZD,Stats NZ,2024-10-15 21:45,NZDUSD_20241016_NZD_CPI_q_q_M1.png,charts/CPI,180,4,yes
+CPI,single,2025-01-22,Wednesday,10:45,CPI q/q,NZD,Stats NZ,2025-01-21 21:45,NZDUSD_20250122_NZD_CPI_q_q_M1.png,charts/CPI,184,0,yes
+CPI,single,2025-04-17,Thursday,10:45,CPI q/q,NZD,Stats NZ,2025-04-16 22:45,NZDUSD_20250417_NZD_CPI_q_q_M1.png,charts/CPI,184,0,yes
+CPI,single,2025-07-21,Monday,10:45,CPI q/q,NZD,Stats NZ,2025-07-20 22:45,NZDUSD_20250721_NZD_CPI_q_q_M1.png,charts/CPI,184,0,yes
+CPI,single,2025-10-20,Monday,10:45,CPI q/q,NZD,Stats NZ,2025-10-19 21:45,NZDUSD_20251020_NZD_CPI_q_q_M1.png,charts/CPI,133,51,yes
+CPI,single,2026-01-23,Friday,10:45,CPI q/q,NZD,Stats NZ,2026-01-22 21:45,NZDUSD_20260123_NZD_CPI_q_q_M1.png,charts/CPI,184,0,yes
+CPI,single,2026-04-21,Tuesday,10:45,CPI q/q,NZD,Stats NZ,2026-04-20 22:45,NZDUSD_20260421_NZD_CPI_q_q_M1.png,charts/CPI,179,5,yes
+CPI,single,2026-07-21,Tuesday,10:45,CPI q/q,NZD,Stats NZ,2026-07-20 22:45,NZDUSD_20260721_NZD_CPI_q_q_M1.png,charts/CPI,183,1,yes
+EMPLOY,single,2022-08-03,Wednesday,10:45,Employment Change q/q,NZD,Stats NZ,2022-08-02 22:45,NZDUSD_20220803_NZD_Employment_Change_q_q_M1.png,charts/EMPLOY,183,1,yes
+EMPLOY+PPI+UNEMP,joint,2016-08-17,Wednesday,10:45,Employment Change q/q + PPI Input q/q + Unemployment Rate,NZD,Stats NZ,2016-08-16 22:45,NZDUSD_20160817_NZD_EMPLOY+PPI+UNEMP_M1.png,charts/EMPLOY;charts/PPI;charts/UNEMP,174,10,yes
+EMPLOY+UNEMP,joint,2016-02-03,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2016-02-02 21:45,NZDUSD_20160203_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,183,1,yes
+EMPLOY+UNEMP,joint,2016-05-04,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2016-05-03 22:45,NZDUSD_20160504_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,179,5,yes
+EMPLOY+UNEMP,joint,2016-11-02,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2016-11-01 21:45,NZDUSD_20161102_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,172,12,yes
+EMPLOY+UNEMP,joint,2017-02-01,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2017-01-31 21:45,NZDUSD_20170201_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,183,1,yes
+EMPLOY+UNEMP,joint,2017-05-03,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2017-05-02 22:45,NZDUSD_20170503_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,173,11,yes
+EMPLOY+UNEMP,joint,2017-08-02,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2017-08-01 22:45,NZDUSD_20170802_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,181,3,yes
+EMPLOY+UNEMP,joint,2017-11-01,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2017-10-31 21:45,NZDUSD_20171101_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,182,2,yes
+EMPLOY+UNEMP,joint,2018-02-07,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2018-02-06 21:45,NZDUSD_20180207_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,182,2,yes
+EMPLOY+UNEMP,joint,2018-05-02,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2018-05-01 22:45,NZDUSD_20180502_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,182,2,yes
+EMPLOY+UNEMP,joint,2018-08-01,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2018-07-31 22:45,NZDUSD_20180801_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,174,10,yes
+EMPLOY+UNEMP,joint,2018-11-07,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2018-11-06 21:45,NZDUSD_20181107_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,178,6,yes
+EMPLOY+UNEMP,joint,2019-02-07,Thursday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2019-02-06 21:45,NZDUSD_20190207_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2019-05-01,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2019-04-30 22:45,NZDUSD_20190501_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2019-08-06,Tuesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2019-08-05 22:45,NZDUSD_20190806_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2019-11-06,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2019-11-05 21:45,NZDUSD_20191106_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2020-02-05,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2020-02-04 21:45,NZDUSD_20200205_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,183,1,yes
+EMPLOY+UNEMP,joint,2020-05-06,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2020-05-05 22:45,NZDUSD_20200506_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2020-08-05,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2020-08-04 22:45,NZDUSD_20200805_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2020-11-04,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2020-11-03 21:45,NZDUSD_20201104_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,180,4,yes
+EMPLOY+UNEMP,joint,2021-02-03,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2021-02-02 21:45,NZDUSD_20210203_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,179,5,yes
+EMPLOY+UNEMP,joint,2021-05-05,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2021-05-04 22:45,NZDUSD_20210505_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,179,5,yes
+EMPLOY+UNEMP,joint,2021-08-04,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2021-08-03 22:45,NZDUSD_20210804_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,172,12,yes
+EMPLOY+UNEMP,joint,2021-11-03,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2021-11-02 21:45,NZDUSD_20211103_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,183,1,yes
+EMPLOY+UNEMP,joint,2022-02-02,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2022-02-01 21:45,NZDUSD_20220202_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,174,10,yes
+EMPLOY+UNEMP,joint,2022-05-04,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2022-05-03 22:45,NZDUSD_20220504_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,158,26,yes
+EMPLOY+UNEMP,joint,2022-11-02,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2022-11-01 21:45,NZDUSD_20221102_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,177,7,yes
+EMPLOY+UNEMP,joint,2023-02-01,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2023-01-31 21:45,NZDUSD_20230201_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,182,2,yes
+EMPLOY+UNEMP,joint,2023-05-03,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2023-05-02 22:45,NZDUSD_20230503_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,175,9,yes
+EMPLOY+UNEMP,joint,2023-08-02,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2023-08-01 22:45,NZDUSD_20230802_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,183,1,yes
+EMPLOY+UNEMP,joint,2023-11-01,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2023-10-31 21:45,NZDUSD_20231101_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,183,1,yes
+EMPLOY+UNEMP,joint,2024-02-07,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2024-02-06 21:45,NZDUSD_20240207_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,181,3,yes
+EMPLOY+UNEMP,joint,2024-05-01,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2024-04-30 22:45,NZDUSD_20240501_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,183,1,yes
+EMPLOY+UNEMP,joint,2024-08-07,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2024-08-06 22:45,NZDUSD_20240807_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2024-11-06,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2024-11-05 21:45,NZDUSD_20241106_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,76,108,yes
+EMPLOY+UNEMP,joint,2025-02-05,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2025-02-04 21:45,NZDUSD_20250205_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,178,6,yes
+EMPLOY+UNEMP,joint,2025-05-07,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2025-05-06 22:45,NZDUSD_20250507_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2025-08-06,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2025-08-05 22:45,NZDUSD_20250806_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2025-11-05,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2025-11-04 21:45,NZDUSD_20251105_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,183,1,yes
+EMPLOY+UNEMP,joint,2026-02-04,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2026-02-03 21:45,NZDUSD_20260204_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2026-05-06,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2026-05-05 22:45,NZDUSD_20260506_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,184,0,yes
+EMPLOY+UNEMP,joint,2026-08-05,Wednesday,10:45,Employment Change q/q + Unemployment Rate,NZD,Stats NZ,2026-08-04 22:45,NZDUSD_20260805_NZD_EMPLOY+UNEMP_M1.png,charts/EMPLOY;charts/UNEMP,181,3,yes
+GDP,single,2016-03-17,Thursday,10:45,GDP q/q,NZD,Stats NZ,2016-03-16 21:45,NZDUSD_20160317_NZD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2016-06-16,Thursday,10:45,GDP q/q,NZD,Stats NZ,2016-06-15 22:45,NZDUSD_20160616_NZD_GDP_q_q_M1.png,charts/GDP,169,15,yes
+GDP,single,2016-09-15,Thursday,10:45,GDP q/q,NZD,Stats NZ,2016-09-14 22:45,NZDUSD_20160915_NZD_GDP_q_q_M1.png,charts/GDP,178,6,yes
+GDP,single,2016-12-22,Thursday,10:45,GDP q/q,NZD,Stats NZ,2016-12-21 21:45,NZDUSD_20161222_NZD_GDP_q_q_M1.png,charts/GDP,179,5,yes
+GDP,single,2017-03-16,Thursday,10:45,GDP q/q,NZD,Stats NZ,2017-03-15 21:45,NZDUSD_20170316_NZD_GDP_q_q_M1.png,charts/GDP,181,3,yes
+GDP,single,2017-06-15,Thursday,10:45,GDP q/q,NZD,Stats NZ,2017-06-14 22:45,NZDUSD_20170615_NZD_GDP_q_q_M1.png,charts/GDP,174,10,yes
+GDP,single,2017-09-21,Thursday,10:45,GDP q/q,NZD,Stats NZ,2017-09-20 22:45,NZDUSD_20170921_NZD_GDP_q_q_M1.png,charts/GDP,173,11,yes
+GDP,single,2017-12-21,Thursday,10:45,GDP q/q,NZD,Stats NZ,2017-12-20 21:45,NZDUSD_20171221_NZD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2018-03-15,Thursday,10:45,GDP q/q,NZD,Stats NZ,2018-03-14 21:45,NZDUSD_20180315_NZD_GDP_q_q_M1.png,charts/GDP,167,17,yes
+GDP,single,2018-06-21,Thursday,10:45,GDP q/q,NZD,Stats NZ,2018-06-20 22:45,NZDUSD_20180621_NZD_GDP_q_q_M1.png,charts/GDP,173,11,yes
+GDP,single,2018-09-20,Thursday,10:45,GDP q/q,NZD,Stats NZ,2018-09-19 22:45,NZDUSD_20180920_NZD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2018-12-20,Thursday,10:45,GDP q/q,NZD,Stats NZ,2018-12-19 21:45,NZDUSD_20181220_NZD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2019-03-21,Thursday,10:45,GDP q/q,NZD,Stats NZ,2019-03-20 21:45,NZDUSD_20190321_NZD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2019-06-20,Thursday,10:45,GDP q/q,NZD,Stats NZ,2019-06-19 22:45,NZDUSD_20190620_NZD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2019-09-19,Thursday,10:45,GDP q/q,NZD,Stats NZ,2019-09-18 22:45,NZDUSD_20190919_NZD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2019-12-19,Thursday,10:45,GDP q/q,NZD,Stats NZ,2019-12-18 21:45,NZDUSD_20191219_NZD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2020-03-19,Thursday,10:45,GDP q/q,NZD,Stats NZ,2020-03-18 21:45,NZDUSD_20200319_NZD_GDP_q_q_M1.png,charts/GDP,183,1,yes
+GDP,single,2020-06-18,Thursday,10:45,GDP q/q,NZD,Stats NZ,2020-06-17 22:45,NZDUSD_20200618_NZD_GDP_q_q_M1.png,charts/GDP,178,6,yes
+GDP,single,2020-09-17,Thursday,10:45,GDP q/q,NZD,Stats NZ,2020-09-16 22:45,NZDUSD_20200917_NZD_GDP_q_q_M1.png,charts/GDP,175,9,yes
+GDP,single,2020-12-17,Thursday,10:45,GDP q/q,NZD,Stats NZ,2020-12-16 21:45,NZDUSD_20201217_NZD_GDP_q_q_M1.png,charts/GDP,169,15,yes
+GDP,single,2021-03-18,Thursday,10:45,GDP q/q,NZD,Stats NZ,2021-03-17 21:45,NZDUSD_20210318_NZD_GDP_q_q_M1.png,charts/GDP,182,2,yes
+GDP,single,2021-06-17,Thursday,10:45,GDP q/q,NZD,Stats NZ,2021-06-16 22:45,NZDUSD_20210617_NZD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2021-09-16,Thursday,10:45,GDP q/q,NZD,Stats NZ,2021-09-15 22:45,NZDUSD_20210916_NZD_GDP_q_q_M1.png,charts/GDP,182,2,yes
+GDP,single,2021-12-16,Thursday,10:45,GDP q/q,NZD,Stats NZ,2021-12-15 21:45,NZDUSD_20211216_NZD_GDP_q_q_M1.png,charts/GDP,182,2,yes
+GDP,single,2022-03-17,Thursday,10:45,GDP q/q,NZD,Stats NZ,2022-03-16 21:45,NZDUSD_20220317_NZD_GDP_q_q_M1.png,charts/GDP,180,4,yes
+GDP,single,2022-09-15,Thursday,10:45,GDP q/q,NZD,Stats NZ,2022-09-14 22:45,NZDUSD_20220915_NZD_GDP_q_q_M1.png,charts/GDP,177,7,yes
+GDP,single,2022-12-15,Thursday,10:45,GDP q/q,NZD,Stats NZ,2022-12-14 21:45,NZDUSD_20221215_NZD_GDP_q_q_M1.png,charts/GDP,170,14,yes
+GDP,single,2023-03-16,Thursday,10:45,GDP q/q,NZD,Stats NZ,2023-03-15 21:45,NZDUSD_20230316_NZD_GDP_q_q_M1.png,charts/GDP,172,12,yes
+GDP,single,2023-06-15,Thursday,10:45,GDP q/q,NZD,Stats NZ,2023-06-14 22:45,NZDUSD_20230615_NZD_GDP_q_q_M1.png,charts/GDP,182,2,yes
+GDP,single,2023-09-21,Thursday,10:45,GDP q/q,NZD,Stats NZ,2023-09-20 22:45,NZDUSD_20230921_NZD_GDP_q_q_M1.png,charts/GDP,180,4,yes
+GDP,single,2023-12-14,Thursday,10:45,GDP q/q,NZD,Stats NZ,2023-12-13 21:45,NZDUSD_20231214_NZD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2024-03-21,Thursday,10:45,GDP q/q,NZD,Stats NZ,2024-03-20 21:45,NZDUSD_20240321_NZD_GDP_q_q_M1.png,charts/GDP,183,1,yes
+GDP,single,2024-06-20,Thursday,10:45,GDP q/q,NZD,Stats NZ,2024-06-19 22:45,NZDUSD_20240620_NZD_GDP_q_q_M1.png,charts/GDP,179,5,yes
+GDP,single,2024-09-19,Thursday,10:45,GDP q/q,NZD,Stats NZ,2024-09-18 22:45,NZDUSD_20240919_NZD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDP,single,2024-12-19,Thursday,10:45,GDP q/q,NZD,Stats NZ,2024-12-18 21:45,NZDUSD_20241219_NZD_GDP_q_q_M1.png,charts/GDP,183,1,yes
+GDP,single,2025-03-20,Thursday,10:45,GDP q/q,NZD,Stats NZ,2025-03-19 21:45,NZDUSD_20250320_NZD_GDP_q_q_M1.png,charts/GDP,182,2,yes
+GDP,single,2025-06-19,Thursday,10:45,GDP q/q,NZD,Stats NZ,2025-06-18 22:45,NZDUSD_20250619_NZD_GDP_q_q_M1.png,charts/GDP,182,2,yes
+GDP,single,2025-09-18,Thursday,10:45,GDP q/q,NZD,Stats NZ,2025-09-17 22:45,NZDUSD_20250918_NZD_GDP_q_q_M1.png,charts/GDP,183,1,yes
+GDP,single,2025-12-18,Thursday,10:45,GDP q/q,NZD,Stats NZ,2025-12-17 21:45,NZDUSD_20251218_NZD_GDP_q_q_M1.png,charts/GDP,183,1,yes
+GDP,single,2026-03-19,Thursday,10:45,GDP q/q,NZD,Stats NZ,2026-03-18 21:45,NZDUSD_20260319_NZD_GDP_q_q_M1.png,charts/GDP,182,2,yes
+GDP,single,2026-06-18,Thursday,10:45,GDP q/q,NZD,Stats NZ,2026-06-17 22:45,NZDUSD_20260618_NZD_GDP_q_q_M1.png,charts/GDP,182,2,yes
+GDP,single,2026-09-17,Thursday,10:45,GDP q/q,NZD,Stats NZ,2026-09-16 22:45,NZDUSD_20260917_NZD_GDP_q_q_M1.png,charts/GDP,184,0,yes
+GDT,single,2016-01-06,Wednesday,03:07,GDT Price Index,NZD,Global Dairy Trade,2016-01-05 14:07,NZDUSD_20160106_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2016-01-20,Wednesday,02:59,GDT Price Index,NZD,Global Dairy Trade,2016-01-19 13:59,NZDUSD_20160120_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2016-02-03,Wednesday,02:53,GDT Price Index,NZD,Global Dairy Trade,2016-02-02 13:53,NZDUSD_20160203_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2016-02-17,Wednesday,03:12,GDT Price Index,NZD,Global Dairy Trade,2016-02-16 14:12,NZDUSD_20160217_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2016-03-02,Wednesday,03:26,GDT Price Index,NZD,Global Dairy Trade,2016-03-01 14:26,NZDUSD_20160302_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2016-03-16,Wednesday,03:09,GDT Price Index,NZD,Global Dairy Trade,2016-03-15 14:09,NZDUSD_20160316_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2016-04-06,Wednesday,02:27,GDT Price Index,NZD,Global Dairy Trade,2016-04-05 14:27,NZDUSD_20160406_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2016-04-20,Wednesday,02:11,GDT Price Index,NZD,Global Dairy Trade,2016-04-19 14:11,NZDUSD_20160420_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2016-05-04,Wednesday,01:59,GDT Price Index,NZD,Global Dairy Trade,2016-05-03 13:59,NZDUSD_20160504_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2016-05-18,Wednesday,02:15,GDT Price Index,NZD,Global Dairy Trade,2016-05-17 14:15,NZDUSD_20160518_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2016-06-02,Thursday,02:43,GDT Price Index,NZD,Global Dairy Trade,2016-06-01 14:43,NZDUSD_20160602_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2016-06-16,Thursday,02:12,GDT Price Index,NZD,Global Dairy Trade,2016-06-15 14:12,NZDUSD_20160616_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2016-07-06,Wednesday,02:28,GDT Price Index,NZD,Global Dairy Trade,2016-07-05 14:28,NZDUSD_20160706_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2016-07-20,Wednesday,02:14,GDT Price Index,NZD,Global Dairy Trade,2016-07-19 14:14,NZDUSD_20160720_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2016-08-03,Wednesday,02:10,GDT Price Index,NZD,Global Dairy Trade,2016-08-02 14:10,NZDUSD_20160803_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2016-08-17,Wednesday,02:49,GDT Price Index,NZD,Global Dairy Trade,2016-08-16 14:49,NZDUSD_20160817_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2016-09-07,Wednesday,02:22,GDT Price Index,NZD,Global Dairy Trade,2016-09-06 14:22,NZDUSD_20160907_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2016-09-21,Wednesday,02:08,GDT Price Index,NZD,Global Dairy Trade,2016-09-20 14:08,NZDUSD_20160921_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2016-10-05,Wednesday,03:06,GDT Price Index,NZD,Global Dairy Trade,2016-10-04 14:06,NZDUSD_20161005_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2016-10-19,Wednesday,02:48,GDT Price Index,NZD,Global Dairy Trade,2016-10-18 13:48,NZDUSD_20161019_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2016-11-02,Wednesday,03:35,GDT Price Index,NZD,Global Dairy Trade,2016-11-01 14:35,NZDUSD_20161102_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2016-11-16,Wednesday,03:35,GDT Price Index,NZD,Global Dairy Trade,2016-11-15 14:35,NZDUSD_20161116_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2016-12-07,Wednesday,03:11,GDT Price Index,NZD,Global Dairy Trade,2016-12-06 14:11,NZDUSD_20161207_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2016-12-21,Wednesday,03:05,GDT Price Index,NZD,Global Dairy Trade,2016-12-20 14:05,NZDUSD_20161221_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2017-01-04,Wednesday,03:09,GDT Price Index,NZD,Global Dairy Trade,2017-01-03 14:09,NZDUSD_20170104_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2017-01-18,Wednesday,02:47,GDT Price Index,NZD,Global Dairy Trade,2017-01-17 13:47,NZDUSD_20170118_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2017-02-08,Wednesday,03:00,GDT Price Index,NZD,Global Dairy Trade,2017-02-07 14:00,NZDUSD_20170208_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2017-02-22,Wednesday,02:52,GDT Price Index,NZD,Global Dairy Trade,2017-02-21 13:52,NZDUSD_20170222_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2017-03-08,Wednesday,02:43,GDT Price Index,NZD,Global Dairy Trade,2017-03-07 13:43,NZDUSD_20170308_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2017-03-22,Wednesday,03:03,GDT Price Index,NZD,Global Dairy Trade,2017-03-21 14:03,NZDUSD_20170322_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2017-04-05,Wednesday,02:04,GDT Price Index,NZD,Global Dairy Trade,2017-04-04 14:04,NZDUSD_20170405_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2017-04-19,Wednesday,02:19,GDT Price Index,NZD,Global Dairy Trade,2017-04-18 14:19,NZDUSD_20170419_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+GDT,single,2017-05-03,Wednesday,02:32,GDT Price Index,NZD,Global Dairy Trade,2017-05-02 14:32,NZDUSD_20170503_NZD_GDT_Price_Index_M1.png,charts/GDT,184,0,yes
+INFL_EXP,single,2016-02-16,Tuesday,15:00,Inflation Expectations q/q,NZD,RBNZ,2016-02-16 02:00,NZDUSD_20160216_NZD_Inflation_Expectations_q_q_M1.png,charts/INFL_EXP,184,0,yes
+INFL_EXP,single,2016-05-17,Tuesday,15:00,Inflation Expectations q/q,NZD,RBNZ,2016-05-17 03:00,NZDUSD_20160517_NZD_Inflation_Expectations_q_q_M1.png,charts/INFL_EXP,184,0,yes
+INFL_EXP,single,2016-08-02,Tuesday,15:00,Inflation Expectations q/q,NZD,RBNZ,2016-08-02 03:00,NZDUSD_20160802_NZD_Inflation_Expectations_q_q_M1.png,charts/INFL_EXP,184,0,yes
+INFL_EXP,single,2016-11-02,Wednesday,15:00,Inflation Expectations q/q,NZD,RBNZ,2016-11-02 02:00,NZDUSD_20161102_NZD_Inflation_Expectations_q_q_M1.png,charts/INFL_EXP,184,0,yes
+INFL_EXP,single,2017-02-07,Tuesday,15:00,Inflation Expectations q/q,NZD,RBNZ,2017-02-07 02:00,NZDUSD_20170207_NZD_Inflation_Expectations_q_q_M1.png,charts/INFL_EXP,184,0,yes
+INFL_EXP,single,2017-05-05,Friday,15:00,Inflation Expectations q/q,NZD,RBNZ,2017-05-05 03:00,NZDUSD_20170505_NZD_Inflation_Expectations_q_q_M1.png,charts/INFL_EXP,184,0,yes
+INFL_EXP,single,2017-08-07,Monday,15:00,Inflation Expectations q/q,NZD,RBNZ,2017-08-07 03:00,NZDUSD_20170807_NZD_Inflation_Expectations_q_q_M1.png,charts/INFL_EXP,182,2,yes
+INFL_EXP,single,2017-11-06,Monday,15:00,Inflation Expectations q/q,NZD,RBNZ,2017-11-06 02:00,NZDUSD_20171106_NZD_Inflation_Expectations_q_q_M1.png,charts/INFL_EXP,184,0,yes
+INFL_EXP,single,2018-02-14,Wednesday,15:00,Inflation Expectations q/q,NZD,RBNZ,2018-02-14 02:00,NZDUSD_20180214_NZD_Inflation_Expectations_q_q_M1.png,charts/INFL_EXP,184,0,yes
+INFL_EXP,single,2018-05-08,Tuesday,15:00,Inflation Expectations q/q,NZD,RBNZ,2018-05-08 03:00,NZDUSD_20180508_NZD_Inflation_Expectations_q_q_M1.png,charts/INFL_EXP,183,1,yes
+INFL_EXP,single,2018-08-08,Wednesday,15:00,Inflation Expectations q/q,NZD,RBNZ,2018-08-08 03:00,NZDUSD_20180808_NZD_Inflation_Expectations_q_q_M1.png,charts/INFL_EXP,184,0,yes
+INFL_EXP,single,2018-11-07,Wednesday,15:00,Inflation Expectations q/q,NZD,RBNZ,2018-11-07 02:00,NZDUSD_20181107_NZD_Inflation_Expectations_q_q_M1.png,charts/INFL_EXP,184,0,yes
+INFL_EXP,single,2019-02-12,Tuesday,15:00,Inflation Expectations q/q,NZD,RBNZ,2019-02-12 02:00,NZDUSD_20190212_NZD_Inflation_Expectations_q_q_M1.png,charts/INFL_EXP,184,0,yes
+INFL_EXP,single,2019-05-07,Tuesday,15:00,Inflation Expectations q/q,NZD,RBNZ,2019-05-07 03:00,NZDUSD_20190507_NZD_Inflation_Expectations_q_q_M1.png,charts/INFL_EXP,184,0,yes
+INFL_EXP,single,2019-11-12,Tuesday,15:00,Inflation Expectations q/q,NZD,RBNZ,2019-11-12 02:00,NZDUSD_20191112_NZD_Inflation_Expectations_q_q_M1.png,charts/INFL_EXP,184,0,yes
+INFL_EXP,single,2020-02-07,Friday,15:00,Inflation Expectations q/q,NZD,RBNZ,2020-02-07 02:00,NZDUSD_20200207_NZD_Inflation_Expectations_q_q_M1.png,charts/INFL_EXP,184,0,yes
+INFL_EXP,single,2020-05-07,Thursday,15:00,Inflation Expectations q/q,NZD,RBNZ,2020-05-07 03:00,NZDUSD_20200507_NZD_Inflation_Expectations_q_q_M1.png,charts/INFL_EXP,184,0,yes
+INFL_EXP,single,2020-08-06,Thursday,15:00,Inflation Expectations q/q,NZD,RBNZ,2020-08-06 03:00,NZDUSD_20200806_NZD_Inflation_Expectations_q_q_M1.png,charts/INFL_EXP,184,0,yes
+INFL_EXP,single,2023-02-14,Tuesday,15:00,Inflation Expectations q/q,NZD,RBNZ,2023-02-14 02:00,NZDUSD_20230214_NZD_Inflation_Expectations_q_q_M1.png,charts/INFL_EXP,184,0,yes
+INFL_EXP,single,2023-05-12,Friday,15:00,Inflation Expectations q/q,NZD,RBNZ,2023-05-12 03:00,NZDUSD_20230512_NZD_Inflation_Expectations_q_q_M1.png,charts/INFL_EXP,184,0,yes
+INFL_EXP,single,2023-08-09,Wednesday,15:00,Inflation Expectations q/q,NZD,RBNZ,2023-08-09 03:00,NZDUSD_20230809_NZD_Inflation_Expectations_q_q_M1.png,charts/INFL_EXP,184,0,yes
+INFL_EXP,single,2023-11-08,Wednesday,15:25,Inflation Expectations q/q,NZD,RBNZ,2023-11-08 02:25,NZDUSD_20231108_NZD_Inflation_Expectations_q_q_M1.png,charts/INFL_EXP,184,0,yes
+INFL_EXP,single,2024-02-13,Tuesday,15:20,Inflation Expectations q/q,NZD,RBNZ,2024-02-13 02:20,NZDUSD_20240213_NZD_Inflation_Expectations_q_q_M1.png,charts/INFL_EXP,184,0,yes
+INFL_EXP,single,2024-05-13,Monday,15:00,Inflation Expectations q/q,NZD,RBNZ,2024-05-13 03:00,NZDUSD_20240513_NZD_Inflation_Expectations_q_q_M1.png,charts/INFL_EXP,183,1,yes
+INFL_EXP,single,2024-08-08,Thursday,15:00,Inflation Expectations q/q,NZD,RBNZ,2024-08-08 03:00,NZDUSD_20240808_NZD_Inflation_Expectations_q_q_M1.png,charts/INFL_EXP,184,0,yes
+INFL_EXP,single,2024-11-11,Monday,15:00,Inflation Expectations q/q,NZD,RBNZ,2024-11-11 02:00,NZDUSD_20241111_NZD_Inflation_Expectations_q_q_M1.png,charts/INFL_EXP,184,0,yes
+INFL_EXP,single,2025-02-13,Thursday,15:00,Inflation Expectations q/q,NZD,RBNZ,2025-02-13 02:00,NZDUSD_20250213_NZD_Inflation_Expectations_q_q_M1.png,charts/INFL_EXP,184,0,yes
+PMI_MFG,single,2018-02-16,Friday,10:30,BusinessNZ Manufacturing Index,NZD,BusinessNZ,2018-02-15 21:30,NZDUSD_20180216_NZD_BusinessNZ_Manufacturing_Index_M1.png,charts/PMI_MFG,179,5,yes
+POLITICS,single,2017-09-23,Saturday,09:45,Parliamentary Elections,NZD,NZ Electoral Commission,2017-09-22 21:45,NZDUSD_20170923_NZD_Parliamentary_Elections_M1.png,charts/POLITICS,46,138,yes
+POLITICS,single,2020-10-17,Saturday,10:45,Parliamentary Elections,NZD,NZ Electoral Commission,2020-10-16 21:45,NZDUSD_20201017_NZD_Parliamentary_Elections_M1.png,charts/POLITICS,43,141,yes
+POLITICS,single,2023-10-14,Saturday,10:45,Parliamentary Elections,NZD,NZ Electoral Commission,2023-10-13 21:45,NZDUSD_20231014_NZD_Parliamentary_Elections_M1.png,charts/POLITICS,45,139,yes
+PPI,single,2016-02-18,Thursday,10:45,PPI Input q/q,NZD,Stats NZ,2016-02-17 21:45,NZDUSD_20160218_NZD_PPI_Input_q_q_M1.png,charts/PPI,183,1,yes
+PPI,single,2016-05-18,Wednesday,10:45,PPI Input q/q,NZD,Stats NZ,2016-05-17 22:45,NZDUSD_20160518_NZD_PPI_Input_q_q_M1.png,charts/PPI,160,24,yes
+PPI,single,2017-02-20,Monday,10:45,PPI Input q/q,NZD,Stats NZ,2017-02-19 21:45,NZDUSD_20170220_NZD_PPI_Input_q_q_M1.png,charts/PPI,68,116,yes
+PPI,single,2017-05-17,Wednesday,10:45,PPI Input q/q,NZD,Stats NZ,2017-05-16 22:45,NZDUSD_20170517_NZD_PPI_Input_q_q_M1.png,charts/PPI,180,4,yes
+PPI,single,2017-08-17,Thursday,10:45,PPI Input q/q,NZD,Stats NZ,2017-08-16 22:45,NZDUSD_20170817_NZD_PPI_Input_q_q_M1.png,charts/PPI,176,8,yes
+PPI+RETAIL,joint,2016-11-18,Friday,16:00,PPI Input q/q + Retail Sales q/q,NZD,Stats NZ,2016-11-18 03:00,NZDUSD_20161118_NZD_PPI+RETAIL_M1.png,charts/PPI;charts/RETAIL,184,0,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2018-05-10,Thursday,09:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2018-05-09 21:00,NZDUSD_20180510_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,181,3,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2018-08-09,Thursday,09:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2018-08-08 21:00,NZDUSD_20180809_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,181,3,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2018-11-08,Thursday,09:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2018-11-07 20:00,NZDUSD_20181108_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2019-02-13,Wednesday,14:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2019-02-13 01:00,NZDUSD_20190213_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2019-05-08,Wednesday,14:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2019-05-08 02:00,NZDUSD_20190508_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2019-08-07,Wednesday,14:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2019-08-07 02:00,NZDUSD_20190807_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2019-11-13,Wednesday,14:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2019-11-13 01:00,NZDUSD_20191113_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2020-02-12,Wednesday,14:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2020-02-12 01:00,NZDUSD_20200212_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2020-05-13,Wednesday,14:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2020-05-13 02:00,NZDUSD_20200513_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2020-08-12,Wednesday,14:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2020-08-12 02:00,NZDUSD_20200812_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2020-11-11,Wednesday,14:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2020-11-11 01:00,NZDUSD_20201111_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2021-08-18,Wednesday,14:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2021-08-18 02:00,NZDUSD_20210818_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2021-11-24,Wednesday,14:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2021-11-24 01:00,NZDUSD_20211124_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2022-02-23,Wednesday,14:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2022-02-23 01:00,NZDUSD_20220223_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2022-05-25,Wednesday,14:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2022-05-25 02:00,NZDUSD_20220525_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2022-08-17,Wednesday,14:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2022-08-17 02:00,NZDUSD_20220817_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2022-11-23,Wednesday,14:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2022-11-23 01:00,NZDUSD_20221123_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2023-02-22,Wednesday,14:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2023-02-22 01:00,NZDUSD_20230222_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2023-05-24,Wednesday,14:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2023-05-24 02:00,NZDUSD_20230524_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2023-08-16,Wednesday,14:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2023-08-16 02:00,NZDUSD_20230816_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2023-11-29,Wednesday,14:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2023-11-29 01:00,NZDUSD_20231129_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2024-02-28,Wednesday,14:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2024-02-28 01:00,NZDUSD_20240228_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,183,1,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2024-05-22,Wednesday,14:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2024-05-22 02:00,NZDUSD_20240522_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2024-08-14,Wednesday,14:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2024-08-14 02:00,NZDUSD_20240814_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2024-11-27,Wednesday,14:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2024-11-27 01:00,NZDUSD_20241127_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2025-02-19,Wednesday,14:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2025-02-19 01:00,NZDUSD_20250219_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,180,4,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2025-05-28,Wednesday,14:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2025-05-28 02:00,NZDUSD_20250528_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2025-08-20,Wednesday,14:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2025-08-20 02:00,NZDUSD_20250820_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2025-11-26,Wednesday,14:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2025-11-26 01:00,NZDUSD_20251126_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2026-02-18,Wednesday,14:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2026-02-18 01:00,NZDUSD_20260218_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2026-05-27,Wednesday,14:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2026-05-27 02:00,NZDUSD_20260527_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_MPS+RBNZ_STMT,joint,2026-09-02,Wednesday,14:00,Official Cash Rate + RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2026-09-02 02:00,NZDUSD_20260902_NZD_RATE+RBNZ_MPS+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_STMT,joint,2016-01-28,Thursday,09:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2016-01-27 20:00,NZDUSD_20160128_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_STMT,joint,2016-03-10,Thursday,09:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2016-03-09 20:00,NZDUSD_20160310_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_STMT,joint,2016-04-28,Thursday,09:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2016-04-27 21:00,NZDUSD_20160428_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_STMT,joint,2016-06-09,Thursday,09:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2016-06-08 21:00,NZDUSD_20160609_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,179,5,yes
+RATE+RBNZ_STMT,joint,2016-08-11,Thursday,09:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2016-08-10 21:00,NZDUSD_20160811_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_STMT,joint,2016-09-22,Thursday,09:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2016-09-21 21:00,NZDUSD_20160922_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,183,1,yes
+RATE+RBNZ_STMT,joint,2016-11-10,Thursday,09:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2016-11-09 20:00,NZDUSD_20161110_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_STMT,joint,2017-02-09,Thursday,09:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2017-02-08 20:00,NZDUSD_20170209_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_STMT,joint,2017-03-23,Thursday,09:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2017-03-22 20:00,NZDUSD_20170323_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,183,1,yes
+RATE+RBNZ_STMT,joint,2017-05-11,Thursday,09:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2017-05-10 21:00,NZDUSD_20170511_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,182,2,yes
+RATE+RBNZ_STMT,joint,2017-06-22,Thursday,09:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2017-06-21 21:00,NZDUSD_20170622_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,182,2,yes
+RATE+RBNZ_STMT,joint,2017-08-10,Thursday,09:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2017-08-09 21:00,NZDUSD_20170810_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,183,1,yes
+RATE+RBNZ_STMT,joint,2017-09-28,Thursday,09:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2017-09-27 20:00,NZDUSD_20170928_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,181,3,yes
+RATE+RBNZ_STMT,joint,2018-06-28,Thursday,09:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2018-06-27 21:00,NZDUSD_20180628_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_STMT,joint,2018-09-27,Thursday,09:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2018-09-26 21:00,NZDUSD_20180927_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,182,2,yes
+RATE+RBNZ_STMT,joint,2019-06-26,Wednesday,14:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2019-06-26 02:00,NZDUSD_20190626_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_STMT,joint,2019-09-25,Wednesday,14:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2019-09-25 02:00,NZDUSD_20190925_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_STMT,joint,2020-03-16,Monday,08:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2020-03-15 19:00,NZDUSD_20200316_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,27,157,no
+RATE+RBNZ_STMT,joint,2020-06-24,Wednesday,14:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2020-06-24 02:00,NZDUSD_20200624_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_STMT,joint,2020-09-23,Wednesday,14:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2020-09-23 02:00,NZDUSD_20200923_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_STMT,joint,2021-10-06,Wednesday,14:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2021-10-06 01:00,NZDUSD_20211006_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_STMT,joint,2022-04-13,Wednesday,14:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2022-04-13 02:00,NZDUSD_20220413_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_STMT,joint,2022-07-13,Wednesday,14:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2022-07-13 02:00,NZDUSD_20220713_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_STMT,joint,2022-10-05,Wednesday,14:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2022-10-05 01:00,NZDUSD_20221005_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_STMT,joint,2023-04-05,Wednesday,14:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2023-04-05 02:00,NZDUSD_20230405_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_STMT,joint,2023-07-12,Wednesday,14:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2023-07-12 02:00,NZDUSD_20230712_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_STMT,joint,2023-10-04,Wednesday,14:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2023-10-04 01:00,NZDUSD_20231004_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_STMT,joint,2024-04-10,Wednesday,14:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2024-04-10 02:00,NZDUSD_20240410_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_STMT,joint,2024-07-10,Wednesday,14:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2024-07-10 02:00,NZDUSD_20240710_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_STMT,joint,2024-10-09,Wednesday,14:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2024-10-09 01:00,NZDUSD_20241009_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_STMT,joint,2025-04-09,Wednesday,14:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2025-04-09 02:00,NZDUSD_20250409_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_STMT,joint,2025-07-09,Wednesday,14:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2025-07-09 02:00,NZDUSD_20250709_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_STMT,joint,2025-10-08,Wednesday,14:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2025-10-08 01:00,NZDUSD_20251008_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_STMT,joint,2026-04-08,Wednesday,14:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2026-04-08 02:00,NZDUSD_20260408_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,184,0,yes
+RATE+RBNZ_STMT,joint,2026-07-08,Wednesday,14:00,Official Cash Rate + RBNZ Rate Statement,NZD,RBNZ,2026-07-08 02:00,NZDUSD_20260708_NZD_RATE+RBNZ_STMT_M1.png,charts/RATE;charts/RBNZ_STMT,184,0,yes
+RBNZ_FSR,single,2016-05-11,Wednesday,09:00,RBNZ Financial Stability Report,NZD,RBNZ,2016-05-10 21:00,NZDUSD_20160511_NZD_RBNZ_Financial_Stability_Report_M1.png,charts/RBNZ_FSR,179,5,yes
+RBNZ_FSR,single,2016-11-30,Wednesday,09:00,RBNZ Financial Stability Report,NZD,RBNZ,2016-11-29 20:00,NZDUSD_20161130_NZD_RBNZ_Financial_Stability_Report_M1.png,charts/RBNZ_FSR,183,1,yes
+RBNZ_FSR,single,2017-05-31,Wednesday,09:00,RBNZ Financial Stability Report,NZD,RBNZ,2017-05-30 21:00,NZDUSD_20170531_NZD_RBNZ_Financial_Stability_Report_M1.png,charts/RBNZ_FSR,183,1,yes
+RBNZ_FSR,single,2017-11-29,Wednesday,09:00,RBNZ Financial Stability Report,NZD,RBNZ,2017-11-28 20:00,NZDUSD_20171129_NZD_RBNZ_Financial_Stability_Report_M1.png,charts/RBNZ_FSR,183,1,yes
+RBNZ_FSR,single,2018-05-30,Wednesday,09:00,RBNZ Financial Stability Report,NZD,RBNZ,2018-05-29 21:00,NZDUSD_20180530_NZD_RBNZ_Financial_Stability_Report_M1.png,charts/RBNZ_FSR,182,2,yes
+RBNZ_FSR,single,2018-11-28,Wednesday,09:00,RBNZ Financial Stability Report,NZD,RBNZ,2018-11-27 20:00,NZDUSD_20181128_NZD_RBNZ_Financial_Stability_Report_M1.png,charts/RBNZ_FSR,182,2,yes
+RBNZ_FSR,single,2019-05-29,Wednesday,09:00,RBNZ Financial Stability Report,NZD,RBNZ,2019-05-28 21:00,NZDUSD_20190529_NZD_RBNZ_Financial_Stability_Report_M1.png,charts/RBNZ_FSR,184,0,yes
+RBNZ_FSR,single,2020-05-27,Wednesday,09:00,RBNZ Financial Stability Report,NZD,RBNZ,2020-05-26 21:00,NZDUSD_20200527_NZD_RBNZ_Financial_Stability_Report_M1.png,charts/RBNZ_FSR,183,1,yes
+RBNZ_MPS+RBNZ_STMT,joint,2018-02-08,Thursday,09:00,RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2018-02-07 20:00,NZDUSD_20180208_NZD_RBNZ_MPS+RBNZ_STMT_M1.png,charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RBNZ_MPS+RBNZ_STMT,joint,2021-02-24,Wednesday,14:00,RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2021-02-24 01:00,NZDUSD_20210224_NZD_RBNZ_MPS+RBNZ_STMT_M1.png,charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RBNZ_MPS+RBNZ_STMT,joint,2021-05-26,Wednesday,14:00,RBNZ Monetary Policy Statement + RBNZ Rate Statement,NZD,RBNZ,2021-05-26 02:00,NZDUSD_20210526_NZD_RBNZ_MPS+RBNZ_STMT_M1.png,charts/RBNZ_MPS;charts/RBNZ_STMT,184,0,yes
+RBNZ_PRESS,single,2016-03-10,Thursday,09:05,RBNZ Press Conference,NZD,RBNZ,2016-03-09 20:05,NZDUSD_20160310_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2016-06-09,Thursday,11:00,RBNZ Press Conference,NZD,RBNZ,2016-06-08 23:00,NZDUSD_20160609_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2016-08-11,Thursday,10:00,RBNZ Press Conference,NZD,RBNZ,2016-08-10 22:00,NZDUSD_20160811_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2016-11-10,Thursday,10:00,RBNZ Press Conference,NZD,RBNZ,2016-11-09 21:00,NZDUSD_20161110_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,183,1,yes
+RBNZ_PRESS,single,2017-02-09,Thursday,10:00,RBNZ Press Conference,NZD,RBNZ,2017-02-08 21:00,NZDUSD_20170209_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,183,1,yes
+RBNZ_PRESS,single,2017-05-11,Thursday,10:00,RBNZ Press Conference,NZD,RBNZ,2017-05-10 22:00,NZDUSD_20170511_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,182,2,yes
+RBNZ_PRESS,single,2017-08-10,Thursday,10:00,RBNZ Press Conference,NZD,RBNZ,2017-08-09 22:00,NZDUSD_20170810_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,180,4,yes
+RBNZ_PRESS,single,2017-11-09,Thursday,10:00,RBNZ Press Conference,NZD,RBNZ,2017-11-08 21:00,NZDUSD_20171109_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,182,2,yes
+RBNZ_PRESS,single,2018-02-08,Thursday,10:00,RBNZ Press Conference,NZD,RBNZ,2018-02-07 21:00,NZDUSD_20180208_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,183,1,yes
+RBNZ_PRESS,single,2018-05-10,Thursday,10:00,RBNZ Press Conference,NZD,RBNZ,2018-05-09 22:00,NZDUSD_20180510_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,179,5,yes
+RBNZ_PRESS,single,2018-08-09,Thursday,10:00,RBNZ Press Conference,NZD,RBNZ,2018-08-08 22:00,NZDUSD_20180809_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,182,2,yes
+RBNZ_PRESS,single,2018-11-08,Thursday,10:00,RBNZ Press Conference,NZD,RBNZ,2018-11-07 21:00,NZDUSD_20181108_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,182,2,yes
+RBNZ_PRESS,single,2019-02-13,Wednesday,15:00,RBNZ Press Conference,NZD,RBNZ,2019-02-13 02:00,NZDUSD_20190213_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2019-05-08,Wednesday,15:00,RBNZ Press Conference,NZD,RBNZ,2019-05-08 03:00,NZDUSD_20190508_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2019-08-07,Wednesday,15:00,RBNZ Press Conference,NZD,RBNZ,2019-08-07 03:00,NZDUSD_20190807_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2019-11-13,Wednesday,15:00,RBNZ Press Conference,NZD,RBNZ,2019-11-13 02:00,NZDUSD_20191113_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2020-02-12,Wednesday,15:00,RBNZ Press Conference,NZD,RBNZ,2020-02-12 02:00,NZDUSD_20200212_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2020-03-16,Monday,11:00,RBNZ Press Conference,NZD,RBNZ,2020-03-15 22:00,NZDUSD_20200316_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2020-05-13,Wednesday,15:00,RBNZ Press Conference,NZD,RBNZ,2020-05-13 03:00,NZDUSD_20200513_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2020-08-12,Wednesday,15:00,RBNZ Press Conference,NZD,RBNZ,2020-08-12 03:00,NZDUSD_20200812_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2020-11-11,Wednesday,15:00,RBNZ Press Conference,NZD,RBNZ,2020-11-11 02:00,NZDUSD_20201111_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2021-02-24,Wednesday,15:00,RBNZ Press Conference,NZD,RBNZ,2021-02-24 02:00,NZDUSD_20210224_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2021-05-26,Wednesday,15:00,RBNZ Press Conference,NZD,RBNZ,2021-05-26 03:00,NZDUSD_20210526_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2021-08-18,Wednesday,15:00,RBNZ Press Conference,NZD,RBNZ,2021-08-18 03:00,NZDUSD_20210818_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2021-11-24,Wednesday,15:00,RBNZ Press Conference,NZD,RBNZ,2021-11-24 02:00,NZDUSD_20211124_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2022-02-23,Wednesday,15:00,RBNZ Press Conference,NZD,RBNZ,2022-02-23 02:00,NZDUSD_20220223_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2022-05-25,Wednesday,15:00,RBNZ Press Conference,NZD,RBNZ,2022-05-25 03:00,NZDUSD_20220525_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2022-08-17,Wednesday,15:00,RBNZ Press Conference,NZD,RBNZ,2022-08-17 03:00,NZDUSD_20220817_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2022-11-23,Wednesday,15:00,RBNZ Press Conference,NZD,RBNZ,2022-11-23 02:00,NZDUSD_20221123_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2023-02-22,Wednesday,15:00,RBNZ Press Conference,NZD,RBNZ,2023-02-22 02:00,NZDUSD_20230222_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2023-05-24,Wednesday,15:00,RBNZ Press Conference,NZD,RBNZ,2023-05-24 03:00,NZDUSD_20230524_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2023-08-16,Wednesday,15:00,RBNZ Press Conference,NZD,RBNZ,2023-08-16 03:00,NZDUSD_20230816_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2023-11-29,Wednesday,15:00,RBNZ Press Conference,NZD,RBNZ,2023-11-29 02:00,NZDUSD_20231129_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2024-11-27,Wednesday,15:00,RBNZ Press Conference,NZD,RBNZ,2024-11-27 02:00,NZDUSD_20241127_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2025-02-19,Wednesday,15:00,RBNZ Press Conference,NZD,RBNZ,2025-02-19 02:00,NZDUSD_20250219_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2025-05-28,Wednesday,15:00,RBNZ Press Conference,NZD,RBNZ,2025-05-28 03:00,NZDUSD_20250528_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2025-08-20,Wednesday,15:00,RBNZ Press Conference,NZD,RBNZ,2025-08-20 03:00,NZDUSD_20250820_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2025-11-26,Wednesday,15:00,RBNZ Press Conference,NZD,RBNZ,2025-11-26 02:00,NZDUSD_20251126_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2026-02-18,Wednesday,15:00,RBNZ Press Conference,NZD,RBNZ,2026-02-18 02:00,NZDUSD_20260218_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2026-04-08,Wednesday,15:00,RBNZ Press Conference,NZD,RBNZ,2026-04-08 03:00,NZDUSD_20260408_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2026-05-27,Wednesday,15:00,RBNZ Press Conference,NZD,RBNZ,2026-05-27 03:00,NZDUSD_20260527_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2026-07-08,Wednesday,15:00,RBNZ Press Conference,NZD,RBNZ,2026-07-08 03:00,NZDUSD_20260708_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_PRESS,single,2026-09-02,Wednesday,15:00,RBNZ Press Conference,NZD,RBNZ,2026-09-02 03:00,NZDUSD_20260902_NZD_RBNZ_Press_Conference_M1.png,charts/RBNZ_PRESS,184,0,yes
+RBNZ_STMT,single,2017-11-09,Thursday,09:00,RBNZ Rate Statement,NZD,RBNZ,2017-11-08 20:00,NZDUSD_20171109_NZD_RBNZ_Rate_Statement_M1.png,charts/RBNZ_STMT,180,4,yes
+RBNZ_STMT,single,2018-03-22,Thursday,09:00,RBNZ Rate Statement,NZD,RBNZ,2018-03-21 20:00,NZDUSD_20180322_NZD_RBNZ_Rate_Statement_M1.png,charts/RBNZ_STMT,183,1,yes
+RBNZ_STMT,single,2019-03-27,Wednesday,14:00,RBNZ Rate Statement,NZD,RBNZ,2019-03-27 01:00,NZDUSD_20190327_NZD_RBNZ_Rate_Statement_M1.png,charts/RBNZ_STMT,184,0,yes
+RBNZ_STMT,single,2021-04-14,Wednesday,14:00,RBNZ Rate Statement,NZD,RBNZ,2021-04-14 02:00,NZDUSD_20210414_NZD_RBNZ_Rate_Statement_M1.png,charts/RBNZ_STMT,183,1,yes
+RBNZ_STMT,single,2021-07-14,Wednesday,14:00,RBNZ Rate Statement,NZD,RBNZ,2021-07-14 02:00,NZDUSD_20210714_NZD_RBNZ_Rate_Statement_M1.png,charts/RBNZ_STMT,184,0,yes
+RETAIL,single,2016-02-16,Tuesday,10:45,Retail Sales q/q,NZD,Stats NZ,2016-02-15 21:45,NZDUSD_20160216_NZD_Retail_Sales_q_q_M1.png,charts/RETAIL,181,3,yes
+RETAIL,single,2016-05-13,Friday,10:45,Retail Sales q/q,NZD,Stats NZ,2016-05-12 22:45,NZDUSD_20160513_NZD_Retail_Sales_q_q_M1.png,charts/RETAIL,179,5,yes
+RETAIL,single,2016-08-12,Friday,10:45,Retail Sales q/q,NZD,Stats NZ,2016-08-11 22:45,NZDUSD_20160812_NZD_Retail_Sales_q_q_M1.png,charts/RETAIL,173,11,yes
+RETAIL,single,2017-02-17,Friday,10:45,Retail Sales q/q,NZD,Stats NZ,2017-02-16 21:45,NZDUSD_20170217_NZD_Retail_Sales_q_q_M1.png,charts/RETAIL,179,5,yes
+RETAIL,single,2017-05-15,Monday,10:45,Retail Sales q/q,NZD,Stats NZ,2017-05-14 22:45,NZDUSD_20170515_NZD_Retail_Sales_q_q_M1.png,charts/RETAIL,177,7,yes
+RETAIL,single,2017-08-14,Monday,10:45,Retail Sales q/q,NZD,Stats NZ,2017-08-13 22:45,NZDUSD_20170814_NZD_Retail_Sales_q_q_M1.png,charts/RETAIL,174,10,yes
+RETAIL,single,2017-11-23,Thursday,10:45,Retail Sales q/q,NZD,Stats NZ,2017-11-22 21:45,NZDUSD_20171123_NZD_Retail_Sales_q_q_M1.png,charts/RETAIL,179,5,yes
+RETAIL,single,2018-02-23,Friday,10:45,Retail Sales q/q,NZD,Stats NZ,2018-02-22 21:45,NZDUSD_20180223_NZD_Retail_Sales_q_q_M1.png,charts/RETAIL,178,6,yes
+RETAIL,single,2018-05-21,Monday,10:45,Retail Sales q/q,NZD,Stats NZ,2018-05-20 22:45,NZDUSD_20180521_NZD_Retail_Sales_q_q_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2018-08-22,Wednesday,10:45,Retail Sales q/q,NZD,Stats NZ,2018-08-21 22:45,NZDUSD_20180822_NZD_Retail_Sales_q_q_M1.png,charts/RETAIL,183,1,yes
+RETAIL,single,2018-11-26,Monday,10:45,Retail Sales q/q,NZD,Stats NZ,2018-11-25 21:45,NZDUSD_20181126_NZD_Retail_Sales_q_q_M1.png,charts/RETAIL,74,110,yes
+RETAIL,single,2019-02-25,Monday,10:45,Retail Sales q/q,NZD,Stats NZ,2019-02-24 21:45,NZDUSD_20190225_NZD_Retail_Sales_q_q_M1.png,charts/RETAIL,77,107,yes
+RETAIL,single,2019-05-22,Wednesday,10:45,Retail Sales q/q,NZD,Stats NZ,2019-05-21 22:45,NZDUSD_20190522_NZD_Retail_Sales_q_q_M1.png,charts/RETAIL,184,0,yes
+RETAIL,single,2019-08-23,Friday,10:45,Retail Sales q/q,NZD,Stats NZ,2019-08-22 22:45,NZDUSD_20190823_NZD_Retail_Sales_q_q_M1.png,charts/RETAIL,183,1,yes
+RETAIL,single,2020-02-24,Monday,10:45,Retail Sales q/q,NZD,Stats NZ,2020-02-23 21:45,NZDUSD_20200224_NZD_Retail_Sales_q_q_M1.png,charts/RETAIL,75,109,yes
+SPEECH,single,2016-02-03,Wednesday,13:00,RBNZ Gov Wheeler Speaks,NZD,RBNZ,2016-02-03 00:00,NZDUSD_20160203_NZD_RBNZ_Gov_Wheeler_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-03-10,Thursday,12:10,RBNZ Gov Wheeler Speaks,NZD,RBNZ,2016-03-09 23:10,NZDUSD_20160310_NZD_RBNZ_Gov_Wheeler_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-03-15,Tuesday,08:00,RBNZ Gov Wheeler Speaks,NZD,RBNZ,2016-03-14 19:00,NZDUSD_20160315_NZD_RBNZ_Gov_Wheeler_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-05-11,Wednesday,11:00,RBNZ Gov Wheeler Speaks,NZD,RBNZ,2016-05-10 23:00,NZDUSD_20160511_NZD_RBNZ_Gov_Wheeler_Speaks_1100_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-05-11,Wednesday,13:10,RBNZ Gov Wheeler Speaks,NZD,RBNZ,2016-05-11 01:10,NZDUSD_20160511_NZD_RBNZ_Gov_Wheeler_Speaks_1310_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-06-09,Thursday,13:10,RBNZ Gov Wheeler Speaks,NZD,RBNZ,2016-06-09 01:10,NZDUSD_20160609_NZD_RBNZ_Gov_Wheeler_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-08-11,Thursday,13:10,RBNZ Gov Wheeler Speaks,NZD,RBNZ,2016-08-11 01:10,NZDUSD_20160811_NZD_RBNZ_Gov_Wheeler_Speaks_M1.png,charts/SPEECH,183,1,yes
+SPEECH,single,2016-08-23,Tuesday,09:00,RBNZ Gov Wheeler Speaks,NZD,RBNZ,2016-08-22 21:00,NZDUSD_20160823_NZD_RBNZ_Gov_Wheeler_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-10-04,Tuesday,14:30,RBNZ Gov Wheeler Speaks,NZD,RBNZ,2016-10-04 01:30,NZDUSD_20161004_NZD_RBNZ_Gov_Wheeler_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-11-10,Thursday,13:10,RBNZ Gov Wheeler Speaks,NZD,RBNZ,2016-11-10 00:10,NZDUSD_20161110_NZD_RBNZ_Gov_Wheeler_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2016-11-30,Wednesday,11:00,RBNZ Gov Wheeler Speaks,NZD,RBNZ,2016-11-29 22:00,NZDUSD_20161130_NZD_RBNZ_Gov_Wheeler_Speaks_M1.png,charts/SPEECH,175,9,yes
+SPEECH,single,2016-12-07,Wednesday,11:00,RBNZ Gov Wheeler Speaks,NZD,RBNZ,2016-12-06 22:00,NZDUSD_20161207_NZD_RBNZ_Gov_Wheeler_Speaks_M1.png,charts/SPEECH,169,15,yes
+SPEECH,single,2016-12-08,Thursday,09:00,RBNZ Gov Wheeler Speaks,NZD,RBNZ,2016-12-07 20:00,NZDUSD_20161208_NZD_RBNZ_Gov_Wheeler_Speaks_M1.png,charts/SPEECH,183,1,yes
+SPEECH,single,2017-02-09,Thursday,13:10,RBNZ Gov Wheeler Speaks,NZD,RBNZ,2017-02-09 00:10,NZDUSD_20170209_NZD_RBNZ_Gov_Wheeler_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-03-02,Thursday,09:00,RBNZ Gov Wheeler Speaks,NZD,RBNZ,2017-03-01 20:00,NZDUSD_20170302_NZD_RBNZ_Gov_Wheeler_Speaks_M1.png,charts/SPEECH,182,2,yes
+SPEECH,single,2017-07-26,Wednesday,08:15,RBNZ Assist Gov McDermott Speaks,NZD,RBNZ,2017-07-25 20:15,NZDUSD_20170726_NZD_RBNZ_Assist_Gov_McDermott_Speaks_M1.png,charts/SPEECH,183,1,yes
+SPEECH,single,2017-08-30,Wednesday,13:30,RBNZ Gov Wheeler Speaks,NZD,RBNZ,2017-08-30 01:30,NZDUSD_20170830_NZD_RBNZ_Gov_Wheeler_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2017-11-29,Wednesday,13:00,RBNZ Gov Spencer Speaks,NZD,RBNZ,2017-11-29 00:00,NZDUSD_20171129_NZD_RBNZ_Gov_Spencer_Speaks_M1.png,charts/SPEECH,178,6,yes
+SPEECH,single,2017-12-05,Tuesday,13:15,RBNZ Gov Spencer Speaks,NZD,RBNZ,2017-12-05 00:15,NZDUSD_20171205_NZD_RBNZ_Gov_Spencer_Speaks_M1.png,charts/SPEECH,179,5,yes
+SPEECH,single,2018-02-08,Thursday,13:00,RBNZ Gov Spencer Speaks,NZD,RBNZ,2018-02-08 00:00,NZDUSD_20180208_NZD_RBNZ_Gov_Spencer_Speaks_M1.png,charts/SPEECH,183,1,yes
+SPEECH,single,2018-03-13,Tuesday,12:45,RBNZ Gov Spencer Speaks,NZD,RBNZ,2018-03-12 23:45,NZDUSD_20180313_NZD_RBNZ_Gov_Spencer_Speaks_M1.png,charts/SPEECH,174,10,yes
+SPEECH,single,2018-05-10,Thursday,13:10,RBNZ Gov Orr Speaks,NZD,RBNZ,2018-05-10 01:10,NZDUSD_20180510_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,183,1,yes
+SPEECH,single,2018-05-30,Wednesday,13:10,RBNZ Gov Orr Speaks,NZD,RBNZ,2018-05-30 01:10,NZDUSD_20180530_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2018-09-07,Friday,09:27,RBNZ Gov Orr Speaks,NZD,RBNZ,2018-09-06 21:27,NZDUSD_20180907_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,177,7,yes
+SPEECH,single,2018-11-28,Wednesday,11:00,RBNZ Gov Orr Speaks,NZD,RBNZ,2018-11-27 22:00,NZDUSD_20181128_NZD_RBNZ_Gov_Orr_Speaks_1100_M1.png,charts/SPEECH,175,9,yes
+SPEECH,single,2018-11-28,Wednesday,13:00,RBNZ Gov Orr Speaks,NZD,RBNZ,2018-11-28 00:00,NZDUSD_20181128_NZD_RBNZ_Gov_Orr_Speaks_1300_M1.png,charts/SPEECH,183,1,yes
+SPEECH,single,2018-11-30,Friday,14:00,RBNZ Gov Orr Speaks,NZD,RBNZ,2018-11-30 01:00,NZDUSD_20181130_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,183,1,yes
+SPEECH,single,2018-12-12,Wednesday,08:15,RBNZ Gov Orr Speaks,NZD,RBNZ,2018-12-11 19:15,NZDUSD_20181212_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-02-14,Thursday,08:10,RBNZ Gov Orr Speaks,NZD,RBNZ,2019-02-13 19:10,NZDUSD_20190214_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-03-29,Friday,09:00,RBNZ Gov Orr Speaks,NZD,RBNZ,2019-03-28 20:00,NZDUSD_20190329_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-05-29,Wednesday,11:00,RBNZ Gov Orr Speaks,NZD,RBNZ,2019-05-28 23:00,NZDUSD_20190529_NZD_RBNZ_Gov_Orr_Speaks_1100_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-05-29,Wednesday,13:10,RBNZ Gov Orr Speaks,NZD,RBNZ,2019-05-29 01:10,NZDUSD_20190529_NZD_RBNZ_Gov_Orr_Speaks_1310_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-08-08,Thursday,08:10,RBNZ Gov Orr Speaks,NZD,RBNZ,2019-08-07 20:10,NZDUSD_20190808_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-11-05,Tuesday,09:05,RBNZ Gov Orr Speaks,NZD,RBNZ,2019-11-04 20:05,NZDUSD_20191105_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-11-14,Thursday,08:10,RBNZ Gov Orr Speaks,NZD,RBNZ,2019-11-13 19:10,NZDUSD_20191114_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-11-27,Wednesday,11:00,RBNZ Gov Orr Speaks,NZD,RBNZ,2019-11-26 22:00,NZDUSD_20191127_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2019-12-05,Thursday,13:00,RBNZ Gov Orr Speaks,NZD,RBNZ,2019-12-05 00:00,NZDUSD_20191205_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-02-13,Thursday,08:10,RBNZ Gov Orr Speaks,NZD,RBNZ,2020-02-12 19:10,NZDUSD_20200213_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-02-21,Friday,12:00,RBNZ Gov Orr Speaks,NZD,RBNZ,2020-02-20 23:00,NZDUSD_20200221_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,181,3,yes
+SPEECH,single,2020-03-10,Tuesday,14:00,RBNZ Gov Orr Speaks,NZD,RBNZ,2020-03-10 01:00,NZDUSD_20200310_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-05-14,Thursday,08:10,RBNZ Gov Orr Speaks,NZD,RBNZ,2020-05-13 20:10,NZDUSD_20200514_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,182,2,yes
+SPEECH,single,2020-05-27,Wednesday,11:00,RBNZ Gov Orr Speaks,NZD,RBNZ,2020-05-26 23:00,NZDUSD_20200527_NZD_RBNZ_Gov_Orr_Speaks_1100_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-05-27,Wednesday,13:00,RBNZ Gov Orr Speaks,NZD,RBNZ,2020-05-27 01:00,NZDUSD_20200527_NZD_RBNZ_Gov_Orr_Speaks_1300_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-09-02,Wednesday,12:30,RBNZ Gov Orr Speaks,NZD,RBNZ,2020-09-02 00:30,NZDUSD_20200902_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2020-11-25,Wednesday,11:00,RBNZ Gov Orr Speaks,NZD,RBNZ,2020-11-24 22:00,NZDUSD_20201125_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,171,13,yes
+SPEECH,single,2021-02-25,Thursday,08:10,RBNZ Gov Orr Speaks,NZD,RBNZ,2021-02-24 19:10,NZDUSD_20210225_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2021-02-26,Friday,12:30,RBNZ Gov Orr Speaks,NZD,RBNZ,2021-02-25 23:30,NZDUSD_20210226_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,174,10,yes
+SPEECH,single,2021-03-04,Thursday,09:15,RBNZ Gov Orr Speaks,NZD,RBNZ,2021-03-03 20:15,NZDUSD_20210304_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,182,2,yes
+SPEECH,single,2021-06-29,Tuesday,16:10,RBNZ Gov Orr Speaks,NZD,RBNZ,2021-06-29 04:10,NZDUSD_20210629_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,182,2,yes
+SPEECH,single,2021-12-15,Wednesday,08:00,RBNZ Gov Orr Speaks,NZD,RBNZ,2021-12-14 19:00,NZDUSD_20211215_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,183,1,yes
+SPEECH,single,2022-04-19,Tuesday,08:00,RBNZ Gov Orr Speaks,NZD,RBNZ,2022-04-18 20:00,NZDUSD_20220419_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,174,10,yes
+SPEECH,single,2022-05-04,Wednesday,11:00,RBNZ Gov Orr Speaks,NZD,RBNZ,2022-05-03 23:00,NZDUSD_20220504_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,172,12,yes
+SPEECH,single,2022-05-26,Thursday,09:10,RBNZ Gov Orr Speaks,NZD,RBNZ,2022-05-25 21:10,NZDUSD_20220526_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,170,14,yes
+SPEECH,single,2022-08-26,Friday,10:30,RBNZ Gov Orr Speaks,NZD,RBNZ,2022-08-25 22:30,NZDUSD_20220826_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,177,7,yes
+SPEECH,single,2022-09-19,Monday,15:00,RBNZ Gov Orr Speaks,NZD,RBNZ,2022-09-19 03:00,NZDUSD_20220919_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-09-30,Friday,02:00,RBNZ Gov Orr Speaks,NZD,RBNZ,2022-09-29 13:00,NZDUSD_20220930_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-11-02,Wednesday,11:00,RBNZ Gov Orr Speaks,NZD,RBNZ,2022-11-01 22:00,NZDUSD_20221102_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,181,3,yes
+SPEECH,single,2022-11-03,Thursday,09:00,RBNZ Gov Orr Speaks,NZD,RBNZ,2022-11-02 20:00,NZDUSD_20221103_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,177,7,yes
+SPEECH,single,2022-11-24,Thursday,08:00,RBNZ Gov Orr Speaks,NZD,RBNZ,2022-11-23 19:00,NZDUSD_20221124_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2022-12-02,Friday,17:30,RBNZ Gov Orr Speaks,NZD,RBNZ,2022-12-02 04:30,NZDUSD_20221202_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-02-23,Thursday,08:10,RBNZ Gov Orr Speaks,NZD,RBNZ,2023-02-22 19:10,NZDUSD_20230223_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-03-03,Friday,08:06,RBNZ Gov Orr Speaks,NZD,RBNZ,2023-03-02 19:06,NZDUSD_20230303_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2023-05-03,Wednesday,13:00,RBNZ Gov Orr Speaks,NZD,RBNZ,2023-05-03 01:00,NZDUSD_20230503_NZD_RBNZ_Gov_Orr_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2025-09-11,Thursday,11:15,RBNZ Gov Hawkesby Speaks,NZD,RBNZ,2025-09-10 23:15,NZDUSD_20250911_NZD_RBNZ_Gov_Hawkesby_Speaks_M1.png,charts/SPEECH,180,4,yes
+SPEECH,single,2026-02-19,Thursday,08:10,RBNZ Gov Breman Speaks,NZD,RBNZ,2026-02-18 19:10,NZDUSD_20260219_NZD_RBNZ_Gov_Breman_Speaks_M1.png,charts/SPEECH,184,0,yes
+SPEECH,single,2026-02-20,Friday,12:00,RBNZ Gov Breman Speaks,NZD,RBNZ,2026-02-19 23:00,NZDUSD_20260220_NZD_RBNZ_Gov_Breman_Speaks_M1.png,charts/SPEECH,180,4,yes
+TRADE,single,2016-01-28,Thursday,10:45,Trade Balance,NZD,Stats NZ,2016-01-27 21:45,NZDUSD_20160128_NZD_Trade_Balance_M1.png,charts/TRADE,183,1,yes
+TRADE,single,2016-03-24,Thursday,10:45,Trade Balance,NZD,Stats NZ,2016-03-23 21:45,NZDUSD_20160324_NZD_Trade_Balance_M1.png,charts/TRADE,180,4,yes
+TRADE,single,2016-05-25,Wednesday,10:45,Trade Balance,NZD,Stats NZ,2016-05-24 22:45,NZDUSD_20160525_NZD_Trade_Balance_M1.png,charts/TRADE,170,14,yes
